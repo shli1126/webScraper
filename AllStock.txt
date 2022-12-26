@@ -1,0 +1,1450 @@
+Company name: Tesla, Inc. 
+Price: 123.15 
+Change: -2.20 
+%Change: -1.76% 
+Volume: 166.99M 
+Avg Vol(3 month): 95.491M 
+Market Cap: 388.877B 
+PE Ratio (TTM): 38.73 
+Link: https://finance.yahoo.com/quote/TSLA?p=TSLA 
+
+Company name: AMC Entertainment Holdings, Inc. 
+Price: 1.7300 
+Change: +0.5300 
+%Change: +44.17% 
+Volume: 149.792M 
+Avg Vol(3 month): 24.262M 
+Market Cap: 4.641B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/APE?p=APE 
+
+Company name: Apple Inc. 
+Price: 131.86 
+Change: -0.37 
+%Change: -0.28% 
+Volume: 63.815M 
+Avg Vol(3 month): 86.435M 
+Market Cap: 2.098T 
+PE Ratio (TTM): 21.58 
+Link: https://finance.yahoo.com/quote/AAPL?p=AAPL 
+
+Company name: Amazon.com, Inc. 
+Price: 85.25 
+Change: +1.46 
+%Change: +1.74% 
+Volume: 57.434M 
+Avg Vol(3 month): 80.072M 
+Market Cap: 869.695B 
+PE Ratio (TTM): 76.12 
+Link: https://finance.yahoo.com/quote/AMZN?p=AMZN 
+
+Company name: Advanced Micro Devices, Inc. 
+Price: 64.52 
+Change: +0.66 
+%Change: +1.03% 
+Volume: 45.923M 
+Avg Vol(3 month): 79.204M 
+Market Cap: 104.029B 
+PE Ratio (TTM): 39.10 
+Link: https://finance.yahoo.com/quote/AMD?p=AMD 
+
+Company name: Carnival Corporation & plc 
+Price: 7.81 
+Change: -0.07 
+%Change: -0.89% 
+Volume: 39.624M 
+Avg Vol(3 month): 63.675M 
+Market Cap: 10.154B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/CCL?p=CCL 
+
+Company name: Ford Motor Company 
+Price: 11.36 
+Change: +0.05 
+%Change: +0.44% 
+Volume: 38.201M 
+Avg Vol(3 month): 58.989M 
+Market Cap: 45.673B 
+PE Ratio (TTM): 5.07 
+Link: https://finance.yahoo.com/quote/F?p=F 
+
+Company name: NVIDIA Corporation 
+Price: 152.06 
+Change: -1.33 
+%Change: -0.87% 
+Volume: 34.933M 
+Avg Vol(3 month): 52.075M 
+Market Cap: 378.934B 
+PE Ratio (TTM): 40.78 
+Link: https://finance.yahoo.com/quote/NVDA?p=NVDA 
+
+Company name: NIO Inc. 
+Price: 10.97 
+Change: -0.32 
+%Change: -2.83% 
+Volume: 33.666M 
+Avg Vol(3 month): 60.544M 
+Market Cap: 18.943B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/NIO?p=NIO 
+
+Company name: AMC Entertainment Holdings, Inc. 
+Price: 4.4000 
+Change: -0.5100 
+%Change: -10.39% 
+Volume: 30.311M 
+Avg Vol(3 month): 26.927M 
+Market Cap: 2.259B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/AMC?p=AMC 
+
+Company name: Petróleo Brasileiro S.A. - Petrobras 
+Price: 11.09 
+Change: +0.59 
+%Change: +5.62% 
+Volume: 26.88M 
+Avg Vol(3 month): 39.093M 
+Market Cap: 72.33B 
+PE Ratio (TTM): 2.01 
+Link: https://finance.yahoo.com/quote/PBR?p=PBR 
+
+Company name: AT&T Inc. 
+Price: 18.31 
+Change: +0.04 
+%Change: +0.22% 
+Volume: 25.164M 
+Avg Vol(3 month): 46.151M 
+Market Cap: 130.495B 
+PE Ratio (TTM): 7.57 
+Link: https://finance.yahoo.com/quote/T?p=T 
+
+Company name: Intel Corporation 
+Price: 26.09 
+Change: +0.12 
+%Change: +0.46% 
+Volume: 23.601M 
+Avg Vol(3 month): 40.967M 
+Market Cap: 107.673B 
+PE Ratio (TTM): 8.08 
+Link: https://finance.yahoo.com/quote/INTC?p=INTC 
+
+Company name: Alphabet Inc. 
+Price: 89.23 
+Change: +1.47 
+%Change: +1.68% 
+Volume: 23.003M 
+Avg Vol(3 month): 32.391M 
+Market Cap: 1.158T 
+PE Ratio (TTM): 17.46 
+Link: https://finance.yahoo.com/quote/GOOGL?p=GOOGL 
+
+Company name: Lucid Group, Inc. 
+Price: 6.70 
+Change: -0.19 
+%Change: -2.76% 
+Volume: 22.585M 
+Avg Vol(3 month): 23.705M 
+Market Cap: 11.259B 
+PE Ratio (TTM): 6.77 
+Link: https://finance.yahoo.com/quote/LCID?p=LCID 
+
+Company name: Bank of America Corporation 
+Price: 32.47 
+Change: +0.08 
+%Change: +0.25% 
+Volume: 21.379M 
+Avg Vol(3 month): 41.743M 
+Market Cap: 260.488B 
+PE Ratio (TTM): 10.28 
+Link: https://finance.yahoo.com/quote/BAC?p=BAC 
+
+Company name: Microsoft Corporation 
+Price: 238.73 
+Change: +0.54 
+%Change: +0.23% 
+Volume: 21.207M 
+Avg Vol(3 month): 30.495M 
+Market Cap: 1.78T 
+PE Ratio (TTM): 25.70 
+Link: https://finance.yahoo.com/quote/MSFT?p=MSFT 
+
+Company name: Medical Properties Trust, Inc. 
+Price: 11.15 
+Change: -0.56 
+%Change: -4.78% 
+Volume: 21.158M 
+Avg Vol(3 month): 16.148M 
+Market Cap: 6.668B 
+PE Ratio (TTM): 5.33 
+Link: https://finance.yahoo.com/quote/MPW?p=MPW 
+
+Company name: Abiomed, Inc. 
+Price: 381.02 
+Change: 0.00 
+%Change: 0.00% 
+Volume: 15.703M 
+Avg Vol(3 month): 1.462M 
+Market Cap: 17.181B 
+PE Ratio (TTM): 65.36 
+Link: https://finance.yahoo.com/quote/ABMD?p=ABMD 
+
+Company name: Palantir Technologies Inc. 
+Price: 6.29 
+Change: -0.03 
+%Change: -0.47% 
+Volume: 20.419M 
+Avg Vol(3 month): 33.952M 
+Market Cap: 13.084B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/PLTR?p=PLTR 
+
+Company name: Banco Bradesco S.A. 
+Price: 2.9300 
+Change: +0.0600 
+%Change: +2.09% 
+Volume: 20.341M 
+Avg Vol(3 month): 42.603M 
+Market Cap: 31.229B 
+PE Ratio (TTM): 6.51 
+Link: https://finance.yahoo.com/quote/BBD?p=BBD 
+
+Company name: Gerdau S.A. 
+Price: 5.62 
+Change: -0.19 
+%Change: -3.27% 
+Volume: 20.242M 
+Avg Vol(3 month): 13.132M 
+Market Cap: 9.6B 
+PE Ratio (TTM): 3.63 
+Link: https://finance.yahoo.com/quote/GGB?p=GGB 
+
+Company name: TAL Education Group 
+Price: 8.87 
+Change: -1.21 
+%Change: -12.00% 
+Volume: 19.994M 
+Avg Vol(3 month): 8.928M 
+Market Cap: 5.755B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/TAL?p=TAL 
+
+Company name: SoFi Technologies, Inc. 
+Price: 4.6100 
+Change: +0.0300 
+%Change: +0.66% 
+Volume: 19.435M 
+Avg Vol(3 month): 42.559M 
+Market Cap: 3.686B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/SOFI?p=SOFI 
+
+Company name: Warner Bros. Discovery, Inc. 
+Price: 9.17 
+Change: -0.06 
+%Change: -0.65% 
+Volume: 19.035M 
+Avg Vol(3 month): 27.69M 
+Market Cap: 22.268B 
+PE Ratio (TTM): 5.07 
+Link: https://finance.yahoo.com/quote/WBD?p=WBD 
+
+Company name: Rivian Automotive, Inc. 
+Price: 19.14 
+Change: -0.59 
+%Change: -2.99% 
+Volume: 18.952M 
+Avg Vol(3 month): 15.054M 
+Market Cap: 16.908B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/RIVN?p=RIVN 
+
+Company name: Alibaba Group Holding Limited 
+Price: 85.65 
+Change: -2.32 
+%Change: -2.64% 
+Volume: 17.949M 
+Avg Vol(3 month): 25.817M 
+Market Cap: 235.011B 
+PE Ratio (TTM): 118.96 
+Link: https://finance.yahoo.com/quote/BABA?p=BABA 
+
+Company name: Energy Transfer LP 
+Price: 11.96 
+Change: +0.15 
+%Change: +1.27% 
+Volume: 17.927M 
+Avg Vol(3 month): 16.84M 
+Market Cap: 36.938B 
+PE Ratio (TTM): 8.93 
+Link: https://finance.yahoo.com/quote/ET?p=ET 
+
+Company name: Alphabet Inc. 
+Price: 89.81 
+Change: +1.55 
+%Change: +1.76% 
+Volume: 17.815M 
+Avg Vol(3 month): 27.187M 
+Market Cap: 1.158T 
+PE Ratio (TTM): 17.93 
+Link: https://finance.yahoo.com/quote/GOOG?p=GOOG 
+
+Company name: Meta Platforms, Inc. 
+Price: 118.04 
+Change: +0.92 
+%Change: +0.79% 
+Volume: 17.797M 
+Avg Vol(3 month): 45.667M 
+Market Cap: 313.774B 
+PE Ratio (TTM): 11.43 
+Link: https://finance.yahoo.com/quote/META?p=META 
+
+Company name: Itaú Unibanco Holding S.A. 
+Price: 4.8700 
+Change: +0.1000 
+%Change: +2.10% 
+Volume: 17.683M 
+Avg Vol(3 month): 47.353M 
+Market Cap: 47.167B 
+PE Ratio (TTM): 8.70 
+Link: https://finance.yahoo.com/quote/ITUB?p=ITUB 
+
+Company name: Micron Technology, Inc. 
+Price: 50.20 
+Change: +0.77 
+%Change: +1.56% 
+Volume: 17.426M 
+Avg Vol(3 month): 18.232M 
+Market Cap: 54.777B 
+PE Ratio (TTM): 8.93 
+Link: https://finance.yahoo.com/quote/MU?p=MU 
+
+Company name: American Airlines Group Inc. 
+Price: 12.71 
+Change: +0.15 
+%Change: +1.19% 
+Volume: 17.181M 
+Avg Vol(3 month): 30.436M 
+Market Cap: 8.26B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/AAL?p=AAL 
+
+Company name: Snap Inc. 
+Price: 8.58 
+Change: -0.10 
+%Change: -1.15% 
+Volume: 16.986M 
+Avg Vol(3 month): 42.855M 
+Market Cap: 13.84B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/SNAP?p=SNAP 
+
+Company name: Verizon Communications Inc. 
+Price: 38.41 
+Change: +0.10 
+%Change: +0.26% 
+Volume: 16.918M 
+Avg Vol(3 month): 24.534M 
+Market Cap: 161.315B 
+PE Ratio (TTM): 8.35 
+Link: https://finance.yahoo.com/quote/VZ?p=VZ 
+
+Company name: iQIYI, Inc. 
+Price: 4.6500 
+Change: +0.1000 
+%Change: +2.20% 
+Volume: 16.462M 
+Avg Vol(3 month): 15.376M 
+Market Cap: 4.005B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/IQ?p=IQ 
+
+Company name: Grab Holdings Limited 
+Price: 3.2700 
+Change: +0.2100 
+%Change: +6.86% 
+Volume: 16.31M 
+Avg Vol(3 month): 15.624M 
+Market Cap: 12.594B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/GRAB?p=GRAB 
+
+Company name: XPeng Inc. 
+Price: 10.06 
+Change: -0.77 
+%Change: -7.11% 
+Volume: 15.949M 
+Avg Vol(3 month): 35.146M 
+Market Cap: 9.187B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/XPEV?p=XPEV 
+
+Company name: Credit Suisse Group AG 
+Price: 3.1000 
+Change: +0.0100 
+%Change: +0.32% 
+Volume: 15.939M 
+Avg Vol(3 month): 22.374M 
+Market Cap: 12.281B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/CS?p=CS 
+
+Company name: Southwestern Energy Company 
+Price: 6.10 
+Change: +0.22 
+%Change: +3.74% 
+Volume: 15.389M 
+Avg Vol(3 month): 26.939M 
+Market Cap: 6.732B 
+PE Ratio (TTM): 2.48 
+Link: https://finance.yahoo.com/quote/SWN?p=SWN 
+
+Company name: Citigroup Inc. 
+Price: 44.26 
+Change: +0.27 
+%Change: +0.61% 
+Volume: 15.144M 
+Avg Vol(3 month): 18.384M 
+Market Cap: 85.725B 
+PE Ratio (TTM): 5.94 
+Link: https://finance.yahoo.com/quote/C?p=C 
+
+Company name: Lumen Technologies, Inc. 
+Price: 5.24 
+Change: +0.05 
+%Change: +0.96% 
+Volume: 14.822M 
+Avg Vol(3 month): 24.041M 
+Market Cap: 5.421B 
+PE Ratio (TTM): 2.59 
+Link: https://finance.yahoo.com/quote/LUMN?p=LUMN 
+
+Company name: Nokia Oyj 
+Price: 4.6400 
+Change: +0.0300 
+%Change: +0.65% 
+Volume: 14.381M 
+Avg Vol(3 month): 22.969M 
+Market Cap: 26.134B 
+PE Ratio (TTM): 14.50 
+Link: https://finance.yahoo.com/quote/NOK?p=NOK 
+
+Company name: Transocean Ltd. 
+Price: 4.6700 
+Change: +0.2000 
+%Change: +4.47% 
+Volume: 13.878M 
+Avg Vol(3 month): 23.948M 
+Market Cap: 3.371B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/RIG?p=RIG 
+
+Company name: Vale S.A. 
+Price: 16.69 
+Change: +0.15 
+%Change: +0.91% 
+Volume: 13.416M 
+Avg Vol(3 month): 40.746M 
+Market Cap: 77.843B 
+PE Ratio (TTM): 4.26 
+Link: https://finance.yahoo.com/quote/VALE?p=VALE 
+
+Company name: Ginkgo Bioworks Holdings, Inc. 
+Price: 1.6600 
+Change: -0.0200 
+%Change: -1.19% 
+Volume: 13.238M 
+Avg Vol(3 month): 25.387M 
+Market Cap: 3.22B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/DNA?p=DNA 
+
+Company name: Shopify Inc. 
+Price: 33.71 
+Change: -0.97 
+%Change: -2.80% 
+Volume: 13.113M 
+Avg Vol(3 month): 25.923M 
+Market Cap: 42.882B 
+PE Ratio (TTM): 259.31 
+Link: https://finance.yahoo.com/quote/SHOP?p=SHOP 
+
+Company name: Cleveland-Cliffs Inc. 
+Price: 16.90 
+Change: -0.02 
+%Change: -0.12% 
+Volume: 12.867M 
+Avg Vol(3 month): 13.334M 
+Market Cap: 8.709B 
+PE Ratio (TTM): 3.67 
+Link: https://finance.yahoo.com/quote/CLF?p=CLF 
+
+Company name: Barrick Gold Corporation 
+Price: 17.39 
+Change: +0.09 
+%Change: +0.52% 
+Volume: 12.801M 
+Avg Vol(3 month): 21.944M 
+Market Cap: 30.642B 
+PE Ratio (TTM): 16.25 
+Link: https://finance.yahoo.com/quote/GOLD?p=GOLD 
+
+Company name: Comcast Corporation 
+Price: 35.14 
+Change: +0.32 
+%Change: +0.92% 
+Volume: 12.384M 
+Avg Vol(3 month): 27.236M 
+Market Cap: 151.925B 
+PE Ratio (TTM): 29.78 
+Link: https://finance.yahoo.com/quote/CMCSA?p=CMCSA 
+
+Company name: Occidental Petroleum Corporation 
+Price: 63.95 
+Change: +2.15 
+%Change: +3.48% 
+Volume: 11.829M 
+Avg Vol(3 month): 16.28M 
+Market Cap: 58.125B 
+PE Ratio (TTM): 5.31 
+Link: https://finance.yahoo.com/quote/OXY?p=OXY 
+
+Company name: Uber Technologies, Inc. 
+Price: 24.64 
+Change: 0.00 
+%Change: 0.00% 
+Volume: 11.61M 
+Avg Vol(3 month): 24.335M 
+Market Cap: 49.142B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/UBER?p=UBER 
+
+Company name: Exxon Mobil Corporation 
+Price: 108.68 
+Change: +2.80 
+%Change: +2.64% 
+Volume: 11.539M 
+Avg Vol(3 month): 19.162M 
+Market Cap: 447.576B 
+PE Ratio (TTM): 8.87 
+Link: https://finance.yahoo.com/quote/XOM?p=XOM 
+
+Company name: The Walt Disney Company 
+Price: 88.01 
+Change: +1.34 
+%Change: +1.55% 
+Volume: 11.172M 
+Avg Vol(3 month): 14.239M 
+Market Cap: 160.494B 
+PE Ratio (TTM): 49.44 
+Link: https://finance.yahoo.com/quote/DIS?p=DIS 
+
+Company name: Affirm Holdings, Inc. 
+Price: 9.19 
+Change: +0.04 
+%Change: +0.44% 
+Volume: 10.909M 
+Avg Vol(3 month): 14.171M 
+Market Cap: 2.666B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/AFRM?p=AFRM 
+
+Company name: Roblox Corporation 
+Price: 26.75 
+Change: +0.32 
+%Change: +1.21% 
+Volume: 10.775M 
+Avg Vol(3 month): 16.852M 
+Market Cap: 16.072B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/RBLX?p=RBLX 
+
+Company name: Pfizer Inc. 
+Price: 51.83 
+Change: +0.19 
+%Change: +0.37% 
+Volume: 10.667M 
+Avg Vol(3 month): 21.295M 
+Market Cap: 290.938B 
+PE Ratio (TTM): 9.93 
+Link: https://finance.yahoo.com/quote/PFE?p=PFE 
+
+Company name: General Motors Company 
+Price: 33.83 
+Change: +0.30 
+%Change: +0.89% 
+Volume: 10.619M 
+Avg Vol(3 month): 13.828M 
+Market Cap: 48.062B 
+PE Ratio (TTM): 5.75 
+Link: https://finance.yahoo.com/quote/GM?p=GM 
+
+Company name: Nu Holdings Ltd. 
+Price: 3.8900 
+Change: +0.0300 
+%Change: +0.78% 
+Volume: 10.568M 
+Avg Vol(3 month): 29.293M 
+Market Cap: 18.227B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/NU?p=NU 
+
+Company name: Norwegian Cruise Line Holdings Ltd. 
+Price: 13.00 
+Change: -0.07 
+%Change: -0.54% 
+Volume: 10.538M 
+Avg Vol(3 month): 19.216M 
+Market Cap: 5.478B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/NCLH?p=NCLH 
+
+Company name: Ambev S.A. 
+Price: 2.8100 
+Change: +0.0500 
+%Change: +1.81% 
+Volume: 10.219M 
+Avg Vol(3 month): 30.024M 
+Market Cap: 44.234B 
+PE Ratio (TTM): 17.56 
+Link: https://finance.yahoo.com/quote/ABEV?p=ABEV 
+
+Company name: Wells Fargo & Company 
+Price: 40.98 
+Change: +0.30 
+%Change: +0.74% 
+Volume: 10.167M 
+Avg Vol(3 month): 18.608M 
+Market Cap: 156.154B 
+PE Ratio (TTM): 10.64 
+Link: https://finance.yahoo.com/quote/WFC?p=WFC 
+
+Company name: Petróleo Brasileiro S.A. - Petrobras 
+Price: 9.81 
+Change: +0.50 
+%Change: +5.37% 
+Volume: 9.994M 
+Avg Vol(3 month): 17.022M 
+Market Cap: 64.694B 
+PE Ratio (TTM): 1.88 
+Link: https://finance.yahoo.com/quote/PBR-A?p=PBR-A 
+
+Company name: PayPal Holdings, Inc. 
+Price: 69.03 
+Change: +0.46 
+%Change: +0.67% 
+Volume: 9.99M 
+Avg Vol(3 month): 15.082M 
+Market Cap: 78.696B 
+PE Ratio (TTM): 35.22 
+Link: https://finance.yahoo.com/quote/PYPL?p=PYPL 
+
+Company name: Sirius XM Holdings Inc. 
+Price: 5.84 
+Change: +0.03 
+%Change: +0.52% 
+Volume: 9.713M 
+Avg Vol(3 month): 14.864M 
+Market Cap: 22.715B 
+PE Ratio (TTM): 20.14 
+Link: https://finance.yahoo.com/quote/SIRI?p=SIRI 
+
+Company name: Paramount Global 
+Price: 16.66 
+Change: -0.28 
+%Change: -1.65% 
+Volume: 9.686M 
+Avg Vol(3 month): 12.283M 
+Market Cap: 10.927B 
+PE Ratio (TTM): 3.79 
+Link: https://finance.yahoo.com/quote/PARA?p=PARA 
+
+Company name: Cisco Systems, Inc. 
+Price: 47.48 
+Change: +0.16 
+%Change: +0.34% 
+Volume: 9.554M 
+Avg Vol(3 month): 19.906M 
+Market Cap: 195.053B 
+PE Ratio (TTM): 17.14 
+Link: https://finance.yahoo.com/quote/CSCO?p=CSCO 
+
+Company name: Mitsubishi UFJ Financial Group, Inc. 
+Price: 6.63 
+Change: +0.11 
+%Change: +1.69% 
+Volume: 9.412M 
+Avg Vol(3 month): 3.48M 
+Market Cap: 87.263B 
+PE Ratio (TTM): 18.94 
+Link: https://finance.yahoo.com/quote/MUFG?p=MUFG 
+
+Company name: Marathon Oil Corporation 
+Price: 27.44 
+Change: +0.74 
+%Change: +2.77% 
+Volume: 9.4M 
+Avg Vol(3 month): 12.436M 
+Market Cap: 17.426B 
+PE Ratio (TTM): 5.27 
+Link: https://finance.yahoo.com/quote/MRO?p=MRO 
+
+Company name: Kinder Morgan, Inc. 
+Price: 18.14 
+Change: +0.40 
+%Change: +2.25% 
+Volume: 9.304M 
+Avg Vol(3 month): 17.838M 
+Market Cap: 40.774B 
+PE Ratio (TTM): 16.34 
+Link: https://finance.yahoo.com/quote/KMI?p=KMI 
+
+Company name: ChargePoint Holdings, Inc. 
+Price: 8.55 
+Change: -0.35 
+%Change: -3.93% 
+Volume: 9.163M 
+Avg Vol(3 month): 8.6M 
+Market Cap: 2.921B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/CHPT?p=CHPT 
+
+Company name: Lufax Holding Ltd 
+Price: 2.0100 
+Change: -0.0600 
+%Change: -2.90% 
+Volume: 9.069M 
+Avg Vol(3 month): 17.49M 
+Market Cap: 4.594B 
+PE Ratio (TTM): 2.68 
+Link: https://finance.yahoo.com/quote/LU?p=LU 
+
+Company name: Huntington Bancshares Incorporated 
+Price: 14.05 
+Change: +0.14 
+%Change: +1.01% 
+Volume: 9.063M 
+Avg Vol(3 month): 18.155M 
+Market Cap: 20.27B 
+PE Ratio (TTM): 10.81 
+Link: https://finance.yahoo.com/quote/HBAN?p=HBAN 
+
+Company name: AGNC Investment Corp. 
+Price: 10.71 
+Change: +0.06 
+%Change: +0.56% 
+Volume: 9.054M 
+Avg Vol(3 month): 16.126M 
+Market Cap: 6.122B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/AGNC?p=AGNC 
+
+Company name: Telefonaktiebolaget LM Ericsson (publ) 
+Price: 5.89 
+Change: +0.06 
+%Change: +1.03% 
+Volume: 9.052M 
+Avg Vol(3 month): 11.113M 
+Market Cap: 19.637B 
+PE Ratio (TTM): 9.06 
+Link: https://finance.yahoo.com/quote/ERIC?p=ERIC 
+
+Company name: Plug Power Inc. 
+Price: 12.34 
+Change: -0.21 
+%Change: -1.67% 
+Volume: 8.968M 
+Avg Vol(3 month): 17.158M 
+Market Cap: 7.193B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/PLUG?p=PLUG 
+
+Company name: Li Auto Inc. 
+Price: 18.77 
+Change: -1.66 
+%Change: -8.13% 
+Volume: 8.861M 
+Avg Vol(3 month): 13.25M 
+Market Cap: 19.913B 
+PE Ratio (TTM): 1,877.00 
+Link: https://finance.yahoo.com/quote/LI?p=LI 
+
+Company name: PG&E Corporation 
+Price: 16.06 
+Change: +0.11 
+%Change: +0.69% 
+Volume: 8.482M 
+Avg Vol(3 month): 27.689M 
+Market Cap: 34.091B 
+PE Ratio (TTM): 18.89 
+Link: https://finance.yahoo.com/quote/PCG?p=PCG 
+
+Company name: DiDi Global Inc. 
+Price: 3.6700 
+Change: +0.0100 
+%Change: +0.27% 
+Volume: 8.406M 
+Avg Vol(3 month): 8.812M 
+Market Cap: 17.814B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/DIDIY?p=DIDIY 
+
+Company name: Kinross Gold Corporation 
+Price: 4.1700 
+Change: +0.0200 
+%Change: +0.48% 
+Volume: 8.378M 
+Avg Vol(3 month): 17.855M 
+Market Cap: 5.36B 
+PE Ratio (TTM): 16.68 
+Link: https://finance.yahoo.com/quote/KGC?p=KGC 
+
+Company name: Hewlett Packard Enterprise Company 
+Price: 15.75 
+Change: +0.04 
+%Change: +0.25% 
+Volume: 8.329M 
+Avg Vol(3 month): 14.523M 
+Market Cap: 20.189B 
+PE Ratio (TTM): 23.86 
+Link: https://finance.yahoo.com/quote/HPE?p=HPE 
+
+Company name: Yamana Gold Inc. 
+Price: 5.64 
+Change: +0.03 
+%Change: +0.53% 
+Volume: 8.255M 
+Avg Vol(3 month): 20.933M 
+Market Cap: 5.42B 
+PE Ratio (TTM): 20.89 
+Link: https://finance.yahoo.com/quote/AUY?p=AUY 
+
+Company name: Coinbase Global, Inc. 
+Price: 35.49 
+Change: +0.90 
+%Change: +2.60% 
+Volume: 8.223M 
+Avg Vol(3 month): 14.291M 
+Market Cap: 9.295B 
+PE Ratio (TTM): 3.63 
+Link: https://finance.yahoo.com/quote/COIN?p=COIN 
+
+Company name: DraftKings Inc. 
+Price: 11.53 
+Change: -0.07 
+%Change: -0.60% 
+Volume: 8.163M 
+Avg Vol(3 month): 19.24M 
+Market Cap: 5.175B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/DKNG?p=DKNG 
+
+Company name: Hanesbrands Inc. 
+Price: 6.10 
+Change: +0.18 
+%Change: +3.04% 
+Volume: 8.091M 
+Avg Vol(3 month): 9.944M 
+Market Cap: 2.129B 
+PE Ratio (TTM): 6.04 
+Link: https://finance.yahoo.com/quote/HBI?p=HBI 
+
+Company name: Schlumberger Limited 
+Price: 52.99 
+Change: +1.60 
+%Change: +3.11% 
+Volume: 8.082M 
+Avg Vol(3 month): 13.941M 
+Market Cap: 75.139B 
+PE Ratio (TTM): 25.60 
+Link: https://finance.yahoo.com/quote/SLB?p=SLB 
+
+Company name: B2Gold Corp. 
+Price: 3.5600 
+Change: +0.0100 
+%Change: +0.28% 
+Volume: 7.868M 
+Avg Vol(3 month): 10.377M 
+Market Cap: 3.825B 
+PE Ratio (TTM): 16.18 
+Link: https://finance.yahoo.com/quote/BTG?p=BTG 
+
+Company name: Lyft, Inc. 
+Price: 10.21 
+Change: +0.11 
+%Change: +1.09% 
+Volume: 7.837M 
+Avg Vol(3 month): 15.764M 
+Market Cap: 3.685B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/LYFT?p=LYFT 
+
+Company name: Peloton Interactive, Inc. 
+Price: 8.89 
+Change: -0.32 
+%Change: -3.47% 
+Volume: 7.654M 
+Avg Vol(3 month): 14.107M 
+Market Cap: 3.023B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/PTON?p=PTON 
+
+Company name: Nutanix, Inc. 
+Price: 25.69 
+Change: -2.23 
+%Change: -7.99% 
+Volume: 7.6M 
+Avg Vol(3 month): 2.614M 
+Market Cap: 5.912B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/NTNX?p=NTNX 
+
+Company name: Taiwan Semiconductor Manufacturing Company Limited 
+Price: 74.89 
+Change: -0.39 
+%Change: -0.52% 
+Volume: 7.453M 
+Avg Vol(3 month): 15.545M 
+Market Cap: 388.386B 
+PE Ratio (TTM): 13.52 
+Link: https://finance.yahoo.com/quote/TSM?p=TSM 
+
+Company name: CVS Health Corporation 
+Price: 93.56 
+Change: +0.16 
+%Change: +0.17% 
+Volume: 7.307M 
+Avg Vol(3 month): 6.191M 
+Market Cap: 122.935B 
+PE Ratio (TTM): 39.48 
+Link: https://finance.yahoo.com/quote/CVS?p=CVS 
+
+Company name: Block, Inc. 
+Price: 60.89 
+Change: +0.30 
+%Change: +0.50% 
+Volume: 7.282M 
+Avg Vol(3 month): 13.334M 
+Market Cap: 36.417B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/SQ?p=SQ 
+
+Company name: The Gap, Inc. 
+Price: 12.06 
+Change: +0.29 
+%Change: +2.46% 
+Volume: 7.084M 
+Avg Vol(3 month): 8.548M 
+Market Cap: 4.402B 
+PE Ratio (TTM): 80.40 
+Link: https://finance.yahoo.com/quote/GPS?p=GPS 
+
+Company name: Bristol-Myers Squibb Company 
+Price: 72.89 
+Change: -0.94 
+%Change: -1.27% 
+Volume: 7.03M 
+Avg Vol(3 month): 9.436M 
+Market Cap: 154.976B 
+PE Ratio (TTM): 23.74 
+Link: https://finance.yahoo.com/quote/BMY?p=BMY 
+
+Company name: ICICI Bank Limited 
+Price: 21.56 
+Change: -0.14 
+%Change: -0.65% 
+Volume: 6.964M 
+Avg Vol(3 month): 8.265M 
+Market Cap: 75.203B 
+PE Ratio (TTM): 21.56 
+Link: https://finance.yahoo.com/quote/IBN?p=IBN 
+
+Company name: U.S. Bancorp 
+Price: 43.20 
+Change: +0.35 
+%Change: +0.82% 
+Volume: 6.931M 
+Avg Vol(3 month): 10.557M 
+Market Cap: 66.106B 
+PE Ratio (TTM): 10.31 
+Link: https://finance.yahoo.com/quote/USB?p=USB 
+
+Company name: CSX Corporation 
+Price: 31.25 
+Change: +0.28 
+%Change: +0.90% 
+Volume: 6.855M 
+Avg Vol(3 month): 15.631M 
+Market Cap: 65.7B 
+PE Ratio (TTM): 16.62 
+Link: https://finance.yahoo.com/quote/CSX?p=CSX 
+
+Company name: ASE Technology Holding Co., Ltd. 
+Price: 6.34 
+Change: -0.02 
+%Change: -0.31% 
+Volume: 6.817M 
+Avg Vol(3 month): 9.185M 
+Market Cap: 13.592B 
+PE Ratio (TTM): 5.93 
+Link: https://finance.yahoo.com/quote/ASX?p=ASX 
+
+Company name: Coterra Energy Inc. 
+Price: 25.20 
+Change: +0.69 
+%Change: +2.82% 
+Volume: 6.797M 
+Avg Vol(3 month): 9.566M 
+Market Cap: 19.869B 
+PE Ratio (TTM): 4.57 
+Link: https://finance.yahoo.com/quote/CTRA?p=CTRA 
+
+Company name: Altria Group, Inc. 
+Price: 46.24 
+Change: +0.46 
+%Change: +1.00% 
+Volume: 6.76M 
+Avg Vol(3 month): 8.413M 
+Market Cap: 82.87B 
+PE Ratio (TTM): 17.99 
+Link: https://finance.yahoo.com/quote/MO?p=MO 
+
+Company name: Unity Software Inc. 
+Price: 27.63 
+Change: +0.22 
+%Change: +0.80% 
+Volume: 6.693M 
+Avg Vol(3 month): 11.603M 
+Market Cap: 11.136B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/U?p=U 
+
+Company name: CarMax, Inc. 
+Price: 60.16 
+Change: +2.96 
+%Change: +5.17% 
+Volume: 6.668M 
+Avg Vol(3 month): 3.011M 
+Market Cap: 9.506B 
+PE Ratio (TTM): 11.50 
+Link: https://finance.yahoo.com/quote/KMX?p=KMX 
+
+Company name: Viatris Inc. 
+Price: 11.01 
+Change: +0.26 
+%Change: +2.42% 
+Volume: 6.654M 
+Avg Vol(3 month): 9.481M 
+Market Cap: 13.352B 
+PE Ratio (TTM): 16.19 
+Link: https://finance.yahoo.com/quote/VTRS?p=VTRS 
+
+Company name: NIKE, Inc. 
+Price: 116.25 
+Change: -0.46 
+%Change: -0.39% 
+Volume: 6.604M 
+Avg Vol(3 month): 9.828M 
+Market Cap: 181.884B 
+PE Ratio (TTM): 32.84 
+Link: https://finance.yahoo.com/quote/NKE?p=NKE 
+
+Company name: Freeport-McMoRan Inc. 
+Price: 38.10 
+Change: +0.43 
+%Change: +1.14% 
+Volume: 6.598M 
+Avg Vol(3 month): 14.643M 
+Market Cap: 54.457B 
+PE Ratio (TTM): 14.27 
+Link: https://finance.yahoo.com/quote/FCX?p=FCX 
+
+Company name: Tencent Music Entertainment Group 
+Price: 8.06 
+Change: -0.24 
+%Change: -2.89% 
+Volume: 6.489M 
+Avg Vol(3 month): 12.535M 
+Market Cap: 14.025B 
+PE Ratio (TTM): 31.00 
+Link: https://finance.yahoo.com/quote/TME?p=TME 
+
+Company name: JetBlue Airways Corporation 
+Price: 6.45 
+Change: +0.07 
+%Change: +1.10% 
+Volume: 6.488M 
+Avg Vol(3 month): 10.91M 
+Market Cap: 2.089B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/JBLU?p=JBLU 
+
+Company name: The Coca-Cola Company 
+Price: 63.82 
+Change: +0.48 
+%Change: +0.76% 
+Volume: 6.463M 
+Avg Vol(3 month): 14.105M 
+Market Cap: 275.99B 
+PE Ratio (TTM): 27.99 
+Link: https://finance.yahoo.com/quote/KO?p=KO 
+
+Company name: Elanco Animal Health Incorporated 
+Price: 11.71 
+Change: +0.22 
+%Change: +1.91% 
+Volume: 6.463M 
+Avg Vol(3 month): 6.787M 
+Market Cap: 5.553B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/ELAN?p=ELAN 
+
+Company name: V.F. Corporation 
+Price: 26.07 
+Change: -0.14 
+%Change: -0.53% 
+Volume: 6.404M 
+Avg Vol(3 month): 7.194M 
+Market Cap: 10.13B 
+PE Ratio (TTM): 24.14 
+Link: https://finance.yahoo.com/quote/VFC?p=VFC 
+
+Company name: Moderna, Inc. 
+Price: 199.08 
+Change: -9.26 
+%Change: -4.44% 
+Volume: 6.166M 
+Avg Vol(3 month): 5.502M 
+Market Cap: 76.483B 
+PE Ratio (TTM): 7.51 
+Link: https://finance.yahoo.com/quote/MRNA?p=MRNA 
+
+Company name: Devon Energy Corporation 
+Price: 62.51 
+Change: +2.40 
+%Change: +3.99% 
+Volume: 6.1M 
+Avg Vol(3 month): 10.437M 
+Market Cap: 40.863B 
+PE Ratio (TTM): 6.57 
+Link: https://finance.yahoo.com/quote/DVN?p=DVN 
+
+Company name: Marvell Technology, Inc. 
+Price: 37.19 
+Change: +0.12 
+%Change: +0.32% 
+Volume: 6.098M 
+Avg Vol(3 month): 12.091M 
+Market Cap: 31.731B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/MRVL?p=MRVL 
+
+Company name: Koninklijke Philips N.V. 
+Price: 14.91 
+Change: +0.44 
+%Change: +3.04% 
+Volume: 6.086M 
+Avg Vol(3 month): 3.315M 
+Market Cap: 13.201B 
+PE Ratio (TTM): 33.89 
+Link: https://finance.yahoo.com/quote/PHG?p=PHG 
+
+Company name: Chevron Corporation 
+Price: 177.40 
+Change: +5.32 
+%Change: +3.09% 
+Volume: 6.079M 
+Avg Vol(3 month): 8.193M 
+Market Cap: 343.028B 
+PE Ratio (TTM): 10.09 
+Link: https://finance.yahoo.com/quote/CVX?p=CVX 
+
+Company name: Halliburton Company 
+Price: 39.09 
+Change: +1.55 
+%Change: +4.13% 
+Volume: 6.041M 
+Avg Vol(3 month): 10.768M 
+Market Cap: 35.496B 
+PE Ratio (TTM): 20.25 
+Link: https://finance.yahoo.com/quote/HAL?p=HAL 
+
+Company name: Pinterest, Inc. 
+Price: 24.53 
+Change: -0.19 
+%Change: -0.77% 
+Volume: 5.995M 
+Avg Vol(3 month): 13.158M 
+Market Cap: 16.637B 
+PE Ratio (TTM): 272.56 
+Link: https://finance.yahoo.com/quote/PINS?p=PINS 
+
+Company name: Macy's, Inc. 
+Price: 20.30 
+Change: +0.28 
+%Change: +1.40% 
+Volume: 5.977M 
+Avg Vol(3 month): 10.347M 
+Market Cap: 5.504B 
+PE Ratio (TTM): 4.27 
+Link: https://finance.yahoo.com/quote/M?p=M 
+
+Company name: Delta Air Lines, Inc. 
+Price: 33.16 
+Change: +0.24 
+%Change: +0.73% 
+Volume: 5.956M 
+Avg Vol(3 month): 10.189M 
+Market Cap: 21.262B 
+PE Ratio (TTM): 255.08 
+Link: https://finance.yahoo.com/quote/DAL?p=DAL 
+
+Company name: United Microelectronics Corporation 
+Price: 6.74 
+Change: -0.06 
+%Change: -0.88% 
+Volume: 5.92M 
+Avg Vol(3 month): 10.139M 
+Market Cap: 17.017B 
+PE Ratio (TTM): 6.48 
+Link: https://finance.yahoo.com/quote/UMC?p=UMC 
+
+Company name: Vodafone Group Public Limited Company 
+Price: 10.12 
+Change: +0.04 
+%Change: +0.40% 
+Volume: 5.914M 
+Avg Vol(3 month): 8.649M 
+Market Cap: 27.659B 
+PE Ratio (TTM): 13.14 
+Link: https://finance.yahoo.com/quote/VOD?p=VOD 
+
+Company name: Salesforce, Inc. 
+Price: 129.44 
+Change: +0.25 
+%Change: +0.19% 
+Volume: 5.821M 
+Avg Vol(3 month): 8.846M 
+Market Cap: 129.44B 
+PE Ratio (TTM): 497.85 
+Link: https://finance.yahoo.com/quote/CRM?p=CRM 
+
+Company name: Sprott Physical Silver Trust 
+Price: 8.12 
+Change: +0.04 
+%Change: +0.50% 
+Volume: 5.667M 
+Avg Vol(3 month): 4.649M 
+Market Cap: 3.769B 
+PE Ratio (TTM): 81.20 
+Link: https://finance.yahoo.com/quote/PSLV?p=PSLV 
+
+Company name: Full Truck Alliance Co. Ltd. 
+Price: 8.14 
+Change: -0.44 
+%Change: -5.13% 
+Volume: 5.666M 
+Avg Vol(3 month): 6.93M 
+Market Cap: 9.022B 
+PE Ratio (TTM): 10.57 
+Link: https://finance.yahoo.com/quote/YMM?p=YMM 
+
+Company name: Baker Hughes Company 
+Price: 29.10 
+Change: +0.74 
+%Change: +2.61% 
+Volume: 5.648M 
+Avg Vol(3 month): 8.599M 
+Market Cap: 29.346B 
+PE Ratio (TTM): 72.75 
+Link: https://finance.yahoo.com/quote/BKR?p=BKR 
+
+Company name: Hecla Mining Company 
+Price: 5.50 
+Change: +0.01 
+%Change: +0.18% 
+Volume: 5.553M 
+Avg Vol(3 month): 8.801M 
+Market Cap: 3.334B 
+PE Ratio (TTM): 183.33 
+Link: https://finance.yahoo.com/quote/HL?p=HL 
+
+Company name: QUALCOMM Incorporated 
+Price: 110.84 
+Change: +0.16 
+%Change: +0.14% 
+Volume: 5.357M 
+Avg Vol(3 month): 8.432M 
+Market Cap: 124.252B 
+PE Ratio (TTM): 9.71 
+Link: https://finance.yahoo.com/quote/QCOM?p=QCOM 
+
+Company name: Coupa Software Incorporated 
+Price: 78.43 
+Change: -0.02 
+%Change: -0.03% 
+Volume: 5.344M 
+Avg Vol(3 month): 3.91M 
+Market Cap: 5.973B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/COUP?p=COUP 
+
+Company name: APA Corporation 
+Price: 47.25 
+Change: +2.56 
+%Change: +5.73% 
+Volume: 5.331M 
+Avg Vol(3 month): 7.433M 
+Market Cap: 15.191B 
+PE Ratio (TTM): 4.47 
+Link: https://finance.yahoo.com/quote/APA?p=APA 
+
+Company name: KeyCorp 
+Price: 17.18 
+Change: +0.11 
+%Change: +0.64% 
+Volume: 5.318M 
+Avg Vol(3 month): 11.617M 
+Market Cap: 16.028B 
+PE Ratio (TTM): 7.88 
+Link: https://finance.yahoo.com/quote/KEY?p=KEY 
+
+Company name: New York Community Bancorp, Inc. 
+Price: 8.62 
+Change: +0.02 
+%Change: +0.23% 
+Volume: 5.312M 
+Avg Vol(3 month): 12.798M 
+Market Cap: 5.871B 
+PE Ratio (TTM): 6.84 
+Link: https://finance.yahoo.com/quote/NYCB?p=NYCB 
+
+Company name: The Williams Companies, Inc. 
+Price: 33.32 
+Change: +0.75 
+%Change: +2.30% 
+Volume: 5.308M 
+Avg Vol(3 month): 6.783M 
+Market Cap: 40.595B 
+PE Ratio (TTM): 20.32 
+Link: https://finance.yahoo.com/quote/WMB?p=WMB 
+
+Company name: Robinhood Markets, Inc. 
+Price: 7.95 
+Change: -0.04 
+%Change: -0.50% 
+Volume: 5.244M 
+Avg Vol(3 month): 10.141M 
+Market Cap: 6.644B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/HOOD?p=HOOD 
+
+Company name: Algonquin Power & Utilities Corp. 
+Price: 6.76 
+Change: +0.17 
+%Change: +2.58% 
+Volume: 5.225M 
+Avg Vol(3 month): 6.051M 
+Market Cap: 4.62B 
+PE Ratio (TTM): 96.57 
+Link: https://finance.yahoo.com/quote/AQN?p=AQN 
+
+Company name: Bilibili Inc. 
+Price: 23.17 
+Change: -0.43 
+%Change: -1.82% 
+Volume: 5.217M 
+Avg Vol(3 month): 11.708M 
+Market Cap: 8.872B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/BILI?p=BILI 
+
+Company name: BP p.l.c. 
+Price: 35.01 
+Change: +0.60 
+%Change: +1.74% 
+Volume: 5.192M 
+Avg Vol(3 month): 9.577M 
+Market Cap: 105.594B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/BP?p=BP 
+
+Company name: Companhia Energética de Minas Gerais 
+Price: 2.1300 
+Change: +0.0644 
+%Change: +3.12% 
+Volume: 5.157M 
+Avg Vol(3 month): 9.008M 
+Market Cap: 5.45B 
+PE Ratio (TTM): 8.52 
+Link: https://finance.yahoo.com/quote/CIG?p=CIG 
+
+Company name: JPMorgan Chase & Co. 
+Price: 131.28 
+Change: +0.62 
+%Change: +0.47% 
+Volume: 5.092M 
+Avg Vol(3 month): 12.247M 
+Market Cap: 385.07B 
+PE Ratio (TTM): 11.08 
+Link: https://finance.yahoo.com/quote/JPM?p=JPM 
+
+Company name: Amcor plc 
+Price: 12.06 
+Change: +0.08 
+%Change: +0.67% 
+Volume: 5.088M 
+Avg Vol(3 month): 7.774M 
+Market Cap: 17.958B 
+PE Ratio (TTM): 21.54 
+Link: https://finance.yahoo.com/quote/AMCR?p=AMCR 
+
+Company name: JD.com, Inc. 
+Price: 56.44 
+Change: -1.23 
+%Change: -2.13% 
+Volume: 5.042M 
+Avg Vol(3 month): 9.926M 
+Market Cap: 103.994B 
+PE Ratio (TTM): 352.75 
+Link: https://finance.yahoo.com/quote/JD?p=JD 
+
+Company name: Teva Pharmaceutical Industries Limited 
+Price: 9.24 
+Change: +0.08 
+%Change: +0.87% 
+Volume: 5.026M 
+Avg Vol(3 month): 9.232M 
+Market Cap: 10.418B 
+PE Ratio (TTM): N/A 
+Link: https://finance.yahoo.com/quote/TEVA?p=TEVA 
+
+Company name: RLX Technology Inc. 
+Price: 2.5100 
+Change: -0.0300 
+%Change: -1.18% 
+Volume: 5.013M 
+Avg Vol(3 month): 15.655M 
+Market Cap: 3.885B 
+PE Ratio (TTM): 10.91 
+Link: https://finance.yahoo.com/quote/RLX?p=RLX 
+
+Company name: Under Armour, Inc. 
+Price: 9.77 
+Change: +0.10 
+%Change: +1.03% 
+Volume: 5.011M 
+Avg Vol(3 month): 9.239M 
+Market Cap: 4.15B 
+PE Ratio (TTM): 20.79 
+Link: https://finance.yahoo.com/quote/UAA?p=UAA 
+
+Company name: ConocoPhillips 
+Price: 117.05 
+Change: +4.85 
+%Change: +4.32% 
+Volume: 5.002M 
+Avg Vol(3 month): 6.993M 
+Market Cap: 145.852B 
+PE Ratio (TTM): 8.41 
+Link: https://finance.yahoo.com/quote/COP?p=COP 
+
