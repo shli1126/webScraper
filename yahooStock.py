@@ -40,15 +40,11 @@ def scrapStock():
             stocks = stock_table.find_all('tr')
 
             for stock in stocks:
-                # print(rate)
-                # print(type(rate))
                 if rate == '1':
-                    # print(stock.find_all('td')[3].text[0])
-                    # print(type(stock.find_all('td')[3].text[0]))
                     if stock.find_all('td')[3].text[0] == '+':
                         path = stock.find_all('td')[0].find('a')['href']
                         final_url = f"https://finance.yahoo.com{path}"
-                        file.write(f"Company name: {stock.find_all('td')[1].text} \n")
+                        file.write(f"Stock name: {stock.find_all('td')[1].text} \n")
                         file.write(f"Price: {stock.find_all('td')[2].text} \n")
                         file.write(f"Change: {stock.find_all('td')[3].text} \n")
                         file.write(f"%Change: {stock.find_all('td')[4].text} \n")
@@ -64,7 +60,7 @@ def scrapStock():
                     if stock.find_all('td')[3].text[0] == '-':
                         path = stock.find_all('td')[0].find('a')['href']
                         final_url = f"https://finance.yahoo.com{path}"
-                        file.write(f"Company name: {stock.find_all('td')[1].text} \n")
+                        file.write(f"Stock name: {stock.find_all('td')[1].text} \n")
                         file.write(f"Price: {stock.find_all('td')[2].text} \n")
                         file.write(f"Change: {stock.find_all('td')[3].text} \n")
                         file.write(f"%Change: {stock.find_all('td')[4].text} \n")
@@ -79,7 +75,7 @@ def scrapStock():
                 else:
                     path = stock.find_all('td')[0].find('a')['href']
                     final_url = f"https://finance.yahoo.com{path}"
-                    file.write(f"Company name: {stock.find_all('td')[1].text} \n")
+                    file.write(f"Stock name: {stock.find_all('td')[1].text} \n")
                     file.write(f"Price: {stock.find_all('td')[2].text} \n")
                     file.write(f"Change: {stock.find_all('td')[3].text} \n")
                     file.write(f"%Change: {stock.find_all('td')[4].text} \n")

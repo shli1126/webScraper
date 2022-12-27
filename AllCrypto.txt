@@ -1,0 +1,4153 @@
+Crypto name: Bitcoin USD 
+Price: 16,889.74 
+Change: +27.39 
+%Change: +0.16% 
+Market Cap: 325.03B 
+Volume in Currency (Since 0:00 UTC): 12.439B 
+Volume in Currency (24Hr): 12.439B 
+Total Volume All Currencies (24Hr): 12.439B 
+Circulating Supply: 19.244M 
+Link: https://finance.yahoo.com/quote/BTC-USD?p=BTC-USD 
+
+Crypto name: Ethereum USD 
+Price: 1,223.71 
+Change: +3.29 
+%Change: +0.27% 
+Market Cap: 149.75B 
+Volume in Currency (Since 0:00 UTC): 3.411B 
+Volume in Currency (24Hr): 3.411B 
+Total Volume All Currencies (24Hr): 3.411B 
+Circulating Supply: 122.374M 
+Link: https://finance.yahoo.com/quote/ETH-USD?p=ETH-USD 
+
+Crypto name: Tether USD 
+Price: 0.999883 
+Change: -0.000033 
+%Change: -0.00% 
+Market Cap: 66.24B 
+Volume in Currency (Since 0:00 UTC): 15.649B 
+Volume in Currency (24Hr): 15.649B 
+Total Volume All Currencies (24Hr): 15.649B 
+Circulating Supply: 66.248B 
+Link: https://finance.yahoo.com/quote/USDT-USD?p=USDT-USD 
+
+Crypto name: USD Coin USD 
+Price: 1.0001 
+Change: +0.0001 
+%Change: +0.01% 
+Market Cap: 44.51B 
+Volume in Currency (Since 0:00 UTC): 1.546B 
+Volume in Currency (24Hr): 1.546B 
+Total Volume All Currencies (24Hr): 1.546B 
+Circulating Supply: 44.505B 
+Link: https://finance.yahoo.com/quote/USDC-USD?p=USDC-USD 
+
+Crypto name: BNB USD 
+Price: 243.58 
+Change: +0.07 
+%Change: +0.03% 
+Market Cap: 38.965B 
+Volume in Currency (Since 0:00 UTC): 284.458M 
+Volume in Currency (24Hr): 284.458M 
+Total Volume All Currencies (24Hr): 284.458M 
+Circulating Supply: 159.966M 
+Link: https://finance.yahoo.com/quote/BNB-USD?p=BNB-USD 
+
+Crypto name: XRP USD 
+Price: 0.368430 
+Change: +0.017597 
+%Change: +5.02% 
+Market Cap: 18.548B 
+Volume in Currency (Since 0:00 UTC): 952.858M 
+Volume in Currency (24Hr): 952.858M 
+Total Volume All Currencies (24Hr): 952.858M 
+Circulating Supply: 50.344B 
+Link: https://finance.yahoo.com/quote/XRP-USD?p=XRP-USD 
+
+Crypto name: Binance USD USD 
+Price: 1.0002 
+Change: +0.0000 
+%Change: +0.00% 
+Market Cap: 17.304B 
+Volume in Currency (Since 0:00 UTC): 3.114B 
+Volume in Currency (24Hr): 3.114B 
+Total Volume All Currencies (24Hr): 3.114B 
+Circulating Supply: 17.301B 
+Link: https://finance.yahoo.com/quote/BUSD-USD?p=BUSD-USD 
+
+Crypto name: Dogecoin USD 
+Price: 0.075199 
+Change: -0.000546 
+%Change: -0.72% 
+Market Cap: 9.977B 
+Volume in Currency (Since 0:00 UTC): 246.034M 
+Volume in Currency (24Hr): 246.034M 
+Total Volume All Currencies (24Hr): 246.034M 
+Circulating Supply: 132.671B 
+Link: https://finance.yahoo.com/quote/DOGE-USD?p=DOGE-USD 
+
+Crypto name: Cardano USD 
+Price: 0.264066 
+Change: +0.004590 
+%Change: +1.77% 
+Market Cap: 9.113B 
+Volume in Currency (Since 0:00 UTC): 134.526M 
+Volume in Currency (24Hr): 134.526M 
+Total Volume All Currencies (24Hr): 134.526M 
+Circulating Supply: 34.51B 
+Link: https://finance.yahoo.com/quote/ADA-USD?p=ADA-USD 
+
+Crypto name: Polygon USD 
+Price: 0.814889 
+Change: +0.014438 
+%Change: +1.80% 
+Market Cap: 7.118B 
+Volume in Currency (Since 0:00 UTC): 163.173M 
+Volume in Currency (24Hr): 163.173M 
+Total Volume All Currencies (24Hr): 163.173M 
+Circulating Supply: 8.734B 
+Link: https://finance.yahoo.com/quote/MATIC-USD?p=MATIC-USD 
+
+Crypto name: Dai USD 
+Price: 0.999793 
+Change: +0.000115 
+%Change: +0.01% 
+Market Cap: 5.835B 
+Volume in Currency (Since 0:00 UTC): 117.928M 
+Volume in Currency (24Hr): 117.928M 
+Total Volume All Currencies (24Hr): 117.928M 
+Circulating Supply: 5.836B 
+Link: https://finance.yahoo.com/quote/DAI-USD?p=DAI-USD 
+
+Crypto name: Wrapped TRON USD 
+Price: 0.054533 
+Change: -0.000433 
+%Change: -0.79% 
+Market Cap: 5.545B 
+Volume in Currency (Since 0:00 UTC): 866,449 
+Volume in Currency (24Hr): 866,449 
+Total Volume All Currencies (24Hr): 866,449 
+Circulating Supply: 101.676B 
+Link: https://finance.yahoo.com/quote/WTRX-USD?p=WTRX-USD 
+
+Crypto name: Polkadot USD 
+Price: 4.5258 
+Change: +0.0364 
+%Change: +0.81% 
+Market Cap: 5.207B 
+Volume in Currency (Since 0:00 UTC): 91.174M 
+Volume in Currency (24Hr): 91.174M 
+Total Volume All Currencies (24Hr): 91.174M 
+Circulating Supply: 1.151B 
+Link: https://finance.yahoo.com/quote/DOT-USD?p=DOT-USD 
+
+Crypto name: Litecoin USD 
+Price: 70.32 
+Change: +1.19 
+%Change: +1.72% 
+Market Cap: 5.058B 
+Volume in Currency (Since 0:00 UTC): 440.566M 
+Volume in Currency (24Hr): 440.566M 
+Total Volume All Currencies (24Hr): 440.566M 
+Circulating Supply: 71.92M 
+Link: https://finance.yahoo.com/quote/LTC-USD?p=LTC-USD 
+
+Crypto name: TRON USD 
+Price: 0.054411 
+Change: -0.000559 
+%Change: -1.02% 
+Market Cap: 5.005B 
+Volume in Currency (Since 0:00 UTC): 119.334M 
+Volume in Currency (24Hr): 119.334M 
+Total Volume All Currencies (24Hr): 119.334M 
+Circulating Supply: 91.986B 
+Link: https://finance.yahoo.com/quote/TRX-USD?p=TRX-USD 
+
+Crypto name: Shiba Inu USD 
+Price: 0.00000831 
+Change: +0.00000001 
+%Change: +0.07% 
+Market Cap: 4.565B 
+Volume in Currency (Since 0:00 UTC): 53.627M 
+Volume in Currency (24Hr): 53.627M 
+Total Volume All Currencies (24Hr): 53.627M 
+Circulating Supply: 549.063T 
+Link: https://finance.yahoo.com/quote/SHIB-USD?p=SHIB-USD 
+
+Crypto name: Lido Staked ETH USD 
+Price: 1,195.33 
+Change: +5.00 
+%Change: +0.42% 
+Market Cap: 4.169B 
+Volume in Currency (Since 0:00 UTC): 9.122M 
+Volume in Currency (24Hr): 9.122M 
+Total Volume All Currencies (24Hr): 9.122M 
+Circulating Supply: 3.488M 
+Link: https://finance.yahoo.com/quote/STETH-USD?p=STETH-USD 
+
+Crypto name: Solana USD 
+Price: 11.24 
+Change: -0.07 
+%Change: -0.60% 
+Market Cap: 4.127B 
+Volume in Currency (Since 0:00 UTC): 131.508M 
+Volume in Currency (24Hr): 131.508M 
+Total Volume All Currencies (24Hr): 131.508M 
+Circulating Supply: 367.055M 
+Link: https://finance.yahoo.com/quote/SOL-USD?p=SOL-USD 
+
+Crypto name: Uniswap USD 
+Price: 5.2250 
+Change: +0.0709 
+%Change: +1.38% 
+Market Cap: 3.983B 
+Volume in Currency (Since 0:00 UTC): 45.276M 
+Volume in Currency (24Hr): 45.276M 
+Total Volume All Currencies (24Hr): 45.276M 
+Circulating Supply: 762.209M 
+Link: https://finance.yahoo.com/quote/UNI7083-USD?p=UNI7083-USD 
+
+Crypto name: HEX USD 
+Price: 0.021810 
+Change: -0.000454 
+%Change: -2.04% 
+Market Cap: 3.782B 
+Volume in Currency (Since 0:00 UTC): 3.663M 
+Volume in Currency (24Hr): 3.663M 
+Total Volume All Currencies (24Hr): 3.663M 
+Circulating Supply: 173.411B 
+Link: https://finance.yahoo.com/quote/HEX-USD?p=HEX-USD 
+
+Crypto name: Avalanche USD 
+Price: 11.71 
+Change: +0.01 
+%Change: +0.09% 
+Market Cap: 3.649B 
+Volume in Currency (Since 0:00 UTC): 98.36M 
+Volume in Currency (24Hr): 98.36M 
+Total Volume All Currencies (24Hr): 98.36M 
+Circulating Supply: 311.582M 
+Link: https://finance.yahoo.com/quote/AVAX-USD?p=AVAX-USD 
+
+Crypto name: UNUS SED LEO USD 
+Price: 3.5788 
+Change: -0.0258 
+%Change: -0.71% 
+Market Cap: 3.414B 
+Volume in Currency (Since 0:00 UTC): 2.764M 
+Volume in Currency (24Hr): 2.764M 
+Total Volume All Currencies (24Hr): 2.764M 
+Circulating Supply: 953.954M 
+Link: https://finance.yahoo.com/quote/LEO-USD?p=LEO-USD 
+
+Crypto name: Wrapped Bitcoin USD 
+Price: 16,862.04 
+Change: +46.07 
+%Change: +0.27% 
+Market Cap: 3.111B 
+Volume in Currency (Since 0:00 UTC): 39.218M 
+Volume in Currency (24Hr): 39.218M 
+Total Volume All Currencies (24Hr): 39.218M 
+Circulating Supply: 184,504 
+Link: https://finance.yahoo.com/quote/WBTC-USD?p=WBTC-USD 
+
+Crypto name: Chainlink USD 
+Price: 5.9998 
+Change: +0.0233 
+%Change: +0.39% 
+Market Cap: 3.048B 
+Volume in Currency (Since 0:00 UTC): 133.826M 
+Volume in Currency (24Hr): 133.826M 
+Total Volume All Currencies (24Hr): 133.826M 
+Circulating Supply: 508M 
+Link: https://finance.yahoo.com/quote/LINK-USD?p=LINK-USD 
+
+Crypto name: Toncoin USD 
+Price: 2.3273 
+Change: -0.1083 
+%Change: -4.45% 
+Market Cap: 2.843B 
+Volume in Currency (Since 0:00 UTC): 54.719M 
+Volume in Currency (24Hr): 54.719M 
+Total Volume All Currencies (24Hr): 54.719M 
+Circulating Supply: 1.221B 
+Link: https://finance.yahoo.com/quote/TON11419-USD?p=TON11419-USD 
+
+Crypto name: Monero USD 
+Price: 146.61 
+Change: +1.41 
+%Change: +0.97% 
+Market Cap: 2.671B 
+Volume in Currency (Since 0:00 UTC): 62.565M 
+Volume in Currency (24Hr): 62.565M 
+Total Volume All Currencies (24Hr): 62.565M 
+Circulating Supply: 18.219M 
+Link: https://finance.yahoo.com/quote/XMR-USD?p=XMR-USD 
+
+Crypto name: Cosmos USD 
+Price: 9.2026 
+Change: +0.1207 
+%Change: +1.33% 
+Market Cap: 2.635B 
+Volume in Currency (Since 0:00 UTC): 73.028M 
+Volume in Currency (24Hr): 73.028M 
+Total Volume All Currencies (24Hr): 73.028M 
+Circulating Supply: 286.37M 
+Link: https://finance.yahoo.com/quote/ATOM-USD?p=ATOM-USD 
+
+Crypto name: Ethereum Classic USD 
+Price: 16.15 
+Change: +0.07 
+%Change: +0.41% 
+Market Cap: 2.239B 
+Volume in Currency (Since 0:00 UTC): 83.949M 
+Volume in Currency (24Hr): 83.949M 
+Total Volume All Currencies (24Hr): 83.949M 
+Circulating Supply: 138.649M 
+Link: https://finance.yahoo.com/quote/ETC-USD?p=ETC-USD 
+
+Crypto name: Bitcoin Cash USD 
+Price: 102.63 
+Change: +1.40 
+%Change: +1.38% 
+Market Cap: 1.977B 
+Volume in Currency (Since 0:00 UTC): 93.095M 
+Volume in Currency (24Hr): 93.095M 
+Total Volume All Currencies (24Hr): 93.095M 
+Circulating Supply: 19.267M 
+Link: https://finance.yahoo.com/quote/BCH-USD?p=BCH-USD 
+
+Crypto name: Stellar USD 
+Price: 0.074490 
+Change: +0.000494 
+%Change: +0.67% 
+Market Cap: 1.945B 
+Volume in Currency (Since 0:00 UTC): 36.09M 
+Volume in Currency (24Hr): 36.09M 
+Total Volume All Currencies (24Hr): 36.09M 
+Circulating Supply: 26.11B 
+Link: https://finance.yahoo.com/quote/XLM-USD?p=XLM-USD 
+
+Crypto name: Cronos USD 
+Price: 0.059818 
+Change: +0.000394 
+%Change: +0.66% 
+Market Cap: 1.511B 
+Volume in Currency (Since 0:00 UTC): 10.93M 
+Volume in Currency (24Hr): 10.93M 
+Total Volume All Currencies (24Hr): 10.93M 
+Circulating Supply: 25.263B 
+Link: https://finance.yahoo.com/quote/CRO-USD?p=CRO-USD 
+
+Crypto name: Quant USD 
+Price: 115.84 
+Change: +9.13 
+%Change: +8.56% 
+Market Cap: 1.398B 
+Volume in Currency (Since 0:00 UTC): 31.46M 
+Volume in Currency (24Hr): 31.46M 
+Total Volume All Currencies (24Hr): 31.46M 
+Circulating Supply: 12.073M 
+Link: https://finance.yahoo.com/quote/QNT-USD?p=QNT-USD 
+
+Crypto name: OKB USD 
+Price: 23.01 
+Change: -0.09 
+%Change: -0.37% 
+Market Cap: 1.381B 
+Volume in Currency (Since 0:00 UTC): 12.749M 
+Volume in Currency (24Hr): 12.749M 
+Total Volume All Currencies (24Hr): 12.749M 
+Circulating Supply: 60M 
+Link: https://finance.yahoo.com/quote/OKB-USD?p=OKB-USD 
+
+Crypto name: ApeCoin USD 
+Price: 3.6051 
+Change: +0.0111 
+%Change: +0.31% 
+Market Cap: 1.302B 
+Volume in Currency (Since 0:00 UTC): 52.112M 
+Volume in Currency (24Hr): 52.112M 
+Total Volume All Currencies (24Hr): 52.112M 
+Circulating Supply: 361.25M 
+Link: https://finance.yahoo.com/quote/APE18876-USD?p=APE18876-USD 
+
+Crypto name: Algorand USD 
+Price: 0.169977 
+Change: +0.003112 
+%Change: +1.86% 
+Market Cap: 1.213B 
+Volume in Currency (Since 0:00 UTC): 29.754M 
+Volume in Currency (24Hr): 29.754M 
+Total Volume All Currencies (24Hr): 29.754M 
+Circulating Supply: 7.137B 
+Link: https://finance.yahoo.com/quote/ALGO-USD?p=ALGO-USD 
+
+Crypto name: VeChain USD 
+Price: 0.016128 
+Change: +0.000084 
+%Change: +0.52% 
+Market Cap: 1.169B 
+Volume in Currency (Since 0:00 UTC): 21.782M 
+Volume in Currency (24Hr): 21.782M 
+Total Volume All Currencies (24Hr): 21.782M 
+Circulating Supply: 72.511B 
+Link: https://finance.yahoo.com/quote/VET-USD?p=VET-USD 
+
+Crypto name: NEAR Protocol USD 
+Price: 1.3554 
+Change: +0.0024 
+%Change: +0.18% 
+Market Cap: 1.144B 
+Volume in Currency (Since 0:00 UTC): 34.331M 
+Volume in Currency (24Hr): 34.331M 
+Total Volume All Currencies (24Hr): 34.331M 
+Circulating Supply: 844.123M 
+Link: https://finance.yahoo.com/quote/NEAR-USD?p=NEAR-USD 
+
+Crypto name: Hedera USD 
+Price: 0.043947 
+Change: +0.000374 
+%Change: +0.86% 
+Market Cap: 1.1B 
+Volume in Currency (Since 0:00 UTC): 8.175M 
+Volume in Currency (24Hr): 8.175M 
+Total Volume All Currencies (24Hr): 8.175M 
+Circulating Supply: 25.038B 
+Link: https://finance.yahoo.com/quote/HBAR-USD?p=HBAR-USD 
+
+Crypto name: Internet Computer USD 
+Price: 3.8538 
+Change: -0.0181 
+%Change: -0.47% 
+Market Cap: 1.076B 
+Volume in Currency (Since 0:00 UTC): 13.869M 
+Volume in Currency (24Hr): 13.869M 
+Total Volume All Currencies (24Hr): 13.869M 
+Circulating Supply: 279.156M 
+Link: https://finance.yahoo.com/quote/ICP-USD?p=ICP-USD 
+
+Crypto name: Filecoin USD 
+Price: 2.9702 
+Change: +0.0123 
+%Change: +0.42% 
+Market Cap: 1.042B 
+Volume in Currency (Since 0:00 UTC): 57.439M 
+Volume in Currency (24Hr): 57.439M 
+Total Volume All Currencies (24Hr): 57.439M 
+Circulating Supply: 350.971M 
+Link: https://finance.yahoo.com/quote/FIL-USD?p=FIL-USD 
+
+Crypto name: Frax USD 
+Price: 0.999549 
+Change: +0.000208 
+%Change: +0.02% 
+Market Cap: 1.018B 
+Volume in Currency (Since 0:00 UTC): 8.427M 
+Volume in Currency (24Hr): 8.427M 
+Total Volume All Currencies (24Hr): 8.427M 
+Circulating Supply: 1.018B 
+Link: https://finance.yahoo.com/quote/FRAX-USD?p=FRAX-USD 
+
+Crypto name: Terra Classic USD 
+Price: 0.000163 
+Change: +0.000015 
+%Change: +9.81% 
+Market Cap: 975.059M 
+Volume in Currency (Since 0:00 UTC): 164.207M 
+Volume in Currency (24Hr): 164.207M 
+Total Volume All Currencies (24Hr): 164.207M 
+Circulating Supply: 5.975T 
+Link: https://finance.yahoo.com/quote/LUNC-USD?p=LUNC-USD 
+
+Crypto name: EOS USD 
+Price: 0.887230 
+Change: +0.009824 
+%Change: +1.12% 
+Market Cap: 956.528M 
+Volume in Currency (Since 0:00 UTC): 61.543M 
+Volume in Currency (24Hr): 61.543M 
+Total Volume All Currencies (24Hr): 61.543M 
+Circulating Supply: 1.078B 
+Link: https://finance.yahoo.com/quote/EOS-USD?p=EOS-USD 
+
+Crypto name: Pax Dollar USD 
+Price: 1.0016 
+Change: +0.0021 
+%Change: +0.21% 
+Market Cap: 947.12M 
+Volume in Currency (Since 0:00 UTC): 1.075M 
+Volume in Currency (24Hr): 1.075M 
+Total Volume All Currencies (24Hr): 1.075M 
+Circulating Supply: 945.643M 
+Link: https://finance.yahoo.com/quote/USDP-USD?p=USDP-USD 
+
+Crypto name: Wrapped BNB USD 
+Price: 243.12 
+Change: -0.66 
+%Change: -0.27% 
+Market Cap: 905.956M 
+Volume in Currency (Since 0:00 UTC): 34.027M 
+Volume in Currency (24Hr): 34.027M 
+Total Volume All Currencies (24Hr): 34.027M 
+Circulating Supply: 3.726M 
+Link: https://finance.yahoo.com/quote/WBNB-USD?p=WBNB-USD 
+
+Crypto name: Bitcoin BEP2 USD 
+Price: 16,860.83 
+Change: +11.24 
+%Change: +0.07% 
+Market Cap: 901.555M 
+Volume in Currency (Since 0:00 UTC): 1.03M 
+Volume in Currency (24Hr): 1.03M 
+Total Volume All Currencies (24Hr): 1.03M 
+Circulating Supply: 53,470 
+Link: https://finance.yahoo.com/quote/BTCB-USD?p=BTCB-USD 
+
+Crypto name: Bitcoin SV USD 
+Price: 43.78 
+Change: +0.58 
+%Change: +1.35% 
+Market Cap: 843.266M 
+Volume in Currency (Since 0:00 UTC): 20.992M 
+Volume in Currency (24Hr): 20.992M 
+Total Volume All Currencies (24Hr): 20.992M 
+Circulating Supply: 19.263M 
+Link: https://finance.yahoo.com/quote/BSV-USD?p=BSV-USD 
+
+Crypto name: Huobi Token USD 
+Price: 5.4069 
+Change: -0.0093 
+%Change: -0.17% 
+Market Cap: 829.193M 
+Volume in Currency (Since 0:00 UTC): 7.671M 
+Volume in Currency (24Hr): 7.671M 
+Total Volume All Currencies (24Hr): 7.671M 
+Circulating Supply: 153.358M 
+Link: https://finance.yahoo.com/quote/HT-USD?p=HT-USD 
+
+Crypto name: MultiversX (Elrond) USD 
+Price: 34.03 
+Change: +0.79 
+%Change: +2.39% 
+Market Cap: 812.664M 
+Volume in Currency (Since 0:00 UTC): 21.879M 
+Volume in Currency (24Hr): 21.879M 
+Total Volume All Currencies (24Hr): 21.879M 
+Circulating Supply: 23.88M 
+Link: https://finance.yahoo.com/quote/EGLD-USD?p=EGLD-USD 
+
+Crypto name: Aave USD 
+Price: 55.81 
+Change: +0.31 
+%Change: +0.55% 
+Market Cap: 786.481M 
+Volume in Currency (Since 0:00 UTC): 32.488M 
+Volume in Currency (24Hr): 32.488M 
+Total Volume All Currencies (24Hr): 32.488M 
+Circulating Supply: 14.093M 
+Link: https://finance.yahoo.com/quote/AAVE-USD?p=AAVE-USD 
+
+Crypto name: Flow USD 
+Price: 0.751423 
+Change: -0.009653 
+%Change: -1.27% 
+Market Cap: 778.624M 
+Volume in Currency (Since 0:00 UTC): 14.455M 
+Volume in Currency (24Hr): 14.455M 
+Total Volume All Currencies (24Hr): 14.455M 
+Circulating Supply: 1.036B 
+Link: https://finance.yahoo.com/quote/FLOW-USD?p=FLOW-USD 
+
+Crypto name: Theta Network USD 
+Price: 0.772547 
+Change: +0.007969 
+%Change: +1.04% 
+Market Cap: 772.547M 
+Volume in Currency (Since 0:00 UTC): 6.558M 
+Volume in Currency (24Hr): 6.558M 
+Total Volume All Currencies (24Hr): 6.558M 
+Circulating Supply: 1B 
+Link: https://finance.yahoo.com/quote/THETA-USD?p=THETA-USD 
+
+Crypto name: TrueUSD USD 
+Price: 0.999776 
+Change: -0.000310 
+%Change: -0.03% 
+Market Cap: 753.295M 
+Volume in Currency (Since 0:00 UTC): 26.488M 
+Volume in Currency (24Hr): 26.488M 
+Total Volume All Currencies (24Hr): 26.488M 
+Circulating Supply: 753.464M 
+Link: https://finance.yahoo.com/quote/TUSD-USD?p=TUSD-USD 
+
+Crypto name: Tezos USD 
+Price: 0.789636 
+Change: +0.001489 
+%Change: +0.19% 
+Market Cap: 727.379M 
+Volume in Currency (Since 0:00 UTC): 9.583M 
+Volume in Currency (24Hr): 9.583M 
+Total Volume All Currencies (24Hr): 9.583M 
+Circulating Supply: 921.157M 
+Link: https://finance.yahoo.com/quote/XTZ-USD?p=XTZ-USD 
+
+Crypto name: USDD USD 
+Price: 0.983491 
+Change: +0.000396 
+%Change: +0.04% 
+Market Cap: 713.358M 
+Volume in Currency (Since 0:00 UTC): 10.9M 
+Volume in Currency (24Hr): 10.9M 
+Total Volume All Currencies (24Hr): 10.9M 
+Circulating Supply: 725.332M 
+Link: https://finance.yahoo.com/quote/USDD-USD?p=USDD-USD 
+
+Crypto name: Axie Infinity USD 
+Price: 6.8172 
+Change: -0.0697 
+%Change: -1.01% 
+Market Cap: 682.066M 
+Volume in Currency (Since 0:00 UTC): 38.743M 
+Volume in Currency (24Hr): 38.743M 
+Total Volume All Currencies (24Hr): 38.743M 
+Circulating Supply: 100.051M 
+Link: https://finance.yahoo.com/quote/AXS-USD?p=AXS-USD 
+
+Crypto name: Chiliz USD 
+Price: 0.109669 
+Change: -0.000361 
+%Change: -0.33% 
+Market Cap: 673.079M 
+Volume in Currency (Since 0:00 UTC): 41.907M 
+Volume in Currency (24Hr): 41.907M 
+Total Volume All Currencies (24Hr): 41.907M 
+Circulating Supply: 6.137B 
+Link: https://finance.yahoo.com/quote/CHZ-USD?p=CHZ-USD 
+
+Crypto name: The Sandbox USD 
+Price: 0.445011 
+Change: +0.003706 
+%Change: +0.84% 
+Market Cap: 667.281M 
+Volume in Currency (Since 0:00 UTC): 51.429M 
+Volume in Currency (24Hr): 51.429M 
+Total Volume All Currencies (24Hr): 51.429M 
+Circulating Supply: 1.499B 
+Link: https://finance.yahoo.com/quote/SAND-USD?p=SAND-USD 
+
+Crypto name: Huobi BTC USD 
+Price: 16,867.15 
+Change: +48.00 
+%Change: +0.29% 
+Market Cap: 657.304M 
+Volume in Currency (Since 0:00 UTC): 11,983 
+Volume in Currency (24Hr): 11,983 
+Total Volume All Currencies (24Hr): 11,983 
+Circulating Supply: 38,969 
+Link: https://finance.yahoo.com/quote/HBTC-USD?p=HBTC-USD 
+
+Crypto name: BitTorrent USD 
+Price: 0.000652 
+Change: -0.000018 
+%Change: -2.66% 
+Market Cap: 645.11M 
+Volume in Currency (Since 0:00 UTC): 181,252 
+Volume in Currency (24Hr): 181,252 
+Total Volume All Currencies (24Hr): 181,252 
+Circulating Supply: 990B 
+Link: https://finance.yahoo.com/quote/BTTOLD-USD?p=BTTOLD-USD 
+
+Crypto name: KuCoin Token USD 
+Price: 6.4974 
+Change: -0.0276 
+%Change: -0.42% 
+Market Cap: 639.215M 
+Volume in Currency (Since 0:00 UTC): 481,293 
+Volume in Currency (24Hr): 481,293 
+Total Volume All Currencies (24Hr): 481,293 
+Circulating Supply: 98.38M 
+Link: https://finance.yahoo.com/quote/KCS-USD?p=KCS-USD 
+
+Crypto name: Zcash USD 
+Price: 39.87 
+Change: -0.53 
+%Change: -1.31% 
+Market Cap: 638.062M 
+Volume in Currency (Since 0:00 UTC): 37.655M 
+Volume in Currency (24Hr): 37.655M 
+Total Volume All Currencies (24Hr): 37.655M 
+Circulating Supply: 16.005M 
+Link: https://finance.yahoo.com/quote/ZEC-USD?p=ZEC-USD 
+
+Crypto name: Gemini Dollar USD 
+Price: 0.995246 
+Change: +0.007738 
+%Change: +0.78% 
+Market Cap: 604.164M 
+Volume in Currency (Since 0:00 UTC): 261,218 
+Volume in Currency (24Hr): 261,218 
+Total Volume All Currencies (24Hr): 261,218 
+Circulating Supply: 607.05M 
+Link: https://finance.yahoo.com/quote/GUSD-USD?p=GUSD-USD 
+
+Crypto name: Decentraland USD 
+Price: 0.324675 
+Change: -0.004746 
+%Change: -1.44% 
+Market Cap: 602.299M 
+Volume in Currency (Since 0:00 UTC): 30.329M 
+Volume in Currency (24Hr): 30.329M 
+Total Volume All Currencies (24Hr): 30.329M 
+Circulating Supply: 1.855B 
+Link: https://finance.yahoo.com/quote/MANA-USD?p=MANA-USD 
+
+Crypto name: BitTorrent-New USD 
+Price: 0.00000063 
+Change: -0.00000000 
+%Change: -0.61% 
+Market Cap: 601.579M 
+Volume in Currency (Since 0:00 UTC): 7.379M 
+Volume in Currency (24Hr): 7.379M 
+Total Volume All Currencies (24Hr): 7.379M 
+Circulating Supply: 947.962T 
+Link: https://finance.yahoo.com/quote/BTT-USD?p=BTT-USD 
+
+Crypto name: BitDAO USD 
+Price: 0.280492 
+Change: +0.000762 
+%Change: +0.27% 
+Market Cap: 586.494M 
+Volume in Currency (Since 0:00 UTC): 4.185M 
+Volume in Currency (24Hr): 4.185M 
+Total Volume All Currencies (24Hr): 4.185M 
+Circulating Supply: 2.091B 
+Link: https://finance.yahoo.com/quote/BIT11221-USD?p=BIT11221-USD 
+
+Crypto name: Trust Wallet Token USD 
+Price: 1.3621 
+Change: -0.0103 
+%Change: -0.75% 
+Market Cap: 567.517M 
+Volume in Currency (Since 0:00 UTC): 38.354M 
+Volume in Currency (24Hr): 38.354M 
+Total Volume All Currencies (24Hr): 38.354M 
+Circulating Supply: 416.65M 
+Link: https://finance.yahoo.com/quote/TWT-USD?p=TWT-USD 
+
+Crypto name: Fantom USD 
+Price: 0.204984 
+Change: +0.000057 
+%Change: +0.03% 
+Market Cap: 567.331M 
+Volume in Currency (Since 0:00 UTC): 32.132M 
+Volume in Currency (24Hr): 32.132M 
+Total Volume All Currencies (24Hr): 32.132M 
+Circulating Supply: 2.768B 
+Link: https://finance.yahoo.com/quote/FTM-USD?p=FTM-USD 
+
+Crypto name: PancakeSwap USD 
+Price: 3.2883 
+Change: -0.0396 
+%Change: -1.19% 
+Market Cap: 550.959M 
+Volume in Currency (Since 0:00 UTC): 39.029M 
+Volume in Currency (24Hr): 39.029M 
+Total Volume All Currencies (24Hr): 39.029M 
+Circulating Supply: 167.553M 
+Link: https://finance.yahoo.com/quote/CAKE-USD?p=CAKE-USD 
+
+Crypto name: Maker USD 
+Price: 545.60 
+Change: +5.76 
+%Change: +1.07% 
+Market Cap: 533.392M 
+Volume in Currency (Since 0:00 UTC): 12.501M 
+Volume in Currency (24Hr): 12.501M 
+Total Volume All Currencies (24Hr): 12.501M 
+Circulating Supply: 977,631 
+Link: https://finance.yahoo.com/quote/MKR-USD?p=MKR-USD 
+
+Crypto name: The Graph USD 
+Price: 0.059377 
+Change: -0.000542 
+%Change: -0.90% 
+Market Cap: 517.549M 
+Volume in Currency (Since 0:00 UTC): 21.351M 
+Volume in Currency (24Hr): 21.351M 
+Total Volume All Currencies (24Hr): 21.351M 
+Circulating Supply: 8.716B 
+Link: https://finance.yahoo.com/quote/GRT6719-USD?p=GRT6719-USD 
+
+Crypto name: Dash USD 
+Price: 44.95 
+Change: -0.20 
+%Change: -0.43% 
+Market Cap: 497.613M 
+Volume in Currency (Since 0:00 UTC): 70.582M 
+Volume in Currency (24Hr): 70.582M 
+Total Volume All Currencies (24Hr): 70.582M 
+Circulating Supply: 11.07M 
+Link: https://finance.yahoo.com/quote/DASH-USD?p=DASH-USD 
+
+Crypto name: Klaytn USD 
+Price: 0.161467 
+Change: -0.003086 
+%Change: -1.88% 
+Market Cap: 495.729M 
+Volume in Currency (Since 0:00 UTC): 15.107M 
+Volume in Currency (24Hr): 15.107M 
+Total Volume All Currencies (24Hr): 15.107M 
+Circulating Supply: 3.07B 
+Link: https://finance.yahoo.com/quote/KLAY-USD?p=KLAY-USD 
+
+Crypto name: PAX Gold USD 
+Price: 1,805.33 
+Change: +5.19 
+%Change: +0.29% 
+Market Cap: 489.721M 
+Volume in Currency (Since 0:00 UTC): 5.392M 
+Volume in Currency (24Hr): 5.392M 
+Total Volume All Currencies (24Hr): 5.392M 
+Circulating Supply: 271,263 
+Link: https://finance.yahoo.com/quote/PAXG-USD?p=PAXG-USD 
+
+Crypto name: IOTA USD 
+Price: 0.173973 
+Change: +0.002991 
+%Change: +1.75% 
+Market Cap: 483.564M 
+Volume in Currency (Since 0:00 UTC): 5.452M 
+Volume in Currency (24Hr): 5.452M 
+Total Volume All Currencies (24Hr): 5.452M 
+Circulating Supply: 2.78B 
+Link: https://finance.yahoo.com/quote/MIOTA-USD?p=MIOTA-USD 
+
+Crypto name: Aptos USD 
+Price: 3.6199 
+Change: +0.0123 
+%Change: +0.34% 
+Market Cap: 470.589M 
+Volume in Currency (Since 0:00 UTC): 33.047M 
+Volume in Currency (24Hr): 33.047M 
+Total Volume All Currencies (24Hr): 33.047M 
+Circulating Supply: 130M 
+Link: https://finance.yahoo.com/quote/APT21794-USD?p=APT21794-USD 
+
+Crypto name: THORChain USD 
+Price: 1.3946 
+Change: +0.0174 
+%Change: +1.26% 
+Market Cap: 456.1M 
+Volume in Currency (Since 0:00 UTC): 13.027M 
+Volume in Currency (24Hr): 13.027M 
+Total Volume All Currencies (24Hr): 13.027M 
+Circulating Supply: 327.057M 
+Link: https://finance.yahoo.com/quote/RUNE-USD?p=RUNE-USD 
+
+Crypto name: eCash USD 
+Price: 0.000024 
+Change: -0.000000 
+%Change: -1.08% 
+Market Cap: 454.501M 
+Volume in Currency (Since 0:00 UTC): 4.438M 
+Volume in Currency (24Hr): 4.438M 
+Total Volume All Currencies (24Hr): 4.438M 
+Circulating Supply: 19.263T 
+Link: https://finance.yahoo.com/quote/XEC-USD?p=XEC-USD 
+
+Crypto name: Tether Gold USD 
+Price: 1,797.41 
+Change: +6.29 
+%Change: +0.35% 
+Market Cap: 443.104M 
+Volume in Currency (Since 0:00 UTC): 167,077 
+Volume in Currency (24Hr): 167,077 
+Total Volume All Currencies (24Hr): 167,077 
+Circulating Supply: 246,524 
+Link: https://finance.yahoo.com/quote/XAUT-USD?p=XAUT-USD 
+
+Crypto name: Neo USD 
+Price: 6.2338 
+Change: -0.0148 
+%Change: -0.24% 
+Market Cap: 439.727M 
+Volume in Currency (Since 0:00 UTC): 14.618M 
+Volume in Currency (24Hr): 14.618M 
+Total Volume All Currencies (24Hr): 14.618M 
+Circulating Supply: 70.539M 
+Link: https://finance.yahoo.com/quote/NEO-USD?p=NEO-USD 
+
+Crypto name: Fei USD USD 
+Price: 0.999084 
+Change: +0.010606 
+%Change: +1.07% 
+Market Cap: 424.607M 
+Volume in Currency (Since 0:00 UTC): 769,053 
+Volume in Currency (24Hr): 769,053 
+Total Volume All Currencies (24Hr): 769,053 
+Circulating Supply: 424.996M 
+Link: https://finance.yahoo.com/quote/FEI-USD?p=FEI-USD 
+
+Crypto name: GMX USD 
+Price: 44.84 
+Change: -1.34 
+%Change: -2.90% 
+Market Cap: 375.824M 
+Volume in Currency (Since 0:00 UTC): 7.183M 
+Volume in Currency (24Hr): 7.183M 
+Total Volume All Currencies (24Hr): 7.183M 
+Circulating Supply: 8.381M 
+Link: https://finance.yahoo.com/quote/GMX11857-USD?p=GMX11857-USD 
+
+Crypto name: Mina USD 
+Price: 0.473700 
+Change: +0.005890 
+%Change: +1.26% 
+Market Cap: 372.519M 
+Volume in Currency (Since 0:00 UTC): 4.096M 
+Volume in Currency (24Hr): 4.096M 
+Total Volume All Currencies (24Hr): 4.096M 
+Circulating Supply: 786.402M 
+Link: https://finance.yahoo.com/quote/MINA-USD?p=MINA-USD 
+
+Crypto name: GateToken USD 
+Price: 3.4174 
+Change: -0.0425 
+%Change: -1.23% 
+Market Cap: 369.988M 
+Volume in Currency (Since 0:00 UTC): 1.735M 
+Volume in Currency (24Hr): 1.735M 
+Total Volume All Currencies (24Hr): 1.735M 
+Circulating Supply: 108.265M 
+Link: https://finance.yahoo.com/quote/GT-USD?p=GT-USD 
+
+Crypto name: Synthetix USD 
+Price: 1.4829 
+Change: +0.0239 
+%Change: +1.64% 
+Market Cap: 369.232M 
+Volume in Currency (Since 0:00 UTC): 14.144M 
+Volume in Currency (24Hr): 14.144M 
+Total Volume All Currencies (24Hr): 14.144M 
+Circulating Supply: 248.988M 
+Link: https://finance.yahoo.com/quote/SNX-USD?p=SNX-USD 
+
+Crypto name: Osmosis USD 
+Price: 0.746142 
+Change: +0.001940 
+%Change: +0.26% 
+Market Cap: 367.542M 
+Volume in Currency (Since 0:00 UTC): 5.113M 
+Volume in Currency (24Hr): 5.113M 
+Total Volume All Currencies (24Hr): 5.113M 
+Circulating Supply: 492.591M 
+Link: https://finance.yahoo.com/quote/OSMO-USD?p=OSMO-USD 
+
+Crypto name: Nexo USD 
+Price: 0.637067 
+Change: -0.014369 
+%Change: -2.21% 
+Market Cap: 356.757M 
+Volume in Currency (Since 0:00 UTC): 2.828M 
+Volume in Currency (24Hr): 2.828M 
+Total Volume All Currencies (24Hr): 2.828M 
+Circulating Supply: 560M 
+Link: https://finance.yahoo.com/quote/NEXO-USD?p=NEXO-USD 
+
+Crypto name: Neutrino USD USD 
+Price: 0.512870 
+Change: -0.010736 
+%Change: -2.05% 
+Market Cap: 348.888M 
+Volume in Currency (Since 0:00 UTC): 710,511 
+Volume in Currency (24Hr): 710,511 
+Total Volume All Currencies (24Hr): 710,511 
+Circulating Supply: 680.266M 
+Link: https://finance.yahoo.com/quote/USDN-USD?p=USDN-USD 
+
+Crypto name: Radix USD 
+Price: 0.034627 
+Change: +0.000022 
+%Change: +0.06% 
+Market Cap: 348.465M 
+Volume in Currency (Since 0:00 UTC): 239,845 
+Volume in Currency (24Hr): 239,845 
+Total Volume All Currencies (24Hr): 239,845 
+Circulating Supply: 10.064B 
+Link: https://finance.yahoo.com/quote/XRD-USD?p=XRD-USD 
+
+Crypto name: Frax Share USD 
+Price: 4.7551 
+Change: +0.0044 
+%Change: +0.09% 
+Market Cap: 345.528M 
+Volume in Currency (Since 0:00 UTC): 2.302M 
+Volume in Currency (24Hr): 2.302M 
+Total Volume All Currencies (24Hr): 2.302M 
+Circulating Supply: 72.664M 
+Link: https://finance.yahoo.com/quote/FXS-USD?p=FXS-USD 
+
+Crypto name: XDC Network USD 
+Price: 0.027713 
+Change: +0.000675 
+%Change: +2.50% 
+Market Cap: 341.009M 
+Volume in Currency (Since 0:00 UTC): 2.499M 
+Volume in Currency (24Hr): 2.499M 
+Total Volume All Currencies (24Hr): 2.499M 
+Circulating Supply: 12.305B 
+Link: https://finance.yahoo.com/quote/XDC-USD?p=XDC-USD 
+
+Crypto name: Lido DAO USD 
+Price: 1.0524 
+Change: +0.0646 
+%Change: +6.54% 
+Market Cap: 329.34M 
+Volume in Currency (Since 0:00 UTC): 29.136M 
+Volume in Currency (24Hr): 29.136M 
+Total Volume All Currencies (24Hr): 29.136M 
+Circulating Supply: 312.951M 
+Link: https://finance.yahoo.com/quote/LDO-USD?p=LDO-USD 
+
+Crypto name: Chain USD 
+Price: 0.015206 
+Change: -0.001112 
+%Change: -6.82% 
+Market Cap: 326.513M 
+Volume in Currency (Since 0:00 UTC): 6.148M 
+Volume in Currency (24Hr): 6.148M 
+Total Volume All Currencies (24Hr): 6.148M 
+Circulating Supply: 21.473B 
+Link: https://finance.yahoo.com/quote/XCN18679-USD?p=XCN18679-USD 
+
+Crypto name: EthereumPoW USD 
+Price: 2.9686 
+Change: -0.0024 
+%Change: -0.08% 
+Market Cap: 319.775M 
+Volume in Currency (Since 0:00 UTC): 10.558M 
+Volume in Currency (24Hr): 10.558M 
+Total Volume All Currencies (24Hr): 10.558M 
+Circulating Supply: 107.718M 
+Link: https://finance.yahoo.com/quote/ETHW-USD?p=ETHW-USD 
+
+Crypto name: GensoKishi Metaverse USD 
+Price: 0.184502 
+Change: -0.001353 
+%Change: -0.73% 
+Market Cap: 315.371M 
+Volume in Currency (Since 0:00 UTC): 611,731 
+Volume in Currency (24Hr): 611,731 
+Total Volume All Currencies (24Hr): 611,731 
+Circulating Supply: 1.709B 
+Link: https://finance.yahoo.com/quote/MV-USD?p=MV-USD 
+
+Crypto name: 1inch Network USD 
+Price: 0.401675 
+Change: +0.001335 
+%Change: +0.33% 
+Market Cap: 313.631M 
+Volume in Currency (Since 0:00 UTC): 16.288M 
+Volume in Currency (24Hr): 16.288M 
+Total Volume All Currencies (24Hr): 16.288M 
+Circulating Supply: 780.807M 
+Link: https://finance.yahoo.com/quote/1INCH-USD?p=1INCH-USD 
+
+Crypto name: ImmutableX USD 
+Price: 0.419480 
+Change: -0.006748 
+%Change: -1.58% 
+Market Cap: 306.816M 
+Volume in Currency (Since 0:00 UTC): 9.529M 
+Volume in Currency (24Hr): 9.529M 
+Total Volume All Currencies (24Hr): 9.529M 
+Circulating Supply: 731.419M 
+Link: https://finance.yahoo.com/quote/IMX10603-USD?p=IMX10603-USD 
+
+Crypto name: FTX Token USD 
+Price: 0.926832 
+Change: +0.016991 
+%Change: +1.87% 
+Market Cap: 304.831M 
+Volume in Currency (Since 0:00 UTC): 6.947M 
+Volume in Currency (24Hr): 6.947M 
+Total Volume All Currencies (24Hr): 6.947M 
+Circulating Supply: 328.895M 
+Link: https://finance.yahoo.com/quote/FTT-USD?p=FTT-USD 
+
+Crypto name: Casper USD 
+Price: 0.028675 
+Change: +0.000558 
+%Change: +1.99% 
+Market Cap: 304.286M 
+Volume in Currency (Since 0:00 UTC): 3.368M 
+Volume in Currency (24Hr): 3.368M 
+Total Volume All Currencies (24Hr): 3.368M 
+Circulating Supply: 10.612B 
+Link: https://finance.yahoo.com/quote/CSPR-USD?p=CSPR-USD 
+
+Crypto name: Stacks USD 
+Price: 0.224452 
+Change: -0.002676 
+%Change: -1.18% 
+Market Cap: 303.082M 
+Volume in Currency (Since 0:00 UTC): 2.503M 
+Volume in Currency (24Hr): 2.503M 
+Total Volume All Currencies (24Hr): 2.503M 
+Circulating Supply: 1.35B 
+Link: https://finance.yahoo.com/quote/STX4847-USD?p=STX4847-USD 
+
+Crypto name: Decred USD 
+Price: 19.39 
+Change: +0.06 
+%Change: +0.32% 
+Market Cap: 283.278M 
+Volume in Currency (Since 0:00 UTC): 1.099M 
+Volume in Currency (24Hr): 1.099M 
+Total Volume All Currencies (24Hr): 1.099M 
+Circulating Supply: 14.612M 
+Link: https://finance.yahoo.com/quote/DCR-USD?p=DCR-USD 
+
+Crypto name: USDJ USD 
+Price: 1.0640 
+Change: -0.0061 
+%Change: -0.57% 
+Market Cap: 282.603M 
+Volume in Currency (Since 0:00 UTC): 449,126 
+Volume in Currency (24Hr): 449,126 
+Total Volume All Currencies (24Hr): 449,126 
+Circulating Supply: 265.602M 
+Link: https://finance.yahoo.com/quote/USDJ-USD?p=USDJ-USD 
+
+Crypto name: Curve DAO Token USD 
+Price: 0.530808 
+Change: +0.003632 
+%Change: +0.69% 
+Market Cap: 282.169M 
+Volume in Currency (Since 0:00 UTC): 23.706M 
+Volume in Currency (24Hr): 23.706M 
+Total Volume All Currencies (24Hr): 23.706M 
+Circulating Supply: 531.583M 
+Link: https://finance.yahoo.com/quote/CRV-USD?p=CRV-USD 
+
+Crypto name: Loopring USD 
+Price: 0.208783 
+Change: +0.001429 
+%Change: +0.69% 
+Market Cap: 277.709M 
+Volume in Currency (Since 0:00 UTC): 11.185M 
+Volume in Currency (24Hr): 11.185M 
+Total Volume All Currencies (24Hr): 11.185M 
+Circulating Supply: 1.33B 
+Link: https://finance.yahoo.com/quote/LRC-USD?p=LRC-USD 
+
+Crypto name: Zilliqa USD 
+Price: 0.017473 
+Change: -0.000030 
+%Change: -0.17% 
+Market Cap: 277.252M 
+Volume in Currency (Since 0:00 UTC): 21.399M 
+Volume in Currency (24Hr): 21.399M 
+Total Volume All Currencies (24Hr): 21.399M 
+Circulating Supply: 15.868B 
+Link: https://finance.yahoo.com/quote/ZIL-USD?p=ZIL-USD 
+
+Crypto name: Basic Attention Token USD 
+Price: 0.184817 
+Change: +0.000108 
+%Change: +0.06% 
+Market Cap: 276.185M 
+Volume in Currency (Since 0:00 UTC): 10.354M 
+Volume in Currency (24Hr): 10.354M 
+Total Volume All Currencies (24Hr): 10.354M 
+Circulating Supply: 1.494B 
+Link: https://finance.yahoo.com/quote/BAT-USD?p=BAT-USD 
+
+Crypto name: NEM USD 
+Price: 0.029444 
+Change: +0.000189 
+%Change: +0.65% 
+Market Cap: 264.998M 
+Volume in Currency (Since 0:00 UTC): 7.327M 
+Volume in Currency (24Hr): 7.327M 
+Total Volume All Currencies (24Hr): 7.327M 
+Circulating Supply: 9B 
+Link: https://finance.yahoo.com/quote/XEM-USD?p=XEM-USD 
+
+Crypto name: Enjin Coin USD 
+Price: 0.263073 
+Change: +0.001807 
+%Change: +0.69% 
+Market Cap: 263.073M 
+Volume in Currency (Since 0:00 UTC): 6.905M 
+Volume in Currency (24Hr): 6.905M 
+Total Volume All Currencies (24Hr): 6.905M 
+Circulating Supply: 1B 
+Link: https://finance.yahoo.com/quote/ENJ-USD?p=ENJ-USD 
+
+Crypto name: Convex Finance USD 
+Price: 3.5933 
+Change: +0.0312 
+%Change: +0.88% 
+Market Cap: 259.969M 
+Volume in Currency (Since 0:00 UTC): 8.898M 
+Volume in Currency (24Hr): 8.898M 
+Total Volume All Currencies (24Hr): 8.898M 
+Circulating Supply: 72.347M 
+Link: https://finance.yahoo.com/quote/CVX-USD?p=CVX-USD 
+
+Crypto name: Balancer USD 
+Price: 5.6199 
+Change: +0.1692 
+%Change: +3.10% 
+Market Cap: 259.726M 
+Volume in Currency (Since 0:00 UTC): 6.891M 
+Volume in Currency (24Hr): 6.891M 
+Total Volume All Currencies (24Hr): 6.891M 
+Circulating Supply: 46.216M 
+Link: https://finance.yahoo.com/quote/BAL-USD?p=BAL-USD 
+
+Crypto name: Holo USD 
+Price: 0.001480 
+Change: +0.000006 
+%Change: +0.38% 
+Market Cap: 256.515M 
+Volume in Currency (Since 0:00 UTC): 8.006M 
+Volume in Currency (24Hr): 8.006M 
+Total Volume All Currencies (24Hr): 8.006M 
+Circulating Supply: 173.343B 
+Link: https://finance.yahoo.com/quote/HOT2682-USD?p=HOT2682-USD 
+
+Crypto name: NXM USD 
+Price: 38.47 
+Change: +0.10 
+%Change: +0.25% 
+Market Cap: 253.659M 
+Volume in Currency (Since 0:00 UTC): 64,232 
+Volume in Currency (24Hr): 64,232 
+Total Volume All Currencies (24Hr): 64,232 
+Circulating Supply: 6.594M 
+Link: https://finance.yahoo.com/quote/NXM-USD?p=NXM-USD 
+
+Crypto name: Helium USD 
+Price: 1.8653 
+Change: -0.0093 
+%Change: -0.50% 
+Market Cap: 253.133M 
+Volume in Currency (Since 0:00 UTC): 1.36M 
+Volume in Currency (24Hr): 1.36M 
+Total Volume All Currencies (24Hr): 1.36M 
+Circulating Supply: 135.706M 
+Link: https://finance.yahoo.com/quote/HNT-USD?p=HNT-USD 
+
+Crypto name: Kava USD 
+Price: 0.700241 
+Change: +0.011440 
+%Change: +1.66% 
+Market Cap: 252.235M 
+Volume in Currency (Since 0:00 UTC): 5.429M 
+Volume in Currency (24Hr): 5.429M 
+Total Volume All Currencies (24Hr): 5.429M 
+Circulating Supply: 360.212M 
+Link: https://finance.yahoo.com/quote/KAVA-USD?p=KAVA-USD 
+
+Crypto name: Bitget Token USD 
+Price: 0.179191 
+Change: -0.005823 
+%Change: -3.15% 
+Market Cap: 250.868M 
+Volume in Currency (Since 0:00 UTC): 3.467M 
+Volume in Currency (24Hr): 3.467M 
+Total Volume All Currencies (24Hr): 3.467M 
+Circulating Supply: 1.4B 
+Link: https://finance.yahoo.com/quote/BGB-USD?p=BGB-USD 
+
+Crypto name: T-mac DAO USD 
+Price: 0.249099 
+Change: +0.000419 
+%Change: +0.17% 
+Market Cap: 249.099M 
+Volume in Currency (Since 0:00 UTC): 59,965 
+Volume in Currency (24Hr): 59,965 
+Total Volume All Currencies (24Hr): 59,965 
+Circulating Supply: 1B 
+Link: https://finance.yahoo.com/quote/TMG-USD?p=TMG-USD 
+
+Crypto name: Compound USD 
+Price: 32.68 
+Change: +0.95 
+%Change: +2.99% 
+Market Cap: 237.493M 
+Volume in Currency (Since 0:00 UTC): 12.668M 
+Volume in Currency (24Hr): 12.668M 
+Total Volume All Currencies (24Hr): 12.668M 
+Circulating Supply: 7.267M 
+Link: https://finance.yahoo.com/quote/COMP5692-USD?p=COMP5692-USD 
+
+Crypto name: Ravencoin USD 
+Price: 0.019644 
+Change: -0.000141 
+%Change: -0.71% 
+Market Cap: 236.426M 
+Volume in Currency (Since 0:00 UTC): 3.702M 
+Volume in Currency (24Hr): 3.702M 
+Total Volume All Currencies (24Hr): 3.702M 
+Circulating Supply: 12.035B 
+Link: https://finance.yahoo.com/quote/RVN-USD?p=RVN-USD 
+
+Crypto name: Celo USD 
+Price: 0.486533 
+Change: -0.001650 
+%Change: -0.34% 
+Market Cap: 232.968M 
+Volume in Currency (Since 0:00 UTC): 7.313M 
+Volume in Currency (24Hr): 7.313M 
+Total Volume All Currencies (24Hr): 7.313M 
+Circulating Supply: 478.832M 
+Link: https://finance.yahoo.com/quote/CELO-USD?p=CELO-USD 
+
+Crypto name: Ethereum Name Service USD 
+Price: 11.32 
+Change: +0.20 
+%Change: +1.82% 
+Market Cap: 229.217M 
+Volume in Currency (Since 0:00 UTC): 11.664M 
+Volume in Currency (24Hr): 11.664M 
+Total Volume All Currencies (24Hr): 11.664M 
+Circulating Supply: 20.245M 
+Link: https://finance.yahoo.com/quote/ENS-USD?p=ENS-USD 
+
+Crypto name: DeFiChain USD 
+Price: 0.441480 
+Change: +0.002058 
+%Change: +0.47% 
+Market Cap: 225.481M 
+Volume in Currency (Since 0:00 UTC): 1.915M 
+Volume in Currency (24Hr): 1.915M 
+Total Volume All Currencies (24Hr): 1.915M 
+Circulating Supply: 510.738M 
+Link: https://finance.yahoo.com/quote/DFI-USD?p=DFI-USD 
+
+Crypto name: Bitcoin Gold USD 
+Price: 12.74 
+Change: -0.04 
+%Change: -0.31% 
+Market Cap: 223.098M 
+Volume in Currency (Since 0:00 UTC): 1.725M 
+Volume in Currency (24Hr): 1.725M 
+Total Volume All Currencies (24Hr): 1.725M 
+Circulating Supply: 17.514M 
+Link: https://finance.yahoo.com/quote/BTG-USD?p=BTG-USD 
+
+Crypto name: Gnosis USD 
+Price: 86.34 
+Change: -0.25 
+%Change: -0.29% 
+Market Cap: 223.59M 
+Volume in Currency (Since 0:00 UTC): 2.252M 
+Volume in Currency (24Hr): 2.252M 
+Total Volume All Currencies (24Hr): 2.252M 
+Circulating Supply: 2.59M 
+Link: https://finance.yahoo.com/quote/GNO-USD?p=GNO-USD 
+
+Crypto name: Optimism USD 
+Price: 0.941553 
+Change: +0.011024 
+%Change: +1.18% 
+Market Cap: 221.028M 
+Volume in Currency (Since 0:00 UTC): 24.808M 
+Volume in Currency (24Hr): 24.808M 
+Total Volume All Currencies (24Hr): 24.808M 
+Circulating Supply: 234.748M 
+Link: https://finance.yahoo.com/quote/OP-USD?p=OP-USD 
+
+Crypto name: SushiSwap USD 
+Price: 0.989302 
+Change: +0.045361 
+%Change: +4.81% 
+Market Cap: 219.88M 
+Volume in Currency (Since 0:00 UTC): 32.007M 
+Volume in Currency (24Hr): 32.007M 
+Total Volume All Currencies (24Hr): 32.007M 
+Circulating Supply: 222.257M 
+Link: https://finance.yahoo.com/quote/SUSHI-USD?p=SUSHI-USD 
+
+Crypto name: Arweave USD 
+Price: 6.5765 
+Change: +0.1439 
+%Change: +2.24% 
+Market Cap: 219.621M 
+Volume in Currency (Since 0:00 UTC): 8.975M 
+Volume in Currency (24Hr): 8.975M 
+Total Volume All Currencies (24Hr): 8.975M 
+Circulating Supply: 33.395M 
+Link: https://finance.yahoo.com/quote/AR-USD?p=AR-USD 
+
+Crypto name: Kusama USD 
+Price: 25.79 
+Change: +0.48 
+%Change: +1.88% 
+Market Cap: 218.472M 
+Volume in Currency (Since 0:00 UTC): 7.832M 
+Volume in Currency (24Hr): 7.832M 
+Total Volume All Currencies (24Hr): 7.832M 
+Circulating Supply: 8.47M 
+Link: https://finance.yahoo.com/quote/KSM-USD?p=KSM-USD 
+
+Crypto name: TerraClassicUSD USD 
+Price: 0.021935 
+Change: +0.000978 
+%Change: +4.67% 
+Market Cap: 215.045M 
+Volume in Currency (Since 0:00 UTC): 18.054M 
+Volume in Currency (24Hr): 18.054M 
+Total Volume All Currencies (24Hr): 18.054M 
+Circulating Supply: 9.804B 
+Link: https://finance.yahoo.com/quote/USTC-USD?p=USTC-USD 
+
+Crypto name: Theta Fuel USD 
+Price: 0.035150 
+Change: -0.000133 
+%Change: -0.38% 
+Market Cap: 209.314M 
+Volume in Currency (Since 0:00 UTC): 2.382M 
+Volume in Currency (24Hr): 2.382M 
+Total Volume All Currencies (24Hr): 2.382M 
+Circulating Supply: 5.955B 
+Link: https://finance.yahoo.com/quote/TFUEL-USD?p=TFUEL-USD 
+
+Crypto name: Oasis Network USD 
+Price: 0.036397 
+Change: +0.000779 
+%Change: +2.19% 
+Market Cap: 208.398M 
+Volume in Currency (Since 0:00 UTC): 7.841M 
+Volume in Currency (24Hr): 7.841M 
+Total Volume All Currencies (24Hr): 7.841M 
+Circulating Supply: 5.726B 
+Link: https://finance.yahoo.com/quote/ROSE-USD?p=ROSE-USD 
+
+Crypto name: SwissBorg USD 
+Price: 0.206226 
+Change: -0.001805 
+%Change: -0.87% 
+Market Cap: 206.226M 
+Volume in Currency (Since 0:00 UTC): 113,156 
+Volume in Currency (24Hr): 113,156 
+Total Volume All Currencies (24Hr): 113,156 
+Circulating Supply: 1B 
+Link: https://finance.yahoo.com/quote/CHSB-USD?p=CHSB-USD 
+
+Crypto name: Qtum USD 
+Price: 1.9599 
+Change: +0.0114 
+%Change: +0.59% 
+Market Cap: 204.748M 
+Volume in Currency (Since 0:00 UTC): 22.984M 
+Volume in Currency (24Hr): 22.984M 
+Total Volume All Currencies (24Hr): 22.984M 
+Circulating Supply: 104.469M 
+Link: https://finance.yahoo.com/quote/QTUM-USD?p=QTUM-USD 
+
+Crypto name: yearn.finance USD 
+Price: 5,540.84 
+Change: +43.24 
+%Change: +0.79% 
+Market Cap: 203.004M 
+Volume in Currency (Since 0:00 UTC): 10.532M 
+Volume in Currency (24Hr): 10.532M 
+Total Volume All Currencies (24Hr): 10.532M 
+Circulating Supply: 36,637 
+Link: https://finance.yahoo.com/quote/YFI-USD?p=YFI-USD 
+
+Crypto name: Rocket Pool USD 
+Price: 19.74 
+Change: +0.02 
+%Change: +0.08% 
+Market Cap: 202.905M 
+Volume in Currency (Since 0:00 UTC): 340,802 
+Volume in Currency (24Hr): 340,802 
+Total Volume All Currencies (24Hr): 340,802 
+Circulating Supply: 10.28M 
+Link: https://finance.yahoo.com/quote/RPL-USD?p=RPL-USD 
+
+Crypto name: BinaryX USD 
+Price: 69.47 
+Change: +1.37 
+%Change: +2.01% 
+Market Cap: 197.085M 
+Volume in Currency (Since 0:00 UTC): 8.438M 
+Volume in Currency (24Hr): 8.438M 
+Total Volume All Currencies (24Hr): 8.438M 
+Circulating Supply: 2.837M 
+Link: https://finance.yahoo.com/quote/BNX-USD?p=BNX-USD 
+
+Crypto name: Golem USD 
+Price: 0.193687 
+Change: +0.000189 
+%Change: +0.10% 
+Market Cap: 193.687M 
+Volume in Currency (Since 0:00 UTC): 2.928M 
+Volume in Currency (24Hr): 2.928M 
+Total Volume All Currencies (24Hr): 2.928M 
+Circulating Supply: 1B 
+Link: https://finance.yahoo.com/quote/GLM-USD?p=GLM-USD 
+
+Crypto name: IoTeX USD 
+Price: 0.020430 
+Change: +0.000514 
+%Change: +2.58% 
+Market Cap: 192.174M 
+Volume in Currency (Since 0:00 UTC): 8.426M 
+Volume in Currency (24Hr): 8.426M 
+Total Volume All Currencies (24Hr): 8.426M 
+Circulating Supply: 9.406B 
+Link: https://finance.yahoo.com/quote/IOTX-USD?p=IOTX-USD 
+
+Crypto name: Kadena USD 
+Price: 0.899625 
+Change: -0.002448 
+%Change: -0.27% 
+Market Cap: 191.609M 
+Volume in Currency (Since 0:00 UTC): 1.625M 
+Volume in Currency (24Hr): 1.625M 
+Total Volume All Currencies (24Hr): 1.625M 
+Circulating Supply: 212.988M 
+Link: https://finance.yahoo.com/quote/KDA-USD?p=KDA-USD 
+
+Crypto name: Liquity USD USD 
+Price: 1.0207 
+Change: -0.0029 
+%Change: -0.29% 
+Market Cap: 186.104M 
+Volume in Currency (Since 0:00 UTC): 1.863M 
+Volume in Currency (24Hr): 1.863M 
+Total Volume All Currencies (24Hr): 1.863M 
+Circulating Supply: 182.336M 
+Link: https://finance.yahoo.com/quote/LUSD-USD?p=LUSD-USD 
+
+Crypto name: JUST USD 
+Price: 0.020465 
+Change: -0.000351 
+%Change: -1.68% 
+Market Cap: 182.181M 
+Volume in Currency (Since 0:00 UTC): 7.377M 
+Volume in Currency (24Hr): 7.377M 
+Total Volume All Currencies (24Hr): 7.377M 
+Circulating Supply: 8.902B 
+Link: https://finance.yahoo.com/quote/JST-USD?p=JST-USD 
+
+Crypto name: Chia USD 
+Price: 29.62 
+Change: -0.02 
+%Change: -0.06% 
+Market Cap: 178.967M 
+Volume in Currency (Since 0:00 UTC): 3.404M 
+Volume in Currency (24Hr): 3.404M 
+Total Volume All Currencies (24Hr): 3.404M 
+Circulating Supply: 6.042M 
+Link: https://finance.yahoo.com/quote/XCH-USD?p=XCH-USD 
+
+Crypto name: Symbol USD 
+Price: 0.031278 
+Change: +0.000117 
+%Change: +0.37% 
+Market Cap: 174.611M 
+Volume in Currency (Since 0:00 UTC): 682,580 
+Volume in Currency (24Hr): 682,580 
+Total Volume All Currencies (24Hr): 682,580 
+Circulating Supply: 5.582B 
+Link: https://finance.yahoo.com/quote/XYM-USD?p=XYM-USD 
+
+Crypto name: STEPN USD 
+Price: 0.288276 
+Change: +0.000711 
+%Change: +0.25% 
+Market Cap: 172.966M 
+Volume in Currency (Since 0:00 UTC): 23.558M 
+Volume in Currency (24Hr): 23.558M 
+Total Volume All Currencies (24Hr): 23.558M 
+Circulating Supply: 600M 
+Link: https://finance.yahoo.com/quote/GMT18069-USD?p=GMT18069-USD 
+
+Crypto name: Moonbeam USD 
+Price: 0.351070 
+Change: -0.001545 
+%Change: -0.44% 
+Market Cap: 172.156M 
+Volume in Currency (Since 0:00 UTC): 3.801M 
+Volume in Currency (24Hr): 3.801M 
+Total Volume All Currencies (24Hr): 3.801M 
+Circulating Supply: 490.375M 
+Link: https://finance.yahoo.com/quote/GLMR-USD?p=GLMR-USD 
+
+Crypto name: Waves USD 
+Price: 1.5407 
+Change: -0.0217 
+%Change: -1.39% 
+Market Cap: 169.823M 
+Volume in Currency (Since 0:00 UTC): 34.148M 
+Volume in Currency (24Hr): 34.148M 
+Total Volume All Currencies (24Hr): 34.148M 
+Circulating Supply: 110.223M 
+Link: https://finance.yahoo.com/quote/WAVES-USD?p=WAVES-USD 
+
+Crypto name: Terra USD 
+Price: 1.3254 
+Change: +0.0339 
+%Change: +2.63% 
+Market Cap: 168.96M 
+Volume in Currency (Since 0:00 UTC): 43.517M 
+Volume in Currency (24Hr): 43.517M 
+Total Volume All Currencies (24Hr): 43.517M 
+Circulating Supply: 127.475M 
+Link: https://finance.yahoo.com/quote/LUNA20314-USD?p=LUNA20314-USD 
+
+Crypto name: Ankr USD 
+Price: 0.016758 
+Change: -0.000350 
+%Change: -2.05% 
+Market Cap: 161.926M 
+Volume in Currency (Since 0:00 UTC): 12.75M 
+Volume in Currency (24Hr): 12.75M 
+Total Volume All Currencies (24Hr): 12.75M 
+Circulating Supply: 9.663B 
+Link: https://finance.yahoo.com/quote/ANKR-USD?p=ANKR-USD 
+
+Crypto name: Mask Network USD 
+Price: 2.3644 
+Change: +0.0970 
+%Change: +4.28% 
+Market Cap: 161.255M 
+Volume in Currency (Since 0:00 UTC): 60.678M 
+Volume in Currency (24Hr): 60.678M 
+Total Volume All Currencies (24Hr): 60.678M 
+Circulating Supply: 68.2M 
+Link: https://finance.yahoo.com/quote/MASK8536-USD?p=MASK8536-USD 
+
+Crypto name: Dogelon Mars USD 
+Price: 0.00000029 
+Change: -0.00000000 
+%Change: -1.00% 
+Market Cap: 161.231M 
+Volume in Currency (Since 0:00 UTC): 2.773M 
+Volume in Currency (24Hr): 2.773M 
+Total Volume All Currencies (24Hr): 2.773M 
+Circulating Supply: 550.596T 
+Link: https://finance.yahoo.com/quote/ELON-USD?p=ELON-USD 
+
+Crypto name: Safe USD 
+Price: 7.3271 
+Change: -0.2745 
+%Change: -3.61% 
+Market Cap: 152.663M 
+Volume in Currency (Since 0:00 UTC): 178,438 
+Volume in Currency (24Hr): 178,438 
+Total Volume All Currencies (24Hr): 178,438 
+Circulating Supply: 20.835M 
+Link: https://finance.yahoo.com/quote/SAFE3918-USD?p=SAFE3918-USD 
+
+Crypto name: ZEON USD 
+Price: 0.004957 
+Change: -0.000006 
+%Change: -0.12% 
+Market Cap: 151.32M 
+Volume in Currency (Since 0:00 UTC): 304,533 
+Volume in Currency (24Hr): 304,533 
+Total Volume All Currencies (24Hr): 304,533 
+Circulating Supply: 30.529B 
+Link: https://finance.yahoo.com/quote/ZEON-USD?p=ZEON-USD 
+
+Crypto name: Astar USD 
+Price: 0.039163 
+Change: +0.000572 
+%Change: +1.48% 
+Market Cap: 150.095M 
+Volume in Currency (Since 0:00 UTC): 1.121M 
+Volume in Currency (24Hr): 1.121M 
+Total Volume All Currencies (24Hr): 1.121M 
+Circulating Supply: 3.833B 
+Link: https://finance.yahoo.com/quote/ASTR-USD?p=ASTR-USD 
+
+Crypto name: WOO Network USD 
+Price: 0.120616 
+Change: +0.006976 
+%Change: +6.14% 
+Market Cap: 145.769M 
+Volume in Currency (Since 0:00 UTC): 9.368M 
+Volume in Currency (24Hr): 9.368M 
+Total Volume All Currencies (24Hr): 9.368M 
+Circulating Supply: 1.209B 
+Link: https://finance.yahoo.com/quote/WOO-USD?p=WOO-USD 
+
+Crypto name: Polymath USD 
+Price: 0.157079 
+Change: +0.001125 
+%Change: +0.72% 
+Market Cap: 145.298M 
+Volume in Currency (Since 0:00 UTC): 1.632M 
+Volume in Currency (24Hr): 1.632M 
+Total Volume All Currencies (24Hr): 1.632M 
+Circulating Supply: 924.998M 
+Link: https://finance.yahoo.com/quote/POLY-USD?p=POLY-USD 
+
+Crypto name: OMG Network USD 
+Price: 1.0290 
+Change: +0.0090 
+%Change: +0.88% 
+Market Cap: 144.308M 
+Volume in Currency (Since 0:00 UTC): 18.765M 
+Volume in Currency (24Hr): 18.765M 
+Total Volume All Currencies (24Hr): 18.765M 
+Circulating Supply: 140.245M 
+Link: https://finance.yahoo.com/quote/OMG-USD?p=OMG-USD 
+
+Crypto name: Harmony USD 
+Price: 0.011151 
+Change: -0.000072 
+%Change: -0.64% 
+Market Cap: 144.088M 
+Volume in Currency (Since 0:00 UTC): 5.758M 
+Volume in Currency (24Hr): 5.758M 
+Total Volume All Currencies (24Hr): 5.758M 
+Circulating Supply: 12.922B 
+Link: https://finance.yahoo.com/quote/ONE3945-USD?p=ONE3945-USD 
+
+Crypto name: Livepeer USD 
+Price: 5.3238 
+Change: -0.2672 
+%Change: -4.78% 
+Market Cap: 143.485M 
+Volume in Currency (Since 0:00 UTC): 6.043M 
+Volume in Currency (24Hr): 6.043M 
+Total Volume All Currencies (24Hr): 6.043M 
+Circulating Supply: 26.951M 
+Link: https://finance.yahoo.com/quote/LPT-USD?p=LPT-USD 
+
+Crypto name: JasmyCoin USD 
+Price: 0.003062 
+Change: -0.000030 
+%Change: -0.97% 
+Market Cap: 141.758M 
+Volume in Currency (Since 0:00 UTC): 14.642M 
+Volume in Currency (24Hr): 14.642M 
+Total Volume All Currencies (24Hr): 14.642M 
+Circulating Supply: 46.3B 
+Link: https://finance.yahoo.com/quote/JASMY-USD?p=JASMY-USD 
+
+Crypto name: Telcoin USD 
+Price: 0.002178 
+Change: -0.000029 
+%Change: -1.29% 
+Market Cap: 140.987M 
+Volume in Currency (Since 0:00 UTC): 528,842 
+Volume in Currency (24Hr): 528,842 
+Total Volume All Currencies (24Hr): 528,842 
+Circulating Supply: 64.744B 
+Link: https://finance.yahoo.com/quote/TEL-USD?p=TEL-USD 
+
+Crypto name: Hive USD 
+Price: 0.287779 
+Change: -0.006873 
+%Change: -2.33% 
+Market Cap: 140.841M 
+Volume in Currency (Since 0:00 UTC): 2.56M 
+Volume in Currency (24Hr): 2.56M 
+Total Volume All Currencies (24Hr): 2.56M 
+Circulating Supply: 489.406M 
+Link: https://finance.yahoo.com/quote/HIVE-USD?p=HIVE-USD 
+
+Crypto name: Ontology USD 
+Price: 0.159033 
+Change: +0.001105 
+%Change: +0.70% 
+Market Cap: 139.193M 
+Volume in Currency (Since 0:00 UTC): 5.15M 
+Volume in Currency (24Hr): 5.15M 
+Total Volume All Currencies (24Hr): 5.15M 
+Circulating Supply: 875.25M 
+Link: https://finance.yahoo.com/quote/ONT-USD?p=ONT-USD 
+
+Crypto name: 0x USD 
+Price: 0.163352 
+Change: +0.000009 
+%Change: +0.01% 
+Market Cap: 138.44M 
+Volume in Currency (Since 0:00 UTC): 5.434M 
+Volume in Currency (24Hr): 5.434M 
+Total Volume All Currencies (24Hr): 5.434M 
+Circulating Supply: 847.496M 
+Link: https://finance.yahoo.com/quote/ZRX-USD?p=ZRX-USD 
+
+Crypto name: ICON USD 
+Price: 0.148152 
+Change: -0.001012 
+%Change: -0.68% 
+Market Cap: 136.223M 
+Volume in Currency (Since 0:00 UTC): 2.35M 
+Volume in Currency (24Hr): 2.35M 
+Total Volume All Currencies (24Hr): 2.35M 
+Circulating Supply: 919.483M 
+Link: https://finance.yahoo.com/quote/ICX-USD?p=ICX-USD 
+
+Crypto name: LINK USD 
+Price: 21.55 
+Change: -0.30 
+%Change: -1.39% 
+Market Cap: 134.939M 
+Volume in Currency (Since 0:00 UTC): 811,241 
+Volume in Currency (24Hr): 811,241 
+Total Volume All Currencies (24Hr): 811,241 
+Circulating Supply: 6.263M 
+Link: https://finance.yahoo.com/quote/LN-USD?p=LN-USD 
+
+Crypto name: Amp USD 
+Price: 0.003168 
+Change: -0.000040 
+%Change: -1.25% 
+Market Cap: 133.757M 
+Volume in Currency (Since 0:00 UTC): 2.569M 
+Volume in Currency (24Hr): 2.569M 
+Total Volume All Currencies (24Hr): 2.569M 
+Circulating Supply: 42.228B 
+Link: https://finance.yahoo.com/quote/AMP-USD?p=AMP-USD 
+
+Crypto name: Flux USD 
+Price: 0.465096 
+Change: +0.002588 
+%Change: +0.56% 
+Market Cap: 132.738M 
+Volume in Currency (Since 0:00 UTC): 3.568M 
+Volume in Currency (24Hr): 3.568M 
+Total Volume All Currencies (24Hr): 3.568M 
+Circulating Supply: 285.399M 
+Link: https://finance.yahoo.com/quote/FLUX-USD?p=FLUX-USD 
+
+Crypto name: IOST USD 
+Price: 0.007072 
+Change: -0.000013 
+%Change: -0.19% 
+Market Cap: 131.456M 
+Volume in Currency (Since 0:00 UTC): 3.063M 
+Volume in Currency (24Hr): 3.063M 
+Total Volume All Currencies (24Hr): 3.063M 
+Circulating Supply: 18.589B 
+Link: https://finance.yahoo.com/quote/IOST-USD?p=IOST-USD 
+
+Crypto name: STASIS EURO USD 
+Price: 1.0583 
+Change: +0.0038 
+%Change: +0.36% 
+Market Cap: 131.359M 
+Volume in Currency (Since 0:00 UTC): 368,765 
+Volume in Currency (24Hr): 368,765 
+Total Volume All Currencies (24Hr): 368,765 
+Circulating Supply: 124.126M 
+Link: https://finance.yahoo.com/quote/EURS-USD?p=EURS-USD 
+
+Crypto name: Bone ShibaSwap USD 
+Price: 0.814583 
+Change: +0.001846 
+%Change: +0.23% 
+Market Cap: 131.237M 
+Volume in Currency (Since 0:00 UTC): 2.393M 
+Volume in Currency (24Hr): 2.393M 
+Total Volume All Currencies (24Hr): 2.393M 
+Circulating Supply: 161.11M 
+Link: https://finance.yahoo.com/quote/BONE11865-USD?p=BONE11865-USD 
+
+Crypto name: Threshold USD 
+Price: 0.015846 
+Change: -0.000063 
+%Change: -0.40% 
+Market Cap: 130.659M 
+Volume in Currency (Since 0:00 UTC): 7.398M 
+Volume in Currency (24Hr): 7.398M 
+Total Volume All Currencies (24Hr): 7.398M 
+Circulating Supply: 8.245B 
+Link: https://finance.yahoo.com/quote/T-USD?p=T-USD 
+
+Crypto name: Reserve Rights USD 
+Price: 0.003029 
+Change: +0.000039 
+%Change: +1.30% 
+Market Cap: 128.12M 
+Volume in Currency (Since 0:00 UTC): 4.27M 
+Volume in Currency (24Hr): 4.27M 
+Total Volume All Currencies (24Hr): 4.27M 
+Circulating Supply: 42.302B 
+Link: https://finance.yahoo.com/quote/RSR-USD?p=RSR-USD 
+
+Crypto name: Gala USD 
+Price: 0.018328 
+Change: -0.000167 
+%Change: -0.91% 
+Market Cap: 127.877M 
+Volume in Currency (Since 0:00 UTC): 34.148M 
+Volume in Currency (24Hr): 34.148M 
+Total Volume All Currencies (24Hr): 34.148M 
+Circulating Supply: 6.977B 
+Link: https://finance.yahoo.com/quote/GALA-USD?p=GALA-USD 
+
+Crypto name: SafePal USD 
+Price: 0.389811 
+Change: +0.005615 
+%Change: +1.46% 
+Market Cap: 126.455M 
+Volume in Currency (Since 0:00 UTC): 3.31M 
+Volume in Currency (24Hr): 3.31M 
+Total Volume All Currencies (24Hr): 3.31M 
+Circulating Supply: 324.402M 
+Link: https://finance.yahoo.com/quote/SFP-USD?p=SFP-USD 
+
+Crypto name: Bitgert USD 
+Price: 0.00000032 
+Change: -0.00000000 
+%Change: -1.37% 
+Market Cap: 125.495M 
+Volume in Currency (Since 0:00 UTC): 1.294M 
+Volume in Currency (24Hr): 1.294M 
+Total Volume All Currencies (24Hr): 1.294M 
+Circulating Supply: 395.688T 
+Link: https://finance.yahoo.com/quote/BRISE-USD?p=BRISE-USD 
+
+Crypto name: Siacoin USD 
+Price: 0.002346 
+Change: -0.000012 
+%Change: -0.50% 
+Market Cap: 123.959M 
+Volume in Currency (Since 0:00 UTC): 1.633M 
+Volume in Currency (24Hr): 1.633M 
+Total Volume All Currencies (24Hr): 1.633M 
+Circulating Supply: 52.844B 
+Link: https://finance.yahoo.com/quote/SC-USD?p=SC-USD 
+
+Crypto name: DigiByte USD 
+Price: 0.007738 
+Change: +0.000100 
+%Change: +1.32% 
+Market Cap: 123.048M 
+Volume in Currency (Since 0:00 UTC): 1.96M 
+Volume in Currency (24Hr): 1.96M 
+Total Volume All Currencies (24Hr): 1.96M 
+Circulating Supply: 15.901B 
+Link: https://finance.yahoo.com/quote/DGB-USD?p=DGB-USD 
+
+Crypto name: APENFT USD 
+Price: 0.00000044 
+Change: -0.00000000 
+%Change: -0.24% 
+Market Cap: 122.814M 
+Volume in Currency (Since 0:00 UTC): 9.399M 
+Volume in Currency (24Hr): 9.399M 
+Total Volume All Currencies (24Hr): 9.399M 
+Circulating Supply: 277.081T 
+Link: https://finance.yahoo.com/quote/NFT9816-USD?p=NFT9816-USD 
+
+Crypto name: Horizen USD 
+Price: 9.3044 
+Change: +0.0697 
+%Change: +0.76% 
+Market Cap: 122.732M 
+Volume in Currency (Since 0:00 UTC): 8.368M 
+Volume in Currency (24Hr): 8.368M 
+Total Volume All Currencies (24Hr): 8.368M 
+Circulating Supply: 13.191M 
+Link: https://finance.yahoo.com/quote/ZEN-USD?p=ZEN-USD 
+
+Crypto name: Celsius USD 
+Price: 0.510692 
+Change: +0.001242 
+%Change: +0.24% 
+Market Cap: 121.986M 
+Volume in Currency (Since 0:00 UTC): 1.021M 
+Volume in Currency (24Hr): 1.021M 
+Total Volume All Currencies (24Hr): 1.021M 
+Circulating Supply: 238.864M 
+Link: https://finance.yahoo.com/quote/CEL-USD?p=CEL-USD 
+
+Crypto name: Audius USD 
+Price: 0.129966 
+Change: +0.000514 
+%Change: +0.40% 
+Market Cap: 120.835M 
+Volume in Currency (Since 0:00 UTC): 3.135M 
+Volume in Currency (24Hr): 3.135M 
+Total Volume All Currencies (24Hr): 3.135M 
+Circulating Supply: 929.743M 
+Link: https://finance.yahoo.com/quote/AUDIO-USD?p=AUDIO-USD 
+
+Crypto name: Ribbon Finance USD 
+Price: 0.225747 
+Change: -0.010837 
+%Change: -4.58% 
+Market Cap: 118.972M 
+Volume in Currency (Since 0:00 UTC): 341,082 
+Volume in Currency (24Hr): 341,082 
+Total Volume All Currencies (24Hr): 341,082 
+Circulating Supply: 527.016M 
+Link: https://finance.yahoo.com/quote/RBN-USD?p=RBN-USD 
+
+Crypto name: Braintrust USD 
+Price: 0.891754 
+Change: -0.004384 
+%Change: -0.49% 
+Market Cap: 115.771M 
+Volume in Currency (Since 0:00 UTC): 542,480 
+Volume in Currency (24Hr): 542,480 
+Total Volume All Currencies (24Hr): 542,480 
+Circulating Supply: 129.824M 
+Link: https://finance.yahoo.com/quote/BTRST-USD?p=BTRST-USD 
+
+Crypto name: MAGIC USD 
+Price: 0.558933 
+Change: -0.025097 
+%Change: -4.30% 
+Market Cap: 114.66M 
+Volume in Currency (Since 0:00 UTC): 7.49M 
+Volume in Currency (24Hr): 7.49M 
+Total Volume All Currencies (24Hr): 7.49M 
+Circulating Supply: 205.141M 
+Link: https://finance.yahoo.com/quote/MAGIC14783-USD?p=MAGIC14783-USD 
+
+Crypto name: Baby Doge Coin USD 
+Price: 0.00000000 
+Change: +0.00000000 
+%Change: +2.42% 
+Market Cap: 111.393M 
+Volume in Currency (Since 0:00 UTC): 2.352M 
+Volume in Currency (24Hr): 2.352M 
+Total Volume All Currencies (24Hr): 2.352M 
+Circulating Supply: 115,113.336T 
+Link: https://finance.yahoo.com/quote/BABYDOGE-USD?p=BABYDOGE-USD 
+
+Crypto name: WAX USD 
+Price: 0.047332 
+Change: -0.000191 
+%Change: -0.40% 
+Market Cap: 110.177M 
+Volume in Currency (Since 0:00 UTC): 2.08M 
+Volume in Currency (24Hr): 2.08M 
+Total Volume All Currencies (24Hr): 2.08M 
+Circulating Supply: 2.328B 
+Link: https://finance.yahoo.com/quote/WAXP-USD?p=WAXP-USD 
+
+Crypto name: SXP USD 
+Price: 0.216582 
+Change: +0.003106 
+%Change: +1.46% 
+Market Cap: 110.167M 
+Volume in Currency (Since 0:00 UTC): 3.602M 
+Volume in Currency (24Hr): 3.602M 
+Total Volume All Currencies (24Hr): 3.602M 
+Circulating Supply: 508.661M 
+Link: https://finance.yahoo.com/quote/SXP-USD?p=SXP-USD 
+
+Crypto name: UMA USD 
+Price: 1.5895 
+Change: +0.0028 
+%Change: +0.17% 
+Market Cap: 109.589M 
+Volume in Currency (Since 0:00 UTC): 4.816M 
+Volume in Currency (24Hr): 4.816M 
+Total Volume All Currencies (24Hr): 4.816M 
+Circulating Supply: 68.947M 
+Link: https://finance.yahoo.com/quote/UMA-USD?p=UMA-USD 
+
+Crypto name: Ocean Protocol USD 
+Price: 0.178647 
+Change: +0.009487 
+%Change: +5.61% 
+Market Cap: 109.528M 
+Volume in Currency (Since 0:00 UTC): 24.796M 
+Volume in Currency (24Hr): 24.796M 
+Total Volume All Currencies (24Hr): 24.796M 
+Circulating Supply: 613.099M 
+Link: https://finance.yahoo.com/quote/OCEAN-USD?p=OCEAN-USD 
+
+Crypto name: Storj USD 
+Price: 0.260919 
+Change: +0.001325 
+%Change: +0.51% 
+Market Cap: 107.743M 
+Volume in Currency (Since 0:00 UTC): 7.983M 
+Volume in Currency (24Hr): 7.983M 
+Total Volume All Currencies (24Hr): 7.983M 
+Circulating Supply: 412.937M 
+Link: https://finance.yahoo.com/quote/STORJ-USD?p=STORJ-USD 
+
+Crypto name: BORA USD 
+Price: 0.116036 
+Change: -0.002000 
+%Change: -1.69% 
+Market Cap: 107.623M 
+Volume in Currency (Since 0:00 UTC): 1.369M 
+Volume in Currency (24Hr): 1.369M 
+Total Volume All Currencies (24Hr): 1.369M 
+Circulating Supply: 927.5M 
+Link: https://finance.yahoo.com/quote/BORA-USD?p=BORA-USD 
+
+Crypto name: iExec RLC USD 
+Price: 1.3269 
+Change: +0.0015 
+%Change: +0.12% 
+Market Cap: 107.475M 
+Volume in Currency (Since 0:00 UTC): 12.281M 
+Volume in Currency (24Hr): 12.281M 
+Total Volume All Currencies (24Hr): 12.281M 
+Circulating Supply: 81M 
+Link: https://finance.yahoo.com/quote/RLC-USD?p=RLC-USD 
+
+Crypto name: ConstitutionDAO USD 
+Price: 0.021198 
+Change: +0.000058 
+%Change: +0.27% 
+Market Cap: 107.266M 
+Volume in Currency (Since 0:00 UTC): 13.116M 
+Volume in Currency (24Hr): 13.116M 
+Total Volume All Currencies (24Hr): 13.116M 
+Circulating Supply: 5.06B 
+Link: https://finance.yahoo.com/quote/PEOPLE-USD?p=PEOPLE-USD 
+
+Crypto name: Render Token USD 
+Price: 0.419659 
+Change: +0.001087 
+%Change: +0.26% 
+Market Cap: 106.509M 
+Volume in Currency (Since 0:00 UTC): 3.852M 
+Volume in Currency (24Hr): 3.852M 
+Total Volume All Currencies (24Hr): 3.852M 
+Circulating Supply: 253.799M 
+Link: https://finance.yahoo.com/quote/RNDR-USD?p=RNDR-USD 
+
+Crypto name: Secret USD 
+Price: 0.640104 
+Change: +0.018618 
+%Change: +3.00% 
+Market Cap: 104.526M 
+Volume in Currency (Since 0:00 UTC): 1.156M 
+Volume in Currency (24Hr): 1.156M 
+Total Volume All Currencies (24Hr): 1.156M 
+Circulating Supply: 163.296M 
+Link: https://finance.yahoo.com/quote/SCRT-USD?p=SCRT-USD 
+
+Crypto name: Venus USDC USD 
+Price: 0.021773 
+Change: +0.000002 
+%Change: +0.01% 
+Market Cap: 103.881M 
+Volume in Currency (Since 0:00 UTC): 7.116M 
+Volume in Currency (24Hr): 7.116M 
+Total Volume All Currencies (24Hr): 7.116M 
+Circulating Supply: 4.771B 
+Link: https://finance.yahoo.com/quote/VUSDC-USD?p=VUSDC-USD 
+
+Crypto name: ssv.network USD 
+Price: 10.27 
+Change: +0.11 
+%Change: +1.11% 
+Market Cap: 102.706M 
+Volume in Currency (Since 0:00 UTC): 1.258M 
+Volume in Currency (24Hr): 1.258M 
+Total Volume All Currencies (24Hr): 1.258M 
+Circulating Supply: 10M 
+Link: https://finance.yahoo.com/quote/SSV-USD?p=SSV-USD 
+
+Crypto name: Merit Circle USD 
+Price: 0.306892 
+Change: -0.000569 
+%Change: -0.19% 
+Market Cap: 98.85M 
+Volume in Currency (Since 0:00 UTC): 1.352M 
+Volume in Currency (24Hr): 1.352M 
+Total Volume All Currencies (24Hr): 1.352M 
+Circulating Supply: 322.102M 
+Link: https://finance.yahoo.com/quote/MC-USD?p=MC-USD 
+
+Crypto name: LUKSO USD 
+Price: 6.3879 
+Change: +0.2726 
+%Change: +4.46% 
+Market Cap: 98.411M 
+Volume in Currency (Since 0:00 UTC): 1.11M 
+Volume in Currency (24Hr): 1.11M 
+Total Volume All Currencies (24Hr): 1.11M 
+Circulating Supply: 15.406M 
+Link: https://finance.yahoo.com/quote/LYXE-USD?p=LYXE-USD 
+
+Crypto name: Lisk USD 
+Price: 0.760449 
+Change: +0.020113 
+%Change: +2.72% 
+Market Cap: 98.022M 
+Volume in Currency (Since 0:00 UTC): 8.449M 
+Volume in Currency (24Hr): 8.449M 
+Total Volume All Currencies (24Hr): 8.449M 
+Circulating Supply: 128.9M 
+Link: https://finance.yahoo.com/quote/LSK-USD?p=LSK-USD 
+
+Crypto name: VVS Finance USD 
+Price: 0.00000316 
+Change: +0.00000000 
+%Change: +0.15% 
+Market Cap: 97.43M 
+Volume in Currency (Since 0:00 UTC): 320,763 
+Volume in Currency (24Hr): 320,763 
+Total Volume All Currencies (24Hr): 320,763 
+Circulating Supply: 30.804T 
+Link: https://finance.yahoo.com/quote/VVS-USD?p=VVS-USD 
+
+Crypto name: Injective USD 
+Price: 1.3186 
+Change: +0.0034 
+%Change: +0.26% 
+Market Cap: 96.265M 
+Volume in Currency (Since 0:00 UTC): 3.115M 
+Volume in Currency (24Hr): 3.115M 
+Total Volume All Currencies (24Hr): 3.115M 
+Circulating Supply: 73.006M 
+Link: https://finance.yahoo.com/quote/INJ-USD?p=INJ-USD 
+
+Crypto name: Creditcoin USD 
+Price: 0.462100 
+Change: -0.019804 
+%Change: -4.11% 
+Market Cap: 95.772M 
+Volume in Currency (Since 0:00 UTC): 11.573M 
+Volume in Currency (24Hr): 11.573M 
+Total Volume All Currencies (24Hr): 11.573M 
+Circulating Supply: 207.254M 
+Link: https://finance.yahoo.com/quote/CTC-USD?p=CTC-USD 
+
+Crypto name: Tribe USD 
+Price: 0.206713 
+Change: +0.003761 
+%Change: +1.85% 
+Market Cap: 93.734M 
+Volume in Currency (Since 0:00 UTC): 1.188M 
+Volume in Currency (24Hr): 1.188M 
+Total Volume All Currencies (24Hr): 1.188M 
+Circulating Supply: 453.449M 
+Link: https://finance.yahoo.com/quote/TRIBE-USD?p=TRIBE-USD 
+
+Crypto name: Energy Web Token USD 
+Price: 3.1135 
+Change: -0.0714 
+%Change: -2.24% 
+Market Cap: 93.598M 
+Volume in Currency (Since 0:00 UTC): 1.14M 
+Volume in Currency (24Hr): 1.14M 
+Total Volume All Currencies (24Hr): 1.14M 
+Circulating Supply: 30.062M 
+Link: https://finance.yahoo.com/quote/EWT-USD?p=EWT-USD 
+
+Crypto name: USDX [Kava] USD 
+Price: 0.836602 
+Change: +0.005956 
+%Change: +0.72% 
+Market Cap: 93.337M 
+Volume in Currency (Since 0:00 UTC): 286,957 
+Volume in Currency (24Hr): 286,957 
+Total Volume All Currencies (24Hr): 286,957 
+Circulating Supply: 111.567M 
+Link: https://finance.yahoo.com/quote/USDX6651-USD?p=USDX6651-USD 
+
+Crypto name: Smooth Love Potion USD 
+Price: 0.002175 
+Change: +0.000027 
+%Change: +1.27% 
+Market Cap: 92.776M 
+Volume in Currency (Since 0:00 UTC): 6.068M 
+Volume in Currency (24Hr): 6.068M 
+Total Volume All Currencies (24Hr): 6.068M 
+Circulating Supply: 42.655B 
+Link: https://finance.yahoo.com/quote/SLP-USD?p=SLP-USD 
+
+Crypto name: SKALE USD 
+Price: 0.022668 
+Change: +0.000443 
+%Change: +1.99% 
+Market Cap: 91.564M 
+Volume in Currency (Since 0:00 UTC): 2.752M 
+Volume in Currency (24Hr): 2.752M 
+Total Volume All Currencies (24Hr): 2.752M 
+Circulating Supply: 4.039B 
+Link: https://finance.yahoo.com/quote/SKL-USD?p=SKL-USD 
+
+Crypto name: ABBC Coin USD 
+Price: 0.087204 
+Change: -0.005475 
+%Change: -5.91% 
+Market Cap: 91.343M 
+Volume in Currency (Since 0:00 UTC): 6.978M 
+Volume in Currency (24Hr): 6.978M 
+Total Volume All Currencies (24Hr): 6.978M 
+Circulating Supply: 1.047B 
+Link: https://finance.yahoo.com/quote/ABBC-USD?p=ABBC-USD 
+
+Crypto name: Aragon USD 
+Price: 2.1667 
+Change: +0.0343 
+%Change: +1.61% 
+Market Cap: 90.91M 
+Volume in Currency (Since 0:00 UTC): 13.091M 
+Volume in Currency (24Hr): 13.091M 
+Total Volume All Currencies (24Hr): 13.091M 
+Circulating Supply: 41.958M 
+Link: https://finance.yahoo.com/quote/ANT-USD?p=ANT-USD 
+
+Crypto name: WEMIX USD 
+Price: 0.363189 
+Change: -0.006027 
+%Change: -1.63% 
+Market Cap: 90.103M 
+Volume in Currency (Since 0:00 UTC): 1.243M 
+Volume in Currency (24Hr): 1.243M 
+Total Volume All Currencies (24Hr): 1.243M 
+Circulating Supply: 248.09M 
+Link: https://finance.yahoo.com/quote/WEMIX-USD?p=WEMIX-USD 
+
+Crypto name: Pundi X (New) USD 
+Price: 0.345577 
+Change: -0.000517 
+%Change: -0.15% 
+Market Cap: 89.329M 
+Volume in Currency (Since 0:00 UTC): 7.842M 
+Volume in Currency (24Hr): 7.842M 
+Total Volume All Currencies (24Hr): 7.842M 
+Circulating Supply: 258.492M 
+Link: https://finance.yahoo.com/quote/PUNDIX-USD?p=PUNDIX-USD 
+
+Crypto name: MXC USD 
+Price: 0.033613 
+Change: -0.002878 
+%Change: -7.89% 
+Market Cap: 88.81M 
+Volume in Currency (Since 0:00 UTC): 9.76M 
+Volume in Currency (24Hr): 9.76M 
+Total Volume All Currencies (24Hr): 9.76M 
+Circulating Supply: 2.642B 
+Link: https://finance.yahoo.com/quote/MXC-USD?p=MXC-USD 
+
+Crypto name: Voyager Token USD 
+Price: 0.316418 
+Change: -0.000178 
+%Change: -0.06% 
+Market Cap: 88.117M 
+Volume in Currency (Since 0:00 UTC): 3.043M 
+Volume in Currency (24Hr): 3.043M 
+Total Volume All Currencies (24Hr): 3.043M 
+Circulating Supply: 278.482M 
+Link: https://finance.yahoo.com/quote/VGX-USD?p=VGX-USD 
+
+Crypto name: Nano USD 
+Price: 0.659252 
+Change: -0.001147 
+%Change: -0.17% 
+Market Cap: 87.844M 
+Volume in Currency (Since 0:00 UTC): 613,122 
+Volume in Currency (24Hr): 613,122 
+Total Volume All Currencies (24Hr): 613,122 
+Circulating Supply: 133.248M 
+Link: https://finance.yahoo.com/quote/XNO-USD?p=XNO-USD 
+
+Crypto name: Kyber Network Crystal v2 USD 
+Price: 0.530393 
+Change: +0.002785 
+%Change: +0.53% 
+Market Cap: 87.458M 
+Volume in Currency (Since 0:00 UTC): 9.591M 
+Volume in Currency (24Hr): 9.591M 
+Total Volume All Currencies (24Hr): 9.591M 
+Circulating Supply: 164.894M 
+Link: https://finance.yahoo.com/quote/KNC-USD?p=KNC-USD 
+
+Crypto name: Request USD 
+Price: 0.087093 
+Change: -0.001207 
+%Change: -1.37% 
+Market Cap: 87.078M 
+Volume in Currency (Since 0:00 UTC): 1.38M 
+Volume in Currency (24Hr): 1.38M 
+Total Volume All Currencies (24Hr): 1.38M 
+Circulating Supply: 999.83M 
+Link: https://finance.yahoo.com/quote/REQ-USD?p=REQ-USD 
+
+Crypto name: Veritaseum USD 
+Price: 40.28 
+Change: -3.52 
+%Change: -8.03% 
+Market Cap: 86.597M 
+Volume in Currency (Since 0:00 UTC): 8,376 
+Volume in Currency (24Hr): 8,376 
+Total Volume All Currencies (24Hr): 8,376 
+Circulating Supply: 2.15M 
+Link: https://finance.yahoo.com/quote/VERI-USD?p=VERI-USD 
+
+Crypto name: API3 USD 
+Price: 1.1954 
+Change: +0.0045 
+%Change: +0.38% 
+Market Cap: 85.77M 
+Volume in Currency (Since 0:00 UTC): 3.01M 
+Volume in Currency (24Hr): 3.01M 
+Total Volume All Currencies (24Hr): 3.01M 
+Circulating Supply: 71.749M 
+Link: https://finance.yahoo.com/quote/API3-USD?p=API3-USD 
+
+Crypto name: Anyswap USD 
+Price: 4.5815 
+Change: -0.0744 
+%Change: -1.60% 
+Market Cap: 85.396M 
+Volume in Currency (Since 0:00 UTC): 3,417 
+Volume in Currency (24Hr): 3,417 
+Total Volume All Currencies (24Hr): 3,417 
+Circulating Supply: 18.639M 
+Link: https://finance.yahoo.com/quote/ANY-USD?p=ANY-USD 
+
+Crypto name: DeXe USD 
+Price: 2.2867 
+Change: -0.0374 
+%Change: -1.61% 
+Market Cap: 83.401M 
+Volume in Currency (Since 0:00 UTC): 2.124M 
+Volume in Currency (24Hr): 2.124M 
+Total Volume All Currencies (24Hr): 2.124M 
+Circulating Supply: 36.473M 
+Link: https://finance.yahoo.com/quote/DEXE-USD?p=DEXE-USD 
+
+Crypto name: Civic USD 
+Price: 0.082744 
+Change: -0.001213 
+%Change: -1.45% 
+Market Cap: 82.744M 
+Volume in Currency (Since 0:00 UTC): 5.885M 
+Volume in Currency (24Hr): 5.885M 
+Total Volume All Currencies (24Hr): 5.885M 
+Circulating Supply: 1B 
+Link: https://finance.yahoo.com/quote/CVC-USD?p=CVC-USD 
+
+Crypto name: AVINOC USD 
+Price: 0.211585 
+Change: +0.000260 
+%Change: +0.12% 
+Market Cap: 82.358M 
+Volume in Currency (Since 0:00 UTC): 366,591 
+Volume in Currency (24Hr): 366,591 
+Total Volume All Currencies (24Hr): 366,591 
+Circulating Supply: 389.244M 
+Link: https://finance.yahoo.com/quote/AVINOC-USD?p=AVINOC-USD 
+
+Crypto name: Fetch.ai USD 
+Price: 0.099997 
+Change: -0.001608 
+%Change: -1.58% 
+Market Cap: 81.889M 
+Volume in Currency (Since 0:00 UTC): 23.893M 
+Volume in Currency (24Hr): 23.893M 
+Total Volume All Currencies (24Hr): 23.893M 
+Circulating Supply: 818.912M 
+Link: https://finance.yahoo.com/quote/FET-USD?p=FET-USD 
+
+Crypto name: MX TOKEN USD 
+Price: 0.813157 
+Change: +0.000461 
+%Change: +0.06% 
+Market Cap: 81.316M 
+Volume in Currency (Since 0:00 UTC): 626,166 
+Volume in Currency (24Hr): 626,166 
+Total Volume All Currencies (24Hr): 626,166 
+Circulating Supply: 100M 
+Link: https://finance.yahoo.com/quote/MX-USD?p=MX-USD 
+
+Crypto name: MediBloc USD 
+Price: 0.012756 
+Change: +0.000001 
+%Change: +0.00% 
+Market Cap: 81.203M 
+Volume in Currency (Since 0:00 UTC): 559,864 
+Volume in Currency (24Hr): 559,864 
+Total Volume All Currencies (24Hr): 559,864 
+Circulating Supply: 6.366B 
+Link: https://finance.yahoo.com/quote/MED-USD?p=MED-USD 
+
+Crypto name: PlayDapp USD 
+Price: 0.150654 
+Change: -0.001386 
+%Change: -0.91% 
+Market Cap: 81.03M 
+Volume in Currency (Since 0:00 UTC): 7.116M 
+Volume in Currency (24Hr): 7.116M 
+Total Volume All Currencies (24Hr): 7.116M 
+Circulating Supply: 537.856M 
+Link: https://finance.yahoo.com/quote/PLA7461-USD?p=PLA7461-USD 
+
+Crypto name: Radicle USD 
+Price: 1.6509 
+Change: -0.0081 
+%Change: -0.49% 
+Market Cap: 80.613M 
+Volume in Currency (Since 0:00 UTC): 5.491M 
+Volume in Currency (24Hr): 5.491M 
+Total Volume All Currencies (24Hr): 5.491M 
+Circulating Supply: 48.83M 
+Link: https://finance.yahoo.com/quote/RAD-USD?p=RAD-USD 
+
+Crypto name: DAO Maker USD 
+Price: 0.874892 
+Change: -0.004757 
+%Change: -0.54% 
+Market Cap: 80.555M 
+Volume in Currency (Since 0:00 UTC): 734,811 
+Volume in Currency (24Hr): 734,811 
+Total Volume All Currencies (24Hr): 734,811 
+Circulating Supply: 92.074M 
+Link: https://finance.yahoo.com/quote/DAO-USD?p=DAO-USD 
+
+Crypto name: Syscoin USD 
+Price: 0.106496 
+Change: +0.001065 
+%Change: +1.01% 
+Market Cap: 79.948M 
+Volume in Currency (Since 0:00 UTC): 1.591M 
+Volume in Currency (24Hr): 1.591M 
+Total Volume All Currencies (24Hr): 1.591M 
+Circulating Supply: 750.718M 
+Link: https://finance.yahoo.com/quote/SYS-USD?p=SYS-USD 
+
+Crypto name: Status USD 
+Price: 0.020154 
+Change: -0.000307 
+%Change: -1.50% 
+Market Cap: 79.035M 
+Volume in Currency (Since 0:00 UTC): 2.376M 
+Volume in Currency (24Hr): 2.376M 
+Total Volume All Currencies (24Hr): 2.376M 
+Circulating Supply: 3.922B 
+Link: https://finance.yahoo.com/quote/SNT-USD?p=SNT-USD 
+
+Crypto name: Numeraire USD 
+Price: 13.42 
+Change: +0.06 
+%Change: +0.43% 
+Market Cap: 79.027M 
+Volume in Currency (Since 0:00 UTC): 13.131M 
+Volume in Currency (24Hr): 13.131M 
+Total Volume All Currencies (24Hr): 13.131M 
+Circulating Supply: 5.889M 
+Link: https://finance.yahoo.com/quote/NMR-USD?p=NMR-USD 
+
+Crypto name: aelf USD 
+Price: 0.147740 
+Change: -0.004111 
+%Change: -2.71% 
+Market Cap: 77.909M 
+Volume in Currency (Since 0:00 UTC): 8.408M 
+Volume in Currency (24Hr): 8.408M 
+Total Volume All Currencies (24Hr): 8.408M 
+Circulating Supply: 527.34M 
+Link: https://finance.yahoo.com/quote/ELF-USD?p=ELF-USD 
+
+Crypto name: Kaspa USD 
+Price: 0.005022 
+Change: -0.000190 
+%Change: -3.65% 
+Market Cap: 77.629M 
+Volume in Currency (Since 0:00 UTC): 1.336M 
+Volume in Currency (24Hr): 1.336M 
+Total Volume All Currencies (24Hr): 1.336M 
+Circulating Supply: 15.457B 
+Link: https://finance.yahoo.com/quote/KAS-USD?p=KAS-USD 
+
+Crypto name: Illuvium USD 
+Price: 40.09 
+Change: +0.21 
+%Change: +0.54% 
+Market Cap: 77.507M 
+Volume in Currency (Since 0:00 UTC): 4.479M 
+Volume in Currency (24Hr): 4.479M 
+Total Volume All Currencies (24Hr): 4.479M 
+Circulating Supply: 1.933M 
+Link: https://finance.yahoo.com/quote/ILV-USD?p=ILV-USD 
+
+Crypto name: Ren USD 
+Price: 0.077247 
+Change: +0.016139 
+%Change: +26.41% 
+Market Cap: 77.173M 
+Volume in Currency (Since 0:00 UTC): 123.201M 
+Volume in Currency (24Hr): 123.201M 
+Total Volume All Currencies (24Hr): 123.201M 
+Circulating Supply: 999.038M 
+Link: https://finance.yahoo.com/quote/REN-USD?p=REN-USD 
+
+Crypto name: Synapse USD 
+Price: 0.549446 
+Change: +0.030870 
+%Change: +5.95% 
+Market Cap: 76.798M 
+Volume in Currency (Since 0:00 UTC): 607,366 
+Volume in Currency (24Hr): 607,366 
+Total Volume All Currencies (24Hr): 607,366 
+Circulating Supply: 139.773M 
+Link: https://finance.yahoo.com/quote/SYN12147-USD?p=SYN12147-USD 
+
+Crypto name: Vulcan Forged PYR USD 
+Price: 2.8112 
+Change: -0.0608 
+%Change: -2.12% 
+Market Cap: 76.414M 
+Volume in Currency (Since 0:00 UTC): 8.679M 
+Volume in Currency (24Hr): 8.679M 
+Total Volume All Currencies (24Hr): 8.679M 
+Circulating Supply: 27.182M 
+Link: https://finance.yahoo.com/quote/PYR-USD?p=PYR-USD 
+
+Crypto name: Sologenic USD 
+Price: 0.190947 
+Change: -0.016324 
+%Change: -7.88% 
+Market Cap: 76.369M 
+Volume in Currency (Since 0:00 UTC): 1.197M 
+Volume in Currency (24Hr): 1.197M 
+Total Volume All Currencies (24Hr): 1.197M 
+Circulating Supply: 399.948M 
+Link: https://finance.yahoo.com/quote/SOLO-USD?p=SOLO-USD 
+
+Crypto name: Nervos Network USD 
+Price: 0.002278 
+Change: -0.000017 
+%Change: -0.73% 
+Market Cap: 75.952M 
+Volume in Currency (Since 0:00 UTC): 781,251 
+Volume in Currency (24Hr): 781,251 
+Total Volume All Currencies (24Hr): 781,251 
+Circulating Supply: 33.34B 
+Link: https://finance.yahoo.com/quote/CKB-USD?p=CKB-USD 
+
+Crypto name: Ontology Gas USD 
+Price: 0.230180 
+Change: +0.000525 
+%Change: +0.23% 
+Market Cap: 75.455M 
+Volume in Currency (Since 0:00 UTC): 1.653M 
+Volume in Currency (24Hr): 1.653M 
+Total Volume All Currencies (24Hr): 1.653M 
+Circulating Supply: 327.807M 
+Link: https://finance.yahoo.com/quote/ONG3217-USD?p=ONG3217-USD 
+
+Crypto name: Ergo USD 
+Price: 1.2866 
+Change: +0.0029 
+%Change: +0.23% 
+Market Cap: 75.444M 
+Volume in Currency (Since 0:00 UTC): 657,148 
+Volume in Currency (24Hr): 657,148 
+Total Volume All Currencies (24Hr): 657,148 
+Circulating Supply: 58.638M 
+Link: https://finance.yahoo.com/quote/ERG-USD?p=ERG-USD 
+
+Crypto name: dYdX USD 
+Price: 1.1506 
+Change: +0.0124 
+%Change: +1.09% 
+Market Cap: 75.441M 
+Volume in Currency (Since 0:00 UTC): 32.999M 
+Volume in Currency (24Hr): 32.999M 
+Total Volume All Currencies (24Hr): 32.999M 
+Circulating Supply: 65.569M 
+Link: https://finance.yahoo.com/quote/DYDX-USD?p=DYDX-USD 
+
+Crypto name: Chromia USD 
+Price: 0.108157 
+Change: +0.001995 
+%Change: +1.88% 
+Market Cap: 74.255M 
+Volume in Currency (Since 0:00 UTC): 3.471M 
+Volume in Currency (24Hr): 3.471M 
+Total Volume All Currencies (24Hr): 3.471M 
+Circulating Supply: 686.55M 
+Link: https://finance.yahoo.com/quote/CHR-USD?p=CHR-USD 
+
+Crypto name: Ardor USD 
+Price: 0.073764 
+Change: -0.001893 
+%Change: -2.50% 
+Market Cap: 73.691M 
+Volume in Currency (Since 0:00 UTC): 10.243M 
+Volume in Currency (24Hr): 10.243M 
+Total Volume All Currencies (24Hr): 10.243M 
+Circulating Supply: 998.999M 
+Link: https://finance.yahoo.com/quote/ARDR-USD?p=ARDR-USD 
+
+Crypto name: Celer Network USD 
+Price: 0.010359 
+Change: +0.000049 
+%Change: +0.47% 
+Market Cap: 73.401M 
+Volume in Currency (Since 0:00 UTC): 2.261M 
+Volume in Currency (24Hr): 2.261M 
+Total Volume All Currencies (24Hr): 2.261M 
+Circulating Supply: 7.085B 
+Link: https://finance.yahoo.com/quote/CELR-USD?p=CELR-USD 
+
+Crypto name: MetisDAO USD 
+Price: 16.65 
+Change: +0.02 
+%Change: +0.10% 
+Market Cap: 73.336M 
+Volume in Currency (Since 0:00 UTC): 2.319M 
+Volume in Currency (24Hr): 2.319M 
+Total Volume All Currencies (24Hr): 2.319M 
+Circulating Supply: 4.404M 
+Link: https://finance.yahoo.com/quote/METIS-USD?p=METIS-USD 
+
+Crypto name: Biconomy USD 
+Price: 0.285713 
+Change: +0.019327 
+%Change: +7.26% 
+Market Cap: 72.865M 
+Volume in Currency (Since 0:00 UTC): 8.581M 
+Volume in Currency (24Hr): 8.581M 
+Total Volume All Currencies (24Hr): 8.581M 
+Circulating Supply: 255.028M 
+Link: https://finance.yahoo.com/quote/BICO-USD?p=BICO-USD 
+
+Crypto name: WINkLink USD 
+Price: 0.000075 
+Change: +0.000001 
+%Change: +0.97% 
+Market Cap: 71.981M 
+Volume in Currency (Since 0:00 UTC): 14.009M 
+Volume in Currency (24Hr): 14.009M 
+Total Volume All Currencies (24Hr): 14.009M 
+Circulating Supply: 961.737B 
+Link: https://finance.yahoo.com/quote/WIN-USD?p=WIN-USD 
+
+Crypto name: LooksRare USD 
+Price: 0.153222 
+Change: +0.007795 
+%Change: +5.36% 
+Market Cap: 71.944M 
+Volume in Currency (Since 0:00 UTC): 3.521M 
+Volume in Currency (24Hr): 3.521M 
+Total Volume All Currencies (24Hr): 3.521M 
+Circulating Supply: 469.539M 
+Link: https://finance.yahoo.com/quote/LOOKS-USD?p=LOOKS-USD 
+
+Crypto name: dKargo USD 
+Price: 0.029675 
+Change: +0.001090 
+%Change: +3.81% 
+Market Cap: 71.282M 
+Volume in Currency (Since 0:00 UTC): 1.336M 
+Volume in Currency (24Hr): 1.336M 
+Total Volume All Currencies (24Hr): 1.336M 
+Circulating Supply: 2.402B 
+Link: https://finance.yahoo.com/quote/DKA-USD?p=DKA-USD 
+
+Crypto name: Persistence USD 
+Price: 0.500385 
+Change: -0.010439 
+%Change: -2.04% 
+Market Cap: 70.61M 
+Volume in Currency (Since 0:00 UTC): 317,210 
+Volume in Currency (24Hr): 317,210 
+Total Volume All Currencies (24Hr): 317,210 
+Circulating Supply: 141.112M 
+Link: https://finance.yahoo.com/quote/XPRT-USD?p=XPRT-USD 
+
+Crypto name: MVL USD 
+Price: 0.003124 
+Change: -0.000117 
+%Change: -3.61% 
+Market Cap: 69.508M 
+Volume in Currency (Since 0:00 UTC): 1.095M 
+Volume in Currency (24Hr): 1.095M 
+Total Volume All Currencies (24Hr): 1.095M 
+Circulating Supply: 22.253B 
+Link: https://finance.yahoo.com/quote/MVL-USD?p=MVL-USD 
+
+Crypto name: Acala Token USD 
+Price: 0.121486 
+Change: -0.001557 
+%Change: -1.27% 
+Market Cap: 69.39M 
+Volume in Currency (Since 0:00 UTC): 868,290 
+Volume in Currency (24Hr): 868,290 
+Total Volume All Currencies (24Hr): 868,290 
+Circulating Supply: 571.172M 
+Link: https://finance.yahoo.com/quote/ACA-USD?p=ACA-USD 
+
+Crypto name: Mdex USD 
+Price: 0.074303 
+Change: -0.000150 
+%Change: -0.20% 
+Market Cap: 69.503M 
+Volume in Currency (Since 0:00 UTC): 7.35M 
+Volume in Currency (24Hr): 7.35M 
+Total Volume All Currencies (24Hr): 7.35M 
+Circulating Supply: 935.405M 
+Link: https://finance.yahoo.com/quote/MDX-USD?p=MDX-USD 
+
+Crypto name: Function X USD 
+Price: 0.168174 
+Change: -0.001115 
+%Change: -0.66% 
+Market Cap: 68.703M 
+Volume in Currency (Since 0:00 UTC): 276,384 
+Volume in Currency (24Hr): 276,384 
+Total Volume All Currencies (24Hr): 276,384 
+Circulating Supply: 408.52M 
+Link: https://finance.yahoo.com/quote/FX-USD?p=FX-USD 
+
+Crypto name: Prom USD 
+Price: 4.1112 
+Change: -0.0678 
+%Change: -1.62% 
+Market Cap: 67.629M 
+Volume in Currency (Since 0:00 UTC): 1.824M 
+Volume in Currency (24Hr): 1.824M 
+Total Volume All Currencies (24Hr): 1.824M 
+Circulating Supply: 16.45M 
+Link: https://finance.yahoo.com/quote/PROM-USD?p=PROM-USD 
+
+Crypto name: FUNToken USD 
+Price: 0.006151 
+Change: -0.000024 
+%Change: -0.38% 
+Market Cap: 67.434M 
+Volume in Currency (Since 0:00 UTC): 1.22M 
+Volume in Currency (24Hr): 1.22M 
+Total Volume All Currencies (24Hr): 1.22M 
+Circulating Supply: 10.963B 
+Link: https://finance.yahoo.com/quote/FUN-USD?p=FUN-USD 
+
+Crypto name: Cartesi USD 
+Price: 0.103560 
+Change: +0.001188 
+%Change: +1.16% 
+Market Cap: 67.468M 
+Volume in Currency (Since 0:00 UTC): 2.49M 
+Volume in Currency (24Hr): 2.49M 
+Total Volume All Currencies (24Hr): 2.49M 
+Circulating Supply: 651.489M 
+Link: https://finance.yahoo.com/quote/CTSI-USD?p=CTSI-USD 
+
+Crypto name: NEST Protocol USD 
+Price: 0.022858 
+Change: +0.000016 
+%Change: +0.07% 
+Market Cap: 66.557M 
+Volume in Currency (Since 0:00 UTC): 1.692M 
+Volume in Currency (24Hr): 1.692M 
+Total Volume All Currencies (24Hr): 1.692M 
+Circulating Supply: 2.912B 
+Link: https://finance.yahoo.com/quote/NEST-USD?p=NEST-USD 
+
+Crypto name: Steem USD 
+Price: 0.157192 
+Change: +0.000090 
+%Change: +0.06% 
+Market Cap: 66.492M 
+Volume in Currency (Since 0:00 UTC): 2.233M 
+Volume in Currency (24Hr): 2.233M 
+Total Volume All Currencies (24Hr): 2.233M 
+Circulating Supply: 423.001M 
+Link: https://finance.yahoo.com/quote/STEEM-USD?p=STEEM-USD 
+
+Crypto name: Pirate Chain USD 
+Price: 0.338618 
+Change: -0.002392 
+%Change: -0.70% 
+Market Cap: 66.037M 
+Volume in Currency (Since 0:00 UTC): 42,823 
+Volume in Currency (24Hr): 42,823 
+Total Volume All Currencies (24Hr): 42,823 
+Circulating Supply: 195.019M 
+Link: https://finance.yahoo.com/quote/ARRR-USD?p=ARRR-USD 
+
+Crypto name: renBTC USD 
+Price: 18,428.90 
+Change: -192.76 
+%Change: -1.04% 
+Market Cap: 65.97M 
+Volume in Currency (Since 0:00 UTC): 208,053 
+Volume in Currency (24Hr): 208,053 
+Total Volume All Currencies (24Hr): 208,053 
+Circulating Supply: 3,579 
+Link: https://finance.yahoo.com/quote/RENBTC-USD?p=RENBTC-USD 
+
+Crypto name: COTI USD 
+Price: 0.059301 
+Change: +0.000945 
+%Change: +1.62% 
+Market Cap: 65.743M 
+Volume in Currency (Since 0:00 UTC): 2.712M 
+Volume in Currency (24Hr): 2.712M 
+Total Volume All Currencies (24Hr): 2.712M 
+Circulating Supply: 1.109B 
+Link: https://finance.yahoo.com/quote/COTI-USD?p=COTI-USD 
+
+Crypto name: Keep Network USD 
+Price: 0.076134 
+Change: +0.000084 
+%Change: +0.11% 
+Market Cap: 65.534M 
+Volume in Currency (Since 0:00 UTC): 554,345 
+Volume in Currency (24Hr): 554,345 
+Total Volume All Currencies (24Hr): 554,345 
+Circulating Supply: 860.762M 
+Link: https://finance.yahoo.com/quote/KEEP-USD?p=KEEP-USD 
+
+Crypto name: Humanscape USD 
+Price: 0.075248 
+Change: -0.004194 
+%Change: -5.28% 
+Market Cap: 65.572M 
+Volume in Currency (Since 0:00 UTC): 7.087M 
+Volume in Currency (24Hr): 7.087M 
+Total Volume All Currencies (24Hr): 7.087M 
+Circulating Supply: 871.41M 
+Link: https://finance.yahoo.com/quote/HUM-USD?p=HUM-USD 
+
+Crypto name: HI USD 
+Price: 0.022557 
+Change: +0.000321 
+%Change: +1.45% 
+Market Cap: 65.385M 
+Volume in Currency (Since 0:00 UTC): 643,983 
+Volume in Currency (24Hr): 643,983 
+Total Volume All Currencies (24Hr): 643,983 
+Circulating Supply: 2.899B 
+Link: https://finance.yahoo.com/quote/HI-USD?p=HI-USD 
+
+Crypto name: MobileCoin USD 
+Price: 0.879246 
+Change: +0.002214 
+%Change: +0.25% 
+Market Cap: 65.256M 
+Volume in Currency (Since 0:00 UTC): 1.165M 
+Volume in Currency (24Hr): 1.165M 
+Total Volume All Currencies (24Hr): 1.165M 
+Circulating Supply: 74.218M 
+Link: https://finance.yahoo.com/quote/MOB-USD?p=MOB-USD 
+
+Crypto name: Decentralized Social USD 
+Price: 7.3431 
+Change: +0.2307 
+%Change: +3.24% 
+Market Cap: 65.24M 
+Volume in Currency (Since 0:00 UTC): 385,896 
+Volume in Currency (24Hr): 385,896 
+Total Volume All Currencies (24Hr): 385,896 
+Circulating Supply: 8.885M 
+Link: https://finance.yahoo.com/quote/DESO-USD?p=DESO-USD 
+
+Crypto name: Hooked Protocol USD 
+Price: 1.3005 
+Change: +0.0340 
+%Change: +2.68% 
+Market Cap: 65.025M 
+Volume in Currency (Since 0:00 UTC): 12.031M 
+Volume in Currency (24Hr): 12.031M 
+Total Volume All Currencies (24Hr): 12.031M 
+Circulating Supply: 50M 
+Link: https://finance.yahoo.com/quote/HOOK-USD?p=HOOK-USD 
+
+Crypto name: MOBOX USD 
+Price: 0.382983 
+Change: -0.002632 
+%Change: -0.68% 
+Market Cap: 64.898M 
+Volume in Currency (Since 0:00 UTC): 4.098M 
+Volume in Currency (24Hr): 4.098M 
+Total Volume All Currencies (24Hr): 4.098M 
+Circulating Supply: 169.455M 
+Link: https://finance.yahoo.com/quote/MBOX-USD?p=MBOX-USD 
+
+Crypto name: Ampleforth USD 
+Price: 1.4001 
+Change: +0.1100 
+%Change: +8.53% 
+Market Cap: 64.448M 
+Volume in Currency (Since 0:00 UTC): 1.595M 
+Volume in Currency (24Hr): 1.595M 
+Total Volume All Currencies (24Hr): 1.595M 
+Circulating Supply: 46.031M 
+Link: https://finance.yahoo.com/quote/AMPL-USD?p=AMPL-USD 
+
+Crypto name: Orbs USD 
+Price: 0.022422 
+Change: -0.000327 
+%Change: -1.44% 
+Market Cap: 64.502M 
+Volume in Currency (Since 0:00 UTC): 763,197 
+Volume in Currency (24Hr): 763,197 
+Total Volume All Currencies (24Hr): 763,197 
+Circulating Supply: 2.877B 
+Link: https://finance.yahoo.com/quote/ORBS-USD?p=ORBS-USD 
+
+Crypto name: OriginTrail USD 
+Price: 0.174139 
+Change: +0.002000 
+%Change: +1.16% 
+Market Cap: 63.645M 
+Volume in Currency (Since 0:00 UTC): 1.15M 
+Volume in Currency (24Hr): 1.15M 
+Total Volume All Currencies (24Hr): 1.15M 
+Circulating Supply: 365.482M 
+Link: https://finance.yahoo.com/quote/TRAC-USD?p=TRAC-USD 
+
+Crypto name: NuCypher USD 
+Price: 0.089426 
+Change: -0.000844 
+%Change: -0.93% 
+Market Cap: 62.867M 
+Volume in Currency (Since 0:00 UTC): 877,447 
+Volume in Currency (24Hr): 877,447 
+Total Volume All Currencies (24Hr): 877,447 
+Circulating Supply: 703M 
+Link: https://finance.yahoo.com/quote/NU-USD?p=NU-USD 
+
+Crypto name: Powerledger USD 
+Price: 0.130178 
+Change: +0.001037 
+%Change: +0.80% 
+Market Cap: 62.619M 
+Volume in Currency (Since 0:00 UTC): 7.673M 
+Volume in Currency (24Hr): 7.673M 
+Total Volume All Currencies (24Hr): 7.673M 
+Circulating Supply: 481.021M 
+Link: https://finance.yahoo.com/quote/POWR-USD?p=POWR-USD 
+
+Crypto name: Shentu USD 
+Price: 0.710530 
+Change: +0.001190 
+%Change: +0.17% 
+Market Cap: 62.373M 
+Volume in Currency (Since 0:00 UTC): 7.666M 
+Volume in Currency (24Hr): 7.666M 
+Total Volume All Currencies (24Hr): 7.666M 
+Circulating Supply: 87.784M 
+Link: https://finance.yahoo.com/quote/CTK4807-USD?p=CTK4807-USD 
+
+Crypto name: CEEK VR USD 
+Price: 0.077103 
+Change: +0.000266 
+%Change: +0.35% 
+Market Cap: 62.123M 
+Volume in Currency (Since 0:00 UTC): 5.121M 
+Volume in Currency (24Hr): 5.121M 
+Total Volume All Currencies (24Hr): 5.121M 
+Circulating Supply: 805.718M 
+Link: https://finance.yahoo.com/quote/CEEK-USD?p=CEEK-USD 
+
+Crypto name: Axelar USD 
+Price: 0.597279 
+Change: +0.018530 
+%Change: +3.20% 
+Market Cap: 61.778M 
+Volume in Currency (Since 0:00 UTC): 1.293M 
+Volume in Currency (24Hr): 1.293M 
+Total Volume All Currencies (24Hr): 1.293M 
+Circulating Supply: 103.432M 
+Link: https://finance.yahoo.com/quote/AXL17799-USD?p=AXL17799-USD 
+
+Crypto name: Stratis USD 
+Price: 0.425039 
+Change: +0.004127 
+%Change: +0.98% 
+Market Cap: 61.399M 
+Volume in Currency (Since 0:00 UTC): 1.384M 
+Volume in Currency (24Hr): 1.384M 
+Total Volume All Currencies (24Hr): 1.384M 
+Circulating Supply: 144.454M 
+Link: https://finance.yahoo.com/quote/STRAX-USD?p=STRAX-USD 
+
+Crypto name: Rakon USD 
+Price: 0.252683 
+Change: -0.034128 
+%Change: -11.90% 
+Market Cap: 61.366M 
+Volume in Currency (Since 0:00 UTC): 64,018 
+Volume in Currency (24Hr): 64,018 
+Total Volume All Currencies (24Hr): 64,018 
+Circulating Supply: 242.857M 
+Link: https://finance.yahoo.com/quote/RKN-USD?p=RKN-USD 
+
+Crypto name: Biswap USD 
+Price: 0.169727 
+Change: -0.000555 
+%Change: -0.33% 
+Market Cap: 61.151M 
+Volume in Currency (Since 0:00 UTC): 7.265M 
+Volume in Currency (24Hr): 7.265M 
+Total Volume All Currencies (24Hr): 7.265M 
+Circulating Supply: 360.294M 
+Link: https://finance.yahoo.com/quote/BSW-USD?p=BSW-USD 
+
+Crypto name: Centrifuge USD 
+Price: 0.169245 
+Change: +0.000878 
+%Change: +0.52% 
+Market Cap: 60.973M 
+Volume in Currency (Since 0:00 UTC): 252,577 
+Volume in Currency (24Hr): 252,577 
+Total Volume All Currencies (24Hr): 252,577 
+Circulating Supply: 360.263M 
+Link: https://finance.yahoo.com/quote/CFG-USD?p=CFG-USD 
+
+Crypto name: Dent USD 
+Price: 0.000614 
+Change: +0.000009 
+%Change: +1.56% 
+Market Cap: 60.82M 
+Volume in Currency (Since 0:00 UTC): 7.956M 
+Volume in Currency (24Hr): 7.956M 
+Total Volume All Currencies (24Hr): 7.956M 
+Circulating Supply: 99.008B 
+Link: https://finance.yahoo.com/quote/DENT-USD?p=DENT-USD 
+
+Crypto name: Alpha Venture DAO USD 
+Price: 0.080279 
+Change: +0.000599 
+%Change: +0.75% 
+Market Cap: 60.209M 
+Volume in Currency (Since 0:00 UTC): 1.074M 
+Volume in Currency (24Hr): 1.074M 
+Total Volume All Currencies (24Hr): 1.074M 
+Circulating Supply: 750M 
+Link: https://finance.yahoo.com/quote/ALPHA-USD?p=ALPHA-USD 
+
+Crypto name: SingularityNET USD 
+Price: 0.051934 
+Change: +0.000211 
+%Change: +0.41% 
+Market Cap: 59.518M 
+Volume in Currency (Since 0:00 UTC): 2.987M 
+Volume in Currency (24Hr): 2.987M 
+Total Volume All Currencies (24Hr): 2.987M 
+Circulating Supply: 1.146B 
+Link: https://finance.yahoo.com/quote/AGIX-USD?p=AGIX-USD 
+
+Crypto name: Locus Chain USD 
+Price: 0.028429 
+Change: -0.000647 
+%Change: -2.23% 
+Market Cap: 59.162M 
+Volume in Currency (Since 0:00 UTC): 780,483 
+Volume in Currency (24Hr): 780,483 
+Total Volume All Currencies (24Hr): 780,483 
+Circulating Supply: 2.081B 
+Link: https://finance.yahoo.com/quote/LOCUS-USD?p=LOCUS-USD 
+
+Crypto name: Venus BUSD USD 
+Price: 0.021773 
+Change: -0.000003 
+%Change: -0.01% 
+Market Cap: 58.673M 
+Volume in Currency (Since 0:00 UTC): 4.349M 
+Volume in Currency (24Hr): 4.349M 
+Total Volume All Currencies (24Hr): 4.349M 
+Circulating Supply: 2.695B 
+Link: https://finance.yahoo.com/quote/VBUSD-USD?p=VBUSD-USD 
+
+Crypto name: Galxe USD 
+Price: 1.0800 
+Change: +0.0117 
+%Change: +1.10% 
+Market Cap: 58.608M 
+Volume in Currency (Since 0:00 UTC): 11.635M 
+Volume in Currency (24Hr): 11.635M 
+Total Volume All Currencies (24Hr): 11.635M 
+Circulating Supply: 54.267M 
+Link: https://finance.yahoo.com/quote/GAL11877-USD?p=GAL11877-USD 
+
+Crypto name: Bifrost USD 
+Price: 0.053811 
+Change: -0.001313 
+%Change: -2.38% 
+Market Cap: 58.572M 
+Volume in Currency (Since 0:00 UTC): 296,316 
+Volume in Currency (24Hr): 296,316 
+Total Volume All Currencies (24Hr): 296,316 
+Circulating Supply: 1.088B 
+Link: https://finance.yahoo.com/quote/BFC7817-USD?p=BFC7817-USD 
+
+Crypto name: Hashflow USD 
+Price: 0.332841 
+Change: -0.001060 
+%Change: -0.32% 
+Market Cap: 58.441M 
+Volume in Currency (Since 0:00 UTC): 6.443M 
+Volume in Currency (24Hr): 6.443M 
+Total Volume All Currencies (24Hr): 6.443M 
+Circulating Supply: 175.583M 
+Link: https://finance.yahoo.com/quote/HFT22461-USD?p=HFT22461-USD 
+
+Crypto name: RACA USD 
+Price: 0.000176 
+Change: -0.000002 
+%Change: -0.99% 
+Market Cap: 58.353M 
+Volume in Currency (Since 0:00 UTC): 2.997M 
+Volume in Currency (24Hr): 2.997M 
+Total Volume All Currencies (24Hr): 2.997M 
+Circulating Supply: 330.734B 
+Link: https://finance.yahoo.com/quote/RACA-USD?p=RACA-USD 
+
+Crypto name: NKN USD 
+Price: 0.083296 
+Change: +0.000897 
+%Change: +1.09% 
+Market Cap: 58.307M 
+Volume in Currency (Since 0:00 UTC): 1.771M 
+Volume in Currency (24Hr): 1.771M 
+Total Volume All Currencies (24Hr): 1.771M 
+Circulating Supply: 700M 
+Link: https://finance.yahoo.com/quote/NKN-USD?p=NKN-USD 
+
+Crypto name: Spell Token USD 
+Price: 0.000541 
+Change: +0.000001 
+%Change: +0.10% 
+Market Cap: 58.153M 
+Volume in Currency (Since 0:00 UTC): 5.667M 
+Volume in Currency (24Hr): 5.667M 
+Total Volume All Currencies (24Hr): 5.667M 
+Circulating Supply: 107.406B 
+Link: https://finance.yahoo.com/quote/SPELL-USD?p=SPELL-USD 
+
+Crypto name: RSK Smart Bitcoin USD 
+Price: 16,907.64 
+Change: +30.55 
+%Change: +0.18% 
+Market Cap: 57.743M 
+Volume in Currency (Since 0:00 UTC): 30,453 
+Volume in Currency (24Hr): 30,453 
+Total Volume All Currencies (24Hr): 30,453 
+Circulating Supply: 3,415 
+Link: https://finance.yahoo.com/quote/RBTC-USD?p=RBTC-USD 
+
+Crypto name: IQ USD 
+Price: 0.004580 
+Change: -0.000047 
+%Change: -1.01% 
+Market Cap: 57.352M 
+Volume in Currency (Since 0:00 UTC): 4.742M 
+Volume in Currency (24Hr): 4.742M 
+Total Volume All Currencies (24Hr): 4.742M 
+Circulating Supply: 12.521B 
+Link: https://finance.yahoo.com/quote/IQ-USD?p=IQ-USD 
+
+Crypto name: MiL.k USD 
+Price: 0.226556 
+Change: -0.005539 
+%Change: -2.39% 
+Market Cap: 57.18M 
+Volume in Currency (Since 0:00 UTC): 925,215 
+Volume in Currency (24Hr): 925,215 
+Total Volume All Currencies (24Hr): 925,215 
+Circulating Supply: 252.388M 
+Link: https://finance.yahoo.com/quote/MLK-USD?p=MLK-USD 
+
+Crypto name: Ultra USD 
+Price: 0.187008 
+Change: -0.001059 
+%Change: -0.56% 
+Market Cap: 56.812M 
+Volume in Currency (Since 0:00 UTC): 454,830 
+Volume in Currency (24Hr): 454,830 
+Total Volume All Currencies (24Hr): 454,830 
+Circulating Supply: 303.794M 
+Link: https://finance.yahoo.com/quote/UOS-USD?p=UOS-USD 
+
+Crypto name: MaidSafeCoin USD 
+Price: 0.124758 
+Change: +0.002528 
+%Change: +2.07% 
+Market Cap: 56.459M 
+Volume in Currency (Since 0:00 UTC): 1,120 
+Volume in Currency (24Hr): 1,120 
+Total Volume All Currencies (24Hr): 1,120 
+Circulating Supply: 452.552M 
+Link: https://finance.yahoo.com/quote/MAID-USD?p=MAID-USD 
+
+Crypto name: cVault.finance USD 
+Price: 5,637.57 
+Change: -23.07 
+%Change: -0.41% 
+Market Cap: 56.376M 
+Volume in Currency (Since 0:00 UTC): 8,703 
+Volume in Currency (24Hr): 8,703 
+Total Volume All Currencies (24Hr): 8,703 
+Circulating Supply: 10,000 
+Link: https://finance.yahoo.com/quote/CORE-USD?p=CORE-USD 
+
+Crypto name: Venus USD 
+Price: 3.9266 
+Change: +0.1047 
+%Change: +2.74% 
+Market Cap: 56.043M 
+Volume in Currency (Since 0:00 UTC): 5.118M 
+Volume in Currency (24Hr): 5.118M 
+Total Volume All Currencies (24Hr): 5.118M 
+Circulating Supply: 14.273M 
+Link: https://finance.yahoo.com/quote/XVS-USD?p=XVS-USD 
+
+Crypto name: Loom Network USD 
+Price: 0.043090 
+Change: -0.000376 
+%Change: -0.87% 
+Market Cap: 56.017M 
+Volume in Currency (Since 0:00 UTC): 2.818M 
+Volume in Currency (24Hr): 2.818M 
+Total Volume All Currencies (24Hr): 2.818M 
+Circulating Supply: 1.3B 
+Link: https://finance.yahoo.com/quote/LOOM-USD?p=LOOM-USD 
+
+Crypto name: Vai USD 
+Price: 0.968323 
+Change: -0.004896 
+%Change: -0.50% 
+Market Cap: 55.677M 
+Volume in Currency (Since 0:00 UTC): 568 
+Volume in Currency (24Hr): 568 
+Total Volume All Currencies (24Hr): 568 
+Circulating Supply: 57.499M 
+Link: https://finance.yahoo.com/quote/VAI-USD?p=VAI-USD 
+
+Crypto name: Bancor USD 
+Price: 0.342366 
+Change: -0.001731 
+%Change: -0.50% 
+Market Cap: 55.573M 
+Volume in Currency (Since 0:00 UTC): 8.067M 
+Volume in Currency (24Hr): 8.067M 
+Total Volume All Currencies (24Hr): 8.067M 
+Circulating Supply: 162.321M 
+Link: https://finance.yahoo.com/quote/BNT-USD?p=BNT-USD 
+
+Crypto name: WazirX USD 
+Price: 0.143730 
+Change: +0.000159 
+%Change: +0.11% 
+Market Cap: 54.884M 
+Volume in Currency (Since 0:00 UTC): 489,676 
+Volume in Currency (24Hr): 489,676 
+Total Volume All Currencies (24Hr): 489,676 
+Circulating Supply: 381.857M 
+Link: https://finance.yahoo.com/quote/WRX-USD?p=WRX-USD 
+
+Crypto name: Velas USD 
+Price: 0.022664 
+Change: -0.000489 
+%Change: -2.11% 
+Market Cap: 54.246M 
+Volume in Currency (Since 0:00 UTC): 1.175M 
+Volume in Currency (24Hr): 1.175M 
+Total Volume All Currencies (24Hr): 1.175M 
+Circulating Supply: 2.393B 
+Link: https://finance.yahoo.com/quote/VLX-USD?p=VLX-USD 
+
+Crypto name: Polymesh USD 
+Price: 0.133551 
+Change: -0.001097 
+%Change: -0.81% 
+Market Cap: 53.856M 
+Volume in Currency (Since 0:00 UTC): 2.879M 
+Volume in Currency (24Hr): 2.879M 
+Total Volume All Currencies (24Hr): 2.879M 
+Circulating Supply: 403.26M 
+Link: https://finance.yahoo.com/quote/POLYX-USD?p=POLYX-USD 
+
+Crypto name: Phala Network USD 
+Price: 0.118673 
+Change: +0.001619 
+%Change: +1.38% 
+Market Cap: 53.809M 
+Volume in Currency (Since 0:00 UTC): 2.629M 
+Volume in Currency (24Hr): 2.629M 
+Total Volume All Currencies (24Hr): 2.629M 
+Circulating Supply: 453.426M 
+Link: https://finance.yahoo.com/quote/PHA-USD?p=PHA-USD 
+
+Crypto name: Liquity USD 
+Price: 0.589237 
+Change: +0.000544 
+%Change: +0.09% 
+Market Cap: 52.865M 
+Volume in Currency (Since 0:00 UTC): 380,900 
+Volume in Currency (24Hr): 380,900 
+Total Volume All Currencies (24Hr): 380,900 
+Circulating Supply: 89.718M 
+Link: https://finance.yahoo.com/quote/LQTY-USD?p=LQTY-USD 
+
+Crypto name: Augur USD 
+Price: 4.7909 
+Change: +0.1860 
+%Change: +4.04% 
+Market Cap: 52.699M 
+Volume in Currency (Since 0:00 UTC): 20.011M 
+Volume in Currency (24Hr): 20.011M 
+Total Volume All Currencies (24Hr): 20.011M 
+Circulating Supply: 11M 
+Link: https://finance.yahoo.com/quote/REP-USD?p=REP-USD 
+
+Crypto name: Orbit Chain USD 
+Price: 0.082591 
+Change: -0.000133 
+%Change: -0.16% 
+Market Cap: 52.541M 
+Volume in Currency (Since 0:00 UTC): 549,663 
+Volume in Currency (24Hr): 549,663 
+Total Volume All Currencies (24Hr): 549,663 
+Circulating Supply: 636.161M 
+Link: https://finance.yahoo.com/quote/ORC-USD?p=ORC-USD 
+
+Crypto name: Band Protocol USD 
+Price: 1.4825 
+Change: -0.0062 
+%Change: -0.41% 
+Market Cap: 52.172M 
+Volume in Currency (Since 0:00 UTC): 9.82M 
+Volume in Currency (24Hr): 9.82M 
+Total Volume All Currencies (24Hr): 9.82M 
+Circulating Supply: 35.192M 
+Link: https://finance.yahoo.com/quote/BAND-USD?p=BAND-USD 
+
+Crypto name: RichQUACK.com USD 
+Price: 0.00000000 
+Change: +0.00000000 
+%Change: +3.08% 
+Market Cap: 52.192M 
+Volume in Currency (Since 0:00 UTC): 4.506M 
+Volume in Currency (24Hr): 4.506M 
+Total Volume All Currencies (24Hr): 4.506M 
+Circulating Supply: 44,085.962T 
+Link: https://finance.yahoo.com/quote/QUACK-USD?p=QUACK-USD 
+
+Crypto name: Star Atlas DAO USD 
+Price: 0.340392 
+Change: -0.008792 
+%Change: -2.52% 
+Market Cap: 52.082M 
+Volume in Currency (Since 0:00 UTC): 129,072 
+Volume in Currency (24Hr): 129,072 
+Total Volume All Currencies (24Hr): 129,072 
+Circulating Supply: 153.006M 
+Link: https://finance.yahoo.com/quote/POLIS11213-USD?p=POLIS11213-USD 
+
+Crypto name: Morpheus.Network USD 
+Price: 1.1030 
+Change: -0.0690 
+%Change: -5.89% 
+Market Cap: 52.038M 
+Volume in Currency (Since 0:00 UTC): 237,768 
+Volume in Currency (24Hr): 237,768 
+Total Volume All Currencies (24Hr): 237,768 
+Circulating Supply: 47.18M 
+Link: https://finance.yahoo.com/quote/MNW-USD?p=MNW-USD 
+
+Crypto name: Wrapped Velas USD 
+Price: 0.022726 
+Change: -0.000392 
+%Change: -1.69% 
+Market Cap: 51.797M 
+Volume in Currency (Since 0:00 UTC): 4,706 
+Volume in Currency (24Hr): 4,706 
+Total Volume All Currencies (24Hr): 4,706 
+Circulating Supply: 2.279B 
+Link: https://finance.yahoo.com/quote/WVLX-USD?p=WVLX-USD 
+
+Crypto name: Krypton DAO USD 
+Price: 0.503216 
+Change: -0.062245 
+%Change: -11.01% 
+Market Cap: 51.558M 
+Volume in Currency (Since 0:00 UTC): 13,128 
+Volume in Currency (24Hr): 13,128 
+Total Volume All Currencies (24Hr): 13,128 
+Circulating Supply: 102.457M 
+Link: https://finance.yahoo.com/quote/KRD-USD?p=KRD-USD 
+
+Crypto name: GlitzKoin USD 
+Price: 0.207546 
+Change: +0.033807 
+%Change: +19.46% 
+Market Cap: 51.367M 
+Volume in Currency (Since 0:00 UTC): 76 
+Volume in Currency (24Hr): 76 
+Total Volume All Currencies (24Hr): 76 
+Circulating Supply: 247.499M 
+Link: https://finance.yahoo.com/quote/GTN-USD?p=GTN-USD 
+
+Crypto name: World Mobile Token USD 
+Price: 0.155022 
+Change: +0.000466 
+%Change: +0.30% 
+Market Cap: 51.303M 
+Volume in Currency (Since 0:00 UTC): 947,910 
+Volume in Currency (24Hr): 947,910 
+Total Volume All Currencies (24Hr): 947,910 
+Circulating Supply: 330.939M 
+Link: https://finance.yahoo.com/quote/WMT-USD?p=WMT-USD 
+
+Crypto name: Origin Dollar USD 
+Price: 0.997166 
+Change: -0.000052 
+%Change: -0.01% 
+Market Cap: 50.933M 
+Volume in Currency (Since 0:00 UTC): 451 
+Volume in Currency (24Hr): 451 
+Total Volume All Currencies (24Hr): 451 
+Circulating Supply: 51.078M 
+Link: https://finance.yahoo.com/quote/OUSD-USD?p=OUSD-USD 
+
+Crypto name: XSGD USD 
+Price: 0.739714 
+Change: -0.000059 
+%Change: -0.01% 
+Market Cap: 50.882M 
+Volume in Currency (Since 0:00 UTC): 199,647 
+Volume in Currency (24Hr): 199,647 
+Total Volume All Currencies (24Hr): 199,647 
+Circulating Supply: 68.785M 
+Link: https://finance.yahoo.com/quote/XSGD-USD?p=XSGD-USD 
+
+Crypto name: inSure DeFi USD 
+Price: 0.001896 
+Change: +0.000071 
+%Change: +3.90% 
+Market Cap: 50.806M 
+Volume in Currency (Since 0:00 UTC): 886,351 
+Volume in Currency (24Hr): 886,351 
+Total Volume All Currencies (24Hr): 886,351 
+Circulating Supply: 26.79B 
+Link: https://finance.yahoo.com/quote/SURE-USD?p=SURE-USD 
+
+Crypto name: Stargate Finance USD 
+Price: 0.370906 
+Change: +0.002264 
+%Change: +0.61% 
+Market Cap: 50.728M 
+Volume in Currency (Since 0:00 UTC): 5.452M 
+Volume in Currency (24Hr): 5.452M 
+Total Volume All Currencies (24Hr): 5.452M 
+Circulating Supply: 136.767M 
+Link: https://finance.yahoo.com/quote/STG18934-USD?p=STG18934-USD 
+
+Crypto name: Wrapped Everscale USD 
+Price: 0.029549 
+Change: +0.000331 
+%Change: +1.13% 
+Market Cap: 50.689M 
+Volume in Currency (Since 0:00 UTC): 74,094 
+Volume in Currency (24Hr): 74,094 
+Total Volume All Currencies (24Hr): 74,094 
+Circulating Supply: 1.715B 
+Link: https://finance.yahoo.com/quote/WEVER-USD?p=WEVER-USD 
+
+Crypto name: Constellation USD 
+Price: 0.040014 
+Change: -0.002160 
+%Change: -5.12% 
+Market Cap: 50.694M 
+Volume in Currency (Since 0:00 UTC): 205,268 
+Volume in Currency (24Hr): 205,268 
+Total Volume All Currencies (24Hr): 205,268 
+Circulating Supply: 1.267B 
+Link: https://finance.yahoo.com/quote/DAG-USD?p=DAG-USD 
+
+Crypto name: Reef USD 
+Price: 0.002416 
+Change: +0.000033 
+%Change: +1.37% 
+Market Cap: 50.601M 
+Volume in Currency (Since 0:00 UTC): 8.212M 
+Volume in Currency (24Hr): 8.212M 
+Total Volume All Currencies (24Hr): 8.212M 
+Circulating Supply: 20.942B 
+Link: https://finance.yahoo.com/quote/REEF-USD?p=REEF-USD 
+
+Crypto name: sUSD USD 
+Price: 0.996987 
+Change: -0.001902 
+%Change: -0.19% 
+Market Cap: 50.257M 
+Volume in Currency (Since 0:00 UTC): 2.299M 
+Volume in Currency (24Hr): 2.299M 
+Total Volume All Currencies (24Hr): 2.299M 
+Circulating Supply: 50.409M 
+Link: https://finance.yahoo.com/quote/SUSD-USD?p=SUSD-USD 
+
+Crypto name: Orchid USD 
+Price: 0.072321 
+Change: +0.000534 
+%Change: +0.74% 
+Market Cap: 49.951M 
+Volume in Currency (Since 0:00 UTC): 939,131 
+Volume in Currency (24Hr): 939,131 
+Total Volume All Currencies (24Hr): 939,131 
+Circulating Supply: 690.69M 
+Link: https://finance.yahoo.com/quote/OXT-USD?p=OXT-USD 
+
+Crypto name: QuarkChain USD 
+Price: 0.007786 
+Change: -0.000151 
+%Change: -1.91% 
+Market Cap: 49.83M 
+Volume in Currency (Since 0:00 UTC): 1.639M 
+Volume in Currency (24Hr): 1.639M 
+Total Volume All Currencies (24Hr): 1.639M 
+Circulating Supply: 6.4B 
+Link: https://finance.yahoo.com/quote/QKC-USD?p=QKC-USD 
+
+Crypto name: Hifi Finance (Old) USD 
+Price: 0.004973 
+Change: +0.000060 
+%Change: +1.21% 
+Market Cap: 49.729M 
+Volume in Currency (Since 0:00 UTC): 7.14M 
+Volume in Currency (24Hr): 7.14M 
+Total Volume All Currencies (24Hr): 7.14M 
+Circulating Supply: 10B 
+Link: https://finance.yahoo.com/quote/MFT-USD?p=MFT-USD 
+
+Crypto name: Revain USD 
+Price: 0.000583 
+Change: -0.000014 
+%Change: -2.42% 
+Market Cap: 49.616M 
+Volume in Currency (Since 0:00 UTC): 652,857 
+Volume in Currency (24Hr): 652,857 
+Total Volume All Currencies (24Hr): 652,857 
+Circulating Supply: 85.061B 
+Link: https://finance.yahoo.com/quote/REV2135-USD?p=REV2135-USD 
+
+Crypto name: Metal DAO USD 
+Price: 0.743279 
+Change: +0.015147 
+%Change: +2.08% 
+Market Cap: 49.494M 
+Volume in Currency (Since 0:00 UTC): 18.951M 
+Volume in Currency (24Hr): 18.951M 
+Total Volume All Currencies (24Hr): 18.951M 
+Circulating Supply: 66.589M 
+Link: https://finance.yahoo.com/quote/MTL-USD?p=MTL-USD 
+
+Crypto name: Everscale USD 
+Price: 0.028337 
+Change: -0.002439 
+%Change: -7.92% 
+Market Cap: 48.61M 
+Volume in Currency (Since 0:00 UTC): 1.81M 
+Volume in Currency (24Hr): 1.81M 
+Total Volume All Currencies (24Hr): 1.81M 
+Circulating Supply: 1.715B 
+Link: https://finance.yahoo.com/quote/EVER-USD?p=EVER-USD 
+
+Crypto name: Dero USD 
+Price: 3.6780 
+Change: +0.0799 
+%Change: +2.22% 
+Market Cap: 48.36M 
+Volume in Currency (Since 0:00 UTC): 70,583 
+Volume in Currency (24Hr): 70,583 
+Total Volume All Currencies (24Hr): 70,583 
+Circulating Supply: 13.149M 
+Link: https://finance.yahoo.com/quote/DERO-USD?p=DERO-USD 
+
+Crypto name: Clash of Lilliput USD 
+Price: 0.590429 
+Change: -0.009820 
+%Change: -1.64% 
+Market Cap: 48.341M 
+Volume in Currency (Since 0:00 UTC): 108,911 
+Volume in Currency (24Hr): 108,911 
+Total Volume All Currencies (24Hr): 108,911 
+Circulating Supply: 81.874M 
+Link: https://finance.yahoo.com/quote/COL-USD?p=COL-USD 
+
+Crypto name: Volt Inu V2 USD 
+Price: 0.00000088 
+Change: -0.00000001 
+%Change: -0.85% 
+Market Cap: 48.088M 
+Volume in Currency (Since 0:00 UTC): 5.172M 
+Volume in Currency (24Hr): 5.172M 
+Total Volume All Currencies (24Hr): 5.172M 
+Circulating Supply: 54.766T 
+Link: https://finance.yahoo.com/quote/VOLT19650-USD?p=VOLT19650-USD 
+
+Crypto name: JOE USD 
+Price: 0.147068 
+Change: +0.000334 
+%Change: +0.23% 
+Market Cap: 47.903M 
+Volume in Currency (Since 0:00 UTC): 1.37M 
+Volume in Currency (24Hr): 1.37M 
+Total Volume All Currencies (24Hr): 1.37M 
+Circulating Supply: 325.718M 
+Link: https://finance.yahoo.com/quote/JOE-USD?p=JOE-USD 
+
+Crypto name: Concordium USD 
+Price: 0.007914 
+Change: -0.000033 
+%Change: -0.41% 
+Market Cap: 47.747M 
+Volume in Currency (Since 0:00 UTC): 520,670 
+Volume in Currency (24Hr): 520,670 
+Total Volume All Currencies (24Hr): 520,670 
+Circulating Supply: 6.034B 
+Link: https://finance.yahoo.com/quote/CCD-USD?p=CCD-USD 
+
+Crypto name: AXEL USD 
+Price: 0.168435 
+Change: +0.000184 
+%Change: +0.11% 
+Market Cap: 47.685M 
+Volume in Currency (Since 0:00 UTC): 30,605 
+Volume in Currency (24Hr): 30,605 
+Total Volume All Currencies (24Hr): 30,605 
+Circulating Supply: 283.103M 
+Link: https://finance.yahoo.com/quote/AXEL-USD?p=AXEL-USD 
+
+Crypto name: Conflux USD 
+Price: 0.022726 
+Change: -0.000017 
+%Change: -0.07% 
+Market Cap: 47.513M 
+Volume in Currency (Since 0:00 UTC): 763,786 
+Volume in Currency (24Hr): 763,786 
+Total Volume All Currencies (24Hr): 763,786 
+Circulating Supply: 2.091B 
+Link: https://finance.yahoo.com/quote/CFX-USD?p=CFX-USD 
+
+Crypto name: DFI.Money USD 
+Price: 1,217.64 
+Change: -6.31 
+%Change: -0.52% 
+Market Cap: 46.996M 
+Volume in Currency (Since 0:00 UTC): 8.007M 
+Volume in Currency (24Hr): 8.007M 
+Total Volume All Currencies (24Hr): 8.007M 
+Circulating Supply: 38,596 
+Link: https://finance.yahoo.com/quote/YFII-USD?p=YFII-USD 
+
+Crypto name: XYO USD 
+Price: 0.003651 
+Change: -0.000067 
+%Change: -1.81% 
+Market Cap: 46.899M 
+Volume in Currency (Since 0:00 UTC): 199,329 
+Volume in Currency (24Hr): 199,329 
+Total Volume All Currencies (24Hr): 199,329 
+Circulating Supply: 12.845B 
+Link: https://finance.yahoo.com/quote/XYO-USD?p=XYO-USD 
+
+Crypto name: Sun (New) USD 
+Price: 0.005175 
+Change: -0.000076 
+%Change: -1.45% 
+Market Cap: 46.372M 
+Volume in Currency (Since 0:00 UTC): 5.457M 
+Volume in Currency (24Hr): 5.457M 
+Total Volume All Currencies (24Hr): 5.457M 
+Circulating Supply: 8.96B 
+Link: https://finance.yahoo.com/quote/SUN-USD?p=SUN-USD 
+
+Crypto name: STP USD 
+Price: 0.027771 
+Change: -0.000620 
+%Change: -2.18% 
+Market Cap: 45.785M 
+Volume in Currency (Since 0:00 UTC): 1.982M 
+Volume in Currency (24Hr): 1.982M 
+Total Volume All Currencies (24Hr): 1.982M 
+Circulating Supply: 1.649B 
+Link: https://finance.yahoo.com/quote/STPT-USD?p=STPT-USD 
+
+Crypto name: Origin Protocol USD 
+Price: 0.090640 
+Change: +0.003787 
+%Change: +4.36% 
+Market Cap: 45.654M 
+Volume in Currency (Since 0:00 UTC): 6.951M 
+Volume in Currency (24Hr): 6.951M 
+Total Volume All Currencies (24Hr): 6.951M 
+Circulating Supply: 503.684M 
+Link: https://finance.yahoo.com/quote/OGN-USD?p=OGN-USD 
+
+Crypto name: ONUS USD 
+Price: 0.467988 
+Change: -0.001064 
+%Change: -0.23% 
+Market Cap: 45.445M 
+Volume in Currency (Since 0:00 UTC): 28,414 
+Volume in Currency (24Hr): 28,414 
+Total Volume All Currencies (24Hr): 28,414 
+Circulating Supply: 97.106M 
+Link: https://finance.yahoo.com/quote/ONUS-USD?p=ONUS-USD 
+
+Crypto name: Aavegotchi USD 
+Price: 1.0040 
+Change: -0.0018 
+%Change: -0.18% 
+Market Cap: 45.277M 
+Volume in Currency (Since 0:00 UTC): 3.196M 
+Volume in Currency (24Hr): 3.196M 
+Total Volume All Currencies (24Hr): 3.196M 
+Circulating Supply: 45.096M 
+Link: https://finance.yahoo.com/quote/GHST-USD?p=GHST-USD 
+
+Crypto name: MyNeighborAlice USD 
+Price: 1.0896 
+Change: +0.0095 
+%Change: +0.88% 
+Market Cap: 45.183M 
+Volume in Currency (Since 0:00 UTC): 7.02M 
+Volume in Currency (24Hr): 7.02M 
+Total Volume All Currencies (24Hr): 7.02M 
+Circulating Supply: 41.468M 
+Link: https://finance.yahoo.com/quote/ALICE-USD?p=ALICE-USD 
+
+Crypto name: Ampleforth Governance Token USD 
+Price: 3.0125 
+Change: +0.0484 
+%Change: +1.63% 
+Market Cap: 45.134M 
+Volume in Currency (Since 0:00 UTC): 2.8M 
+Volume in Currency (24Hr): 2.8M 
+Total Volume All Currencies (24Hr): 2.8M 
+Circulating Supply: 14.982M 
+Link: https://finance.yahoo.com/quote/FORTH-USD?p=FORTH-USD 
+
+Crypto name: Verge USD 
+Price: 0.002730 
+Change: +0.000005 
+%Change: +0.19% 
+Market Cap: 45.087M 
+Volume in Currency (Since 0:00 UTC): 421,935 
+Volume in Currency (24Hr): 421,935 
+Total Volume All Currencies (24Hr): 421,935 
+Circulating Supply: 16.515B 
+Link: https://finance.yahoo.com/quote/XVG-USD?p=XVG-USD 
+
+Crypto name: Uquid Coin USD 
+Price: 4.4663 
+Change: +0.0725 
+%Change: +1.65% 
+Market Cap: 44.663M 
+Volume in Currency (Since 0:00 UTC): 2.162M 
+Volume in Currency (24Hr): 2.162M 
+Total Volume All Currencies (24Hr): 2.162M 
+Circulating Supply: 10M 
+Link: https://finance.yahoo.com/quote/UQC-USD?p=UQC-USD 
+
+Crypto name: DODO USD 
+Price: 0.103814 
+Change: -0.000091 
+%Change: -0.09% 
+Market Cap: 44.503M 
+Volume in Currency (Since 0:00 UTC): 4.484M 
+Volume in Currency (24Hr): 4.484M 
+Total Volume All Currencies (24Hr): 4.484M 
+Circulating Supply: 428.68M 
+Link: https://finance.yahoo.com/quote/DODO-USD?p=DODO-USD 
+
+Crypto name: Battle World USD 
+Price: 0.704905 
+Change: +0.020064 
+%Change: +2.93% 
+Market Cap: 44.346M 
+Volume in Currency (Since 0:00 UTC): 1.551M 
+Volume in Currency (24Hr): 1.551M 
+Total Volume All Currencies (24Hr): 1.551M 
+Circulating Supply: 62.91M 
+Link: https://finance.yahoo.com/quote/BWO-USD?p=BWO-USD 
+
+Crypto name: Dawn Protocol USD 
+Price: 0.587966 
+Change: -0.005552 
+%Change: -0.94% 
+Market Cap: 43.782M 
+Volume in Currency (Since 0:00 UTC): 1.786M 
+Volume in Currency (24Hr): 1.786M 
+Total Volume All Currencies (24Hr): 1.786M 
+Circulating Supply: 74.464M 
+Link: https://finance.yahoo.com/quote/DAWN-USD?p=DAWN-USD 
+
+Crypto name: Adshares USD 
+Price: 1.2704 
+Change: -0.0137 
+%Change: -1.07% 
+Market Cap: 43.476M 
+Volume in Currency (Since 0:00 UTC): 704,915 
+Volume in Currency (24Hr): 704,915 
+Total Volume All Currencies (24Hr): 704,915 
+Circulating Supply: 34.223M 
+Link: https://finance.yahoo.com/quote/ADS-USD?p=ADS-USD 
+
+Crypto name: Ark USD 
+Price: 0.254541 
+Change: -0.003276 
+%Change: -1.27% 
+Market Cap: 43.215M 
+Volume in Currency (Since 0:00 UTC): 3.189M 
+Volume in Currency (24Hr): 3.189M 
+Total Volume All Currencies (24Hr): 3.189M 
+Circulating Supply: 169.777M 
+Link: https://finance.yahoo.com/quote/ARK-USD?p=ARK-USD 
+
+Crypto name: Celo Dollar USD 
+Price: 0.998195 
+Change: +0.002594 
+%Change: +0.26% 
+Market Cap: 43.162M 
+Volume in Currency (Since 0:00 UTC): 1.164M 
+Volume in Currency (24Hr): 1.164M 
+Total Volume All Currencies (24Hr): 1.164M 
+Circulating Supply: 43.24M 
+Link: https://finance.yahoo.com/quote/CUSD-USD?p=CUSD-USD 
+
+Crypto name: Saitama USD 
+Price: 0.001115 
+Change: -0.000002 
+%Change: -0.17% 
+Market Cap: 43.026M 
+Volume in Currency (Since 0:00 UTC): 641,058 
+Volume in Currency (24Hr): 641,058 
+Total Volume All Currencies (24Hr): 641,058 
+Circulating Supply: 38.606B 
+Link: https://finance.yahoo.com/quote/SAITAMA20513-USD?p=SAITAMA20513-USD 
+
+Crypto name: Efinity Token USD 
+Price: 0.075347 
+Change: -0.000463 
+%Change: -0.61% 
+Market Cap: 42.46M 
+Volume in Currency (Since 0:00 UTC): 579,604 
+Volume in Currency (24Hr): 579,604 
+Total Volume All Currencies (24Hr): 579,604 
+Circulating Supply: 563.526M 
+Link: https://finance.yahoo.com/quote/EFI-USD?p=EFI-USD 
+
+Crypto name: Beta Finance USD 
+Price: 0.068703 
+Change: -0.000313 
+%Change: -0.45% 
+Market Cap: 42.367M 
+Volume in Currency (Since 0:00 UTC): 8.672M 
+Volume in Currency (24Hr): 8.672M 
+Total Volume All Currencies (24Hr): 8.672M 
+Circulating Supply: 616.667M 
+Link: https://finance.yahoo.com/quote/BETA-USD?p=BETA-USD 
+
+Crypto name: WhiteCoin USD 
+Price: 0.055378 
+Change: -0.000303 
+%Change: -0.54% 
+Market Cap: 42.217M 
+Volume in Currency (Since 0:00 UTC): 706,699 
+Volume in Currency (24Hr): 706,699 
+Total Volume All Currencies (24Hr): 706,699 
+Circulating Supply: 762.351M 
+Link: https://finance.yahoo.com/quote/XWC-USD?p=XWC-USD 
+
+Crypto name: Alien Worlds USD 
+Price: 0.012694 
+Change: +0.000025 
+%Change: +0.20% 
+Market Cap: 42.087M 
+Volume in Currency (Since 0:00 UTC): 2.726M 
+Volume in Currency (24Hr): 2.726M 
+Total Volume All Currencies (24Hr): 2.726M 
+Circulating Supply: 3.315B 
+Link: https://finance.yahoo.com/quote/TLM-USD?p=TLM-USD 
+
+Crypto name: Aergo USD 
+Price: 0.097045 
+Change: -0.000840 
+%Change: -0.86% 
+Market Cap: 41.729M 
+Volume in Currency (Since 0:00 UTC): 2.098M 
+Volume in Currency (24Hr): 2.098M 
+Total Volume All Currencies (24Hr): 2.098M 
+Circulating Supply: 430M 
+Link: https://finance.yahoo.com/quote/AERGO-USD?p=AERGO-USD 
+
+Crypto name: XCAD Network USD 
+Price: 1.2127 
+Change: +0.0286 
+%Change: +2.41% 
+Market Cap: 41.656M 
+Volume in Currency (Since 0:00 UTC): 1.353M 
+Volume in Currency (24Hr): 1.353M 
+Total Volume All Currencies (24Hr): 1.353M 
+Circulating Supply: 34.351M 
+Link: https://finance.yahoo.com/quote/XCAD-USD?p=XCAD-USD 
+
+Crypto name: Chainbing USD 
+Price: 1.2607 
+Change: -0.3430 
+%Change: -21.39% 
+Market Cap: 41.604M 
+Volume in Currency (Since 0:00 UTC): 3,352 
+Volume in Currency (24Hr): 3,352 
+Total Volume All Currencies (24Hr): 3,352 
+Circulating Supply: 33M 
+Link: https://finance.yahoo.com/quote/CBG-USD?p=CBG-USD 
+
+Crypto name: VeThor Token USD 
+Price: 0.000910 
+Change: +0.000007 
+%Change: +0.78% 
+Market Cap: 41.527M 
+Volume in Currency (Since 0:00 UTC): 724,899 
+Volume in Currency (24Hr): 724,899 
+Total Volume All Currencies (24Hr): 724,899 
+Circulating Supply: 45.63B 
+Link: https://finance.yahoo.com/quote/VTHO-USD?p=VTHO-USD 
+
+Crypto name: RSK Infrastructure Framework USD 
+Price: 0.044287 
+Change: +0.002117 
+%Change: +5.02% 
+Market Cap: 41.337M 
+Volume in Currency (Since 0:00 UTC): 1.074M 
+Volume in Currency (24Hr): 1.074M 
+Total Volume All Currencies (24Hr): 1.074M 
+Circulating Supply: 933.4M 
+Link: https://finance.yahoo.com/quote/RIF-USD?p=RIF-USD 
+
+Crypto name: MARBLEX USD 
+Price: 1.1432 
+Change: -0.0309 
+%Change: -2.63% 
+Market Cap: 41.259M 
+Volume in Currency (Since 0:00 UTC): 860,158 
+Volume in Currency (24Hr): 860,158 
+Total Volume All Currencies (24Hr): 860,158 
+Circulating Supply: 36.092M 
+Link: https://finance.yahoo.com/quote/MBX18895-USD?p=MBX18895-USD 
+
+Crypto name: Alchemy Pay USD 
+Price: 0.008097 
+Change: -0.000366 
+%Change: -4.32% 
+Market Cap: 41.151M 
+Volume in Currency (Since 0:00 UTC): 8.965M 
+Volume in Currency (24Hr): 8.965M 
+Total Volume All Currencies (24Hr): 8.965M 
+Circulating Supply: 5.082B 
+Link: https://finance.yahoo.com/quote/ACH-USD?p=ACH-USD 
+
+Crypto name: Moonriver USD 
+Price: 6.9242 
+Change: -0.1561 
+%Change: -2.20% 
+Market Cap: 40.967M 
+Volume in Currency (Since 0:00 UTC): 2.163M 
+Volume in Currency (24Hr): 2.163M 
+Total Volume All Currencies (24Hr): 2.163M 
+Circulating Supply: 5.916M 
+Link: https://finance.yahoo.com/quote/MOVR-USD?p=MOVR-USD 
+
+Crypto name: mStable USD USD 
+Price: 0.994568 
+Change: 0.000000 
+%Change: 0.00% 
+Market Cap: 40.863M 
+Volume in Currency (Since 0:00 UTC): 199,926 
+Volume in Currency (24Hr): 199,926 
+Total Volume All Currencies (24Hr): 199,926 
+Circulating Supply: 41.086M 
+Link: https://finance.yahoo.com/quote/MUSD-USD?p=MUSD-USD 
+
+Crypto name: StormX USD 
+Price: 0.004058 
+Change: -0.000032 
+%Change: -0.79% 
+Market Cap: 40.582M 
+Volume in Currency (Since 0:00 UTC): 1.481M 
+Volume in Currency (24Hr): 1.481M 
+Total Volume All Currencies (24Hr): 1.481M 
+Circulating Supply: 10B 
+Link: https://finance.yahoo.com/quote/STMX-USD?p=STMX-USD 
+
+Crypto name: ASD USD 
+Price: 0.060948 
+Change: +0.000081 
+%Change: +0.13% 
+Market Cap: 40.263M 
+Volume in Currency (Since 0:00 UTC): 1.868M 
+Volume in Currency (24Hr): 1.868M 
+Total Volume All Currencies (24Hr): 1.868M 
+Circulating Supply: 660.615M 
+Link: https://finance.yahoo.com/quote/ASD-USD?p=ASD-USD 
+
+Crypto name: Enzyme USD 
+Price: 19.23 
+Change: -0.04 
+%Change: -0.19% 
+Market Cap: 39.193M 
+Volume in Currency (Since 0:00 UTC): 545,219 
+Volume in Currency (24Hr): 545,219 
+Total Volume All Currencies (24Hr): 545,219 
+Circulating Supply: 2.039M 
+Link: https://finance.yahoo.com/quote/MLN-USD?p=MLN-USD 
+
+Crypto name: Serum USD 
+Price: 0.148741 
+Change: -0.004143 
+%Change: -2.71% 
+Market Cap: 39.155M 
+Volume in Currency (Since 0:00 UTC): 6.011M 
+Volume in Currency (24Hr): 6.011M 
+Total Volume All Currencies (24Hr): 6.011M 
+Circulating Supply: 263.245M 
+Link: https://finance.yahoo.com/quote/SRM-USD?p=SRM-USD 
+
+Crypto name: Seedify.fund USD 
+Price: 0.860736 
+Change: -0.023888 
+%Change: -2.70% 
+Market Cap: 39.07M 
+Volume in Currency (Since 0:00 UTC): 2.618M 
+Volume in Currency (24Hr): 2.618M 
+Total Volume All Currencies (24Hr): 2.618M 
+Circulating Supply: 45.392M 
+Link: https://finance.yahoo.com/quote/SFUND-USD?p=SFUND-USD 
+
+Crypto name: Utrust USD 
+Price: 0.078124 
+Change: +0.001296 
+%Change: +1.69% 
+Market Cap: 39.062M 
+Volume in Currency (Since 0:00 UTC): 2.437M 
+Volume in Currency (24Hr): 2.437M 
+Total Volume All Currencies (24Hr): 2.437M 
+Circulating Supply: 500M 
+Link: https://finance.yahoo.com/quote/UTK-USD?p=UTK-USD 
+
+Crypto name: Electroneum USD 
+Price: 0.002157 
+Change: +0.000041 
+%Change: +1.92% 
+Market Cap: 38.688M 
+Volume in Currency (Since 0:00 UTC): 23,487 
+Volume in Currency (24Hr): 23,487 
+Total Volume All Currencies (24Hr): 23,487 
+Circulating Supply: 17.936B 
+Link: https://finance.yahoo.com/quote/ETN-USD?p=ETN-USD 
+
+Crypto name: SOMESING USD 
+Price: 0.014175 
+Change: -0.000131 
+%Change: -0.92% 
+Market Cap: 38.518M 
+Volume in Currency (Since 0:00 UTC): 362,279 
